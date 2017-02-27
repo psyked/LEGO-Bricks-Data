@@ -1,0 +1,32 @@
+[
+    {
+        "Category": "Bricks",
+        "Colour Family": "Blue",
+        "Design ID": "3004",
+        "Element ID": "6004943",
+        "Exact Colour": "Dark azur",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6004943_s8?$PABspin$",
+        "Name": "BRICK 1X2",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks",
+        "Colour Family": "Blue",
+        "Design ID": "3001",
+        "Element ID": "4655172",
+        "Exact Colour": "Dark azur",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4655172_s8?$PABspin$",
+        "Name": "BRICK 2X4",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Plates",
+        "Colour Family": "Blue",
+        "Design ID": "3023",
+        "Element ID": "4653988",
+        "Exact Colour": "Dark azur",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4653988_s8?$PABspin$",
+        "Name": "PLATE 1X2",
+        "Price": "£0.06"
+    }
+]

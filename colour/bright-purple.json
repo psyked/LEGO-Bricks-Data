@@ -1,0 +1,82 @@
+[
+    {
+        "Category": "Bricks",
+        "Colour Family": "Purple",
+        "Design ID": "3004",
+        "Element ID": "4621545",
+        "Exact Colour": "Bright purple",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4621545_s8?$PABspin$",
+        "Name": "BRICK 1X2",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks",
+        "Colour Family": "Purple",
+        "Design ID": "3622",
+        "Element ID": "4618655",
+        "Exact Colour": "Bright purple",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4618655_s8?$PABspin$",
+        "Name": "BRICK 1X3",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks",
+        "Colour Family": "Purple",
+        "Design ID": "3010",
+        "Element ID": "4621542",
+        "Exact Colour": "Bright purple",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4621542_s8?$PABspin$",
+        "Name": "BRICK 1X4",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks",
+        "Colour Family": "Purple",
+        "Design ID": "3003",
+        "Element ID": "4517992",
+        "Exact Colour": "Bright purple",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4517992_s8?$PABspin$",
+        "Name": "BRICK 2X2",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks with bows and arches",
+        "Colour Family": "Purple",
+        "Design ID": "6091",
+        "Element ID": "6056413",
+        "Exact Colour": "Bright purple",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6056413_s8?$PABspin$",
+        "Name": "BRICK W. ARCH 1X1X1 1/3",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Plates",
+        "Colour Family": "Purple",
+        "Design ID": "3069",
+        "Element ID": "6056381",
+        "Exact Colour": "Bright purple",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6056381_s8?$PABspin$",
+        "Name": "FLAT TILE 1X2",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Plates",
+        "Colour Family": "Purple",
+        "Design ID": "3068",
+        "Element ID": "6054406",
+        "Exact Colour": "Bright purple",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6054406_s8?$PABspin$",
+        "Name": "FLAT TILE 2X2",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Plates",
+        "Colour Family": "Purple",
+        "Design ID": "3023",
+        "Element ID": "6057387",
+        "Exact Colour": "Bright purple",
+        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6057387_s8?$PABspin$",
+        "Name": "PLATE 1X2",
+        "Price": "£0.06"
+    }
+]
