@@ -6,6 +6,7 @@ Useful for... whatever you can think of.
  - `category/{x}.json`: bricks, grouped by their category
  - `colour/{x}.json`: bricks, grouped by their exact colour
  - `lego-sets.json`: the 1,883 LEGO sets available through the official website
+ - `replacement-bricks-from-sets.json`: 159,272 bricks available as replacement parts for sets from the official LEGO website
  
 # Properties
 For each brick we have the following properties:
