@@ -1,0 +1,50 @@
+{
+  "Product": {
+    "ProductNo": "7523",
+    "ProductName": "Hip Hair Set",
+    "ItemNo": "4244788",
+    "Asset": "/images/shop/prod/7523-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4222956,
+      "ItemDescr": "ICON: STAR, SMALL - POLISHED",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR. BR. RED. LI",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4222956.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 46285,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4240179,
+      "ItemDescr": "COMB 2X4 WITH  4 HOLES",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR. RED-LILAC",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4240179.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 51034,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

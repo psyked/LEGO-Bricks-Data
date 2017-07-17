@@ -1,0 +1,50 @@
+{
+  "Product": {
+    "ProductNo": "7524",
+    "ProductName": "Glamour Girl Purse",
+    "ItemNo": "4263419",
+    "Asset": "/images/shop/prod/7524-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4197657,
+      "ItemDescr": "ICON: HEART, SMALL - POLISHED",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR.ML.R.VIOL",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4197657.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 46277,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4197610,
+      "ItemDescr": "ICON: HEART, SMALL",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "LGH. PURPLE",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4197610.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 45450,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

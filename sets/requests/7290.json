@@ -1,0 +1,69 @@
+{
+  "Product": {
+    "ProductNo": "7290",
+    "ProductName": "Captain Kragg  in Barrel",
+    "ItemNo": "4219358",
+    "Asset": "/images/shop/prod/7290-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4106513,
+      "ItemDescr": "BAT",
+      "ColourLikeDescr": "Black",
+      "ColourDescr": "BLACK",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/4106513.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": 0.31,
+      "CId": "GBP",
+      "SQty": 2101,
+      "DesignId": 30103,
+      "PriceStr": "GBP 0.31",
+      "PriceWithTaxStr": "GBP 0.31",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 409526,
+      "ItemDescr": "STANDARD Ø3.18 X 53",
+      "ColourLikeDescr": "Black",
+      "ColourDescr": "BLACK",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/409526.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": -146,
+      "DesignId": 4095,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4113210,
+      "ItemDescr": "FINGER LEAF",
+      "ColourLikeDescr": "",
+      "ColourDescr": "DK.GREEN",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/4113210.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 30239,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

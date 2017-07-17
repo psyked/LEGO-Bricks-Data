@@ -1,0 +1,69 @@
+{
+  "Product": {
+    "ProductNo": "7504",
+    "ProductName": "Friendship Frame or Mirror",
+    "ItemNo": "4199284",
+    "Asset": "/images/shop/prod/7504-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4197652,
+      "ItemDescr": "FRAME 3X3 HOLES",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR.ML.R.VIOL",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4197652.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 45493,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4197664,
+      "ItemDescr": "BASE: LOCK, 10MM - POLISHED",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR.ML.R.VIOL",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4197664.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 46296,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4197610,
+      "ItemDescr": "ICON: HEART, SMALL",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "LGH. PURPLE",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4197610.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 45450,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

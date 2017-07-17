@@ -1,0 +1,31 @@
+{
+  "Product": {
+    "ProductNo": "10111",
+    "ProductName": "Foliferous Tree H64",
+    "ItemNo": "4174607",
+    "Asset": "/images/shop/prod/10111-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 347028,
+      "ItemDescr": "FOULIIFEROUS TREE H64",
+      "ColourLikeDescr": "",
+      "ColourDescr": "DK.GREEN",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/347028.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": -1,
+      "DesignId": 3470,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

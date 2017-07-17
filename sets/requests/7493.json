@@ -1,0 +1,69 @@
+{
+  "Product": {
+    "ProductNo": "7493",
+    "ProductName": "Sporty",
+    "ItemNo": "4221327",
+    "Asset": "/images/shop/prod/7493-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 343724,
+      "ItemDescr": "DUPLO BRICK 2X2",
+      "ColourLikeDescr": "Yellow",
+      "ColourDescr": "BR.YEL",
+      "MaingroupDescr": "Bricks",
+      "Asset": "/media/bricks/5/2/343724.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": 0.54,
+      "CId": "GBP",
+      "SQty": 2077,
+      "DesignId": 3437,
+      "PriceStr": "GBP 0.54",
+      "PriceWithTaxStr": "GBP 0.54",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 301124,
+      "ItemDescr": "DUPLO BRICK 2X4",
+      "ColourLikeDescr": "Yellow",
+      "ColourDescr": "BR.YEL",
+      "MaingroupDescr": "Bricks",
+      "Asset": "/media/bricks/5/2/301124.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": 0.84,
+      "CId": "GBP",
+      "SQty": 1422,
+      "DesignId": 3011,
+      "PriceStr": "GBP 0.84",
+      "PriceWithTaxStr": "GBP 0.84",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4159527,
+      "ItemDescr": "DUPLO BRICK 2X2",
+      "ColourLikeDescr": "",
+      "ColourDescr": "BR.ORANGE",
+      "MaingroupDescr": "Bricks",
+      "Asset": "/media/bricks/5/2/4159527.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": 0.54,
+      "CId": "GBP",
+      "SQty": 1646,
+      "DesignId": 3437,
+      "PriceStr": "GBP 0.54",
+      "PriceWithTaxStr": "GBP 0.54",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

@@ -1,0 +1,31 @@
+{
+  "Product": {
+    "ProductNo": "7289",
+    "ProductName": "Captain Redbeard in Box",
+    "ItemNo": "4219357",
+    "Asset": "/images/shop/prod/7289-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4183019,
+      "ItemDescr": "PARROT",
+      "ColourLikeDescr": "Green",
+      "ColourDescr": "MD.GREEN",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/4183019.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 2546,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

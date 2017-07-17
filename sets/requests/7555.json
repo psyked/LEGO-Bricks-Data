@@ -1,0 +1,69 @@
+{
+  "Product": {
+    "ProductNo": "7555",
+    "ProductName": "Glitter & Sparkle Beauty Kit",
+    "ItemNo": "4281272",
+    "Asset": "/images/shop/prod/7555-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4259761,
+      "ItemDescr": "RING Ø14,7 - POLISHED",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR.ML.R.VIOL",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4259761.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 51686,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4222956,
+      "ItemDescr": "ICON: STAR, SMALL - POLISHED",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR. BR. RED. LI",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4222956.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 46285,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4200250,
+      "ItemDescr": "BASE: STAR, SMALL - POLISHED",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR. BR. RED. LI",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4200250.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 46286,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

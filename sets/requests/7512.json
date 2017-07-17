@@ -1,0 +1,31 @@
+{
+  "Product": {
+    "ProductNo": "7512",
+    "ProductName": "Trendy Totes Sky Blue",
+    "ItemNo": "4219456",
+    "Asset": "/images/shop/prod/7512-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4197679,
+      "ItemDescr": "ICON: STAR, SMALL",
+      "ColourLikeDescr": "Blue",
+      "ColourDescr": "L.BLUE-GREEN",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4197679.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 45463,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

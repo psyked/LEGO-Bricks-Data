@@ -1,0 +1,69 @@
+{
+  "Product": {
+    "ProductNo": "7349",
+    "ProductName": "Figure Set Male",
+    "ItemNo": "4219351",
+    "Asset": "/images/shop/prod/7349-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4251356,
+      "ItemDescr": "FIGURE NO. 4 - W/POLICEHELMET",
+      "ColourLikeDescr": "Black",
+      "ColourDescr": "BLACK",
+      "MaingroupDescr": "Bricks",
+      "Asset": "/media/bricks/5/2/4251356.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 47562,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4208135,
+      "ItemDescr": "FIGURE NO. 2 - JOHN UP",
+      "ColourLikeDescr": "",
+      "ColourDescr": "BR.ORANGE",
+      "MaingroupDescr": "Bricks",
+      "Asset": "/media/bricks/5/2/4208135.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 47202,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4207545,
+      "ItemDescr": "DUPLO FIXED KEY 2X5X1",
+      "ColourLikeDescr": "",
+      "ColourDescr": "SILVER",
+      "MaingroupDescr": "Bricks",
+      "Asset": "/media/bricks/5/2/4207545.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 47509,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

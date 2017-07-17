@@ -1,0 +1,31 @@
+{
+  "Product": {
+    "ProductNo": "10051",
+    "ProductName": "Small Windows (1x2)",
+    "ItemNo": "4174371",
+    "Asset": "/images/shop/prod/10051-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 306540,
+      "ItemDescr": "BRICK 1X2 WITHOUT PIN",
+      "ColourLikeDescr": "White",
+      "ColourDescr": "TR.",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/306540.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": 0.12,
+      "CId": "GBP",
+      "SQty": 1578,
+      "DesignId": 3065,
+      "PriceStr": "GBP 0.12",
+      "PriceWithTaxStr": "GBP 0.12",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

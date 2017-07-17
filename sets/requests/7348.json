@@ -1,0 +1,69 @@
+{
+  "Product": {
+    "ProductNo": "7348",
+    "ProductName": "Figure Set Female",
+    "ItemNo": "4219350",
+    "Asset": "/images/shop/prod/7348-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4168595,
+      "ItemDescr": "DUPLO GIFT BOX",
+      "ColourLikeDescr": "Blue",
+      "ColourDescr": "MD.BLUE",
+      "MaingroupDescr": "Bricks",
+      "Asset": "/media/bricks/5/2/4168595.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 31284,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4208136,
+      "ItemDescr": "FIGURE NO. 1 - GRANDMOTHER WIG",
+      "ColourLikeDescr": "",
+      "ColourDescr": "SAND GREEN",
+      "MaingroupDescr": "Bricks",
+      "Asset": "/media/bricks/5/2/4208136.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 47554,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4215036,
+      "ItemDescr": "FIGURE NO. 2 - W/PAGE HAIR",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "LGH. LILAC",
+      "MaingroupDescr": "Bricks",
+      "Asset": "/media/bricks/5/2/4215036.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 47575,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

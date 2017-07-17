@@ -1,0 +1,69 @@
+{
+  "Product": {
+    "ProductNo": "10045",
+    "ProductName": "Bridge Elements",
+    "ItemNo": "4174365",
+    "Asset": "/images/shop/prod/10045-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4142884,
+      "ItemDescr": "LATTICE 2X16X1.2/3",
+      "ColourLikeDescr": "Black",
+      "ColourDescr": "BLACK",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/4/2/4142884.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 30518,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4142861,
+      "ItemDescr": "LATTICE TOWER 2X2X10",
+      "ColourLikeDescr": "Black",
+      "ColourDescr": "BLACK",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/4142861.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 30517,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4141769,
+      "ItemDescr": "PLATE 2X10",
+      "ColourLikeDescr": "Grey",
+      "ColourDescr": "DK.GREY",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/4141769.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 3832,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

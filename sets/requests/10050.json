@@ -1,0 +1,50 @@
+{
+  "Product": {
+    "ProductNo": "10050",
+    "ProductName": "Grey Fences",
+    "ItemNo": "4174370",
+    "Asset": "/images/shop/prod/10050-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 318502,
+      "ItemDescr": "FENCE 1X4X2",
+      "ColourLikeDescr": "Grey",
+      "ColourDescr": "GREY",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/318502.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 3185,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 658302,
+      "ItemDescr": "HAND RAIL 1.5X6X2",
+      "ColourLikeDescr": "Grey",
+      "ColourDescr": "GREY",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/658302.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 6583,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

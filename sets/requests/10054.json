@@ -1,0 +1,50 @@
+{
+  "Product": {
+    "ProductNo": "10054",
+    "ProductName": "Black Roof Tiles 25 (2x3-3x4)",
+    "ItemNo": "4174374",
+    "Asset": "/images/shop/prod/10054-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 329726,
+      "ItemDescr": "ROOF TILE 3X4/25°",
+      "ColourLikeDescr": "Black",
+      "ColourDescr": "BLACK",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/329726.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": 0.31,
+      "CId": "GBP",
+      "SQty": 748,
+      "DesignId": 3297,
+      "PriceStr": "GBP 0.31",
+      "PriceWithTaxStr": "GBP 0.31",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 329826,
+      "ItemDescr": "ROOF TILE 2X3/25°",
+      "ColourLikeDescr": "Black",
+      "ColourDescr": "BLACK",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/329826.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": 0.14,
+      "CId": "GBP",
+      "SQty": 806,
+      "DesignId": 3298,
+      "PriceStr": "GBP 0.14",
+      "PriceWithTaxStr": "GBP 0.14",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

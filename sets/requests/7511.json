@@ -1,0 +1,50 @@
+{
+  "Product": {
+    "ProductNo": "7511",
+    "ProductName": "Trendy Totes Tangerine",
+    "ItemNo": "4197114",
+    "Asset": "/images/shop/prod/7511-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4197664,
+      "ItemDescr": "BASE: LOCK, 10MM - POLISHED",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR.ML.R.VIOL",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4197664.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 46296,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4200134,
+      "ItemDescr": "ICON: DAISY, LARGE - POLISHED",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR.ML.R.VIOL",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4200134.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 46281,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

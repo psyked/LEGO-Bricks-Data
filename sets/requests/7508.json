@@ -1,0 +1,50 @@
+{
+  "Product": {
+    "ProductNo": "7508",
+    "ProductName": "Jewels-n-Bands",
+    "ItemNo": "4283039",
+    "Asset": "/images/shop/prod/7508-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4197941,
+      "ItemDescr": "BASE: LOCK, 10MM - POLISHED",
+      "ColourLikeDescr": "White",
+      "ColourDescr": "TR.",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4197941.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 46296,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 4200397,
+      "ItemDescr": "ICON: DAISY, SMALL - POLISHED",
+      "ColourLikeDescr": "Orange-brown",
+      "ColourDescr": "TR. FL. YEL ORA",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4200397.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 46282,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

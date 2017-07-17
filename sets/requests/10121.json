@@ -1,0 +1,31 @@
+{
+  "Product": {
+    "ProductNo": "10121",
+    "ProductName": "Make your own NBA Team",
+    "ItemNo": "4215677",
+    "Asset": "/images/shop/prod/10121-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4186831,
+      "ItemDescr": "BASKET BALL W. DECO. NO LOGO",
+      "ColourLikeDescr": "",
+      "ColourDescr": "BR.ORANGE",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/4/2/4186831.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 45530,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

@@ -1,0 +1,31 @@
+{
+  "Product": {
+    "ProductNo": "7510",
+    "ProductName": "Trendy Totes Pink",
+    "ItemNo": "4219454",
+    "Asset": "/images/shop/prod/7510-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4200593,
+      "ItemDescr": "ICON: ROUND CURVED, 9MM",
+      "ColourLikeDescr": "Yellow",
+      "ColourDescr": "TR. LGH. BL. GR",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4200593.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 45474,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

@@ -1,0 +1,69 @@
+{
+  "Product": {
+    "ProductNo": "7080",
+    "ProductName": "Scurvy Dog and Crocodile",
+    "ItemNo": "4225653",
+    "Asset": "/images/shop/prod/7080-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 602728,
+      "ItemDescr": "UPPER JAW",
+      "ColourLikeDescr": "",
+      "ColourDescr": "DK.GREEN",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/602728.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 6027,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 602828,
+      "ItemDescr": "TAIL",
+      "ColourLikeDescr": "",
+      "ColourDescr": "DK.GREEN",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/602828.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 6028,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 602628,
+      "ItemDescr": "CROCODILE, BODY",
+      "ColourLikeDescr": "",
+      "ColourDescr": "DK.GREEN",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/602628.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 6026,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

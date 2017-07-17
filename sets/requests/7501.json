@@ -1,0 +1,31 @@
+{
+  "Product": {
+    "ProductNo": "7501",
+    "ProductName": "Bangle Minis",
+    "ItemNo": "4219446",
+    "Asset": "/images/shop/prod/7501-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 4198499,
+      "ItemDescr": "BASE: LOCK, 10MM - POLISHED",
+      "ColourLikeDescr": "Purple",
+      "ColourDescr": "TR. BR. PURPLE",
+      "MaingroupDescr": "Bricks, Special Ø4.85 Hole And Connecting Bush",
+      "Asset": "/media/bricks/4/2/4198499.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 46296,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}

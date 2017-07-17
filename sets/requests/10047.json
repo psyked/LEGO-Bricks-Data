@@ -1,0 +1,50 @@
+{
+  "Product": {
+    "ProductNo": "10047",
+    "ProductName": "Arch, Grey 1x5x4",
+    "ItemNo": "4174367",
+    "Asset": "/images/shop/prod/10047-0000-xx-12-1.jpg"
+  },
+  "Bricks": [
+    {
+      "ItemNo": 233902,
+      "ItemDescr": "BRICK W. BOW 1X5X4",
+      "ColourLikeDescr": "Grey",
+      "ColourDescr": "GREY",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/233902.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 2339,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    },
+    {
+      "ItemNo": 371002,
+      "ItemDescr": "PLATE 1X4",
+      "ColourLikeDescr": "Grey",
+      "ColourDescr": "GREY",
+      "MaingroupDescr": "Bricks, Special",
+      "Asset": "/media/bricks/5/2/371002.jpg",
+      "MaxQty": 200,
+      "Ip": false,
+      "Price": -1,
+      "CId": "GBP",
+      "SQty": 0,
+      "DesignId": 3710,
+      "PriceStr": "",
+      "PriceWithTaxStr": "",
+      "ItemUnavailable": false,
+      "UnavailableLink": null,
+      "UnavailableReason": null
+    }
+  ],
+  "ImageBaseUrl": "https://lc-www-live-s.legocdn.com",
+  "UnAvailableInformation": null
+}
