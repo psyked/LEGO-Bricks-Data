@@ -1,91 +1,69 @@
 [
     {
         "Category": "Figure accessories in hand",
-        "Colour Family": "Red",
-        "Design ID": "95343",
-        "Element ID": "6003001",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6003001_s8?$PABspin$",
-        "Name": "BUCKET",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "95343",
-        "Element ID": "4626196",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4626196_s8?$PABspin$",
-        "Name": "BUCKET",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Grey",
-        "Design ID": "95343",
-        "Element ID": "6057487",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6057487_s8?$PABspin$",
-        "Name": "BUCKET",
-        "Price": "£0.10"
+        "Colour Family": "White",
+        "Design ID": "30002",
+        "Element ID": "3000240",
+        "Exact Colour": "TR.",
+        "Name": "CUP WITHOUT WREATH - TR",
+        "Price": "£0.11"
     },
     {
         "Category": "Figure accessories in hand",
         "Colour Family": "Black",
         "Design ID": "30089",
         "Element ID": "4106552",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4106552_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "CAMERA",
-        "Price": "£0.18"
+        "Price": "£0.16"
     },
     {
         "Category": "Figure accessories in hand",
-        "Colour Family": "Black",
-        "Design ID": "4360",
-        "Element ID": "436026",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/436026_s8?$PABspin$",
-        "Name": "CAMERA",
-        "Price": "£0.31"
+        "Colour Family": "Yellow",
+        "Design ID": "30089",
+        "Element ID": "4243952",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "CAMERA"
     },
     {
         "Category": "Figure accessories in hand",
         "Colour Family": "Red",
-        "Design ID": "58176",
-        "Element ID": "4497943",
-        "Exact Colour": "Tr. red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4497943_s8?$PABspin$",
-        "Name": "COUPLE W. 3.2 STICK",
-        "Price": "£0.06"
+        "Design ID": "30089",
+        "Element ID": "6181718",
+        "Exact Colour": "BR.RED",
+        "Name": "CAMERA",
+        "Price": "£0.23"
     },
     {
         "Category": "Figure accessories in hand",
-        "Colour Family": "White",
-        "Design ID": "30002",
-        "Element ID": "3000240",
-        "Exact Colour": "Transparent",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/3000240_s8?$PABspin$",
-        "Name": "CUP WITHOUT WREATH - TR",
-        "Price": "£0.17"
+        "Design ID": "30089",
+        "Element ID": "6185108",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "CAMERA"
     },
     {
         "Category": "Figure accessories in hand",
-        "Colour Family": "White",
+        "Colour Family": "Red",
         "Design ID": "30153",
-        "Element ID": "4248937",
-        "Exact Colour": "Transparent",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4248937_s8?$PABspin$",
+        "Element ID": "4113954",
+        "Exact Colour": "TR.RED",
         "Name": "DIAMOND WITH STICK",
         "Price": "£0.08"
     },
     {
         "Category": "Figure accessories in hand",
+        "Design ID": "30153",
+        "Element ID": "4113955",
+        "Exact Colour": "TR.GREEN",
+        "Name": "DIAMOND WITH STICK",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Figure accessories in hand",
         "Colour Family": "Yellow",
         "Design ID": "30153",
-        "Element ID": "4128576",
-        "Exact Colour": "Tr. yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4128576_s8?$PABspin$",
+        "Element ID": "4114505",
+        "Exact Colour": "TR.FL.GREEN",
         "Name": "DIAMOND WITH STICK",
         "Price": "£0.08"
     },
@@ -94,279 +72,853 @@
         "Colour Family": "Blue",
         "Design ID": "30153",
         "Element ID": "4119482",
-        "Exact Colour": "Tr. light blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4119482_s8?$PABspin$",
+        "Exact Colour": "TR.L.BLUE",
         "Name": "DIAMOND WITH STICK",
-        "Price": "£0.08"
+        "Price": "£0.07"
     },
     {
         "Category": "Figure accessories in hand",
-        "Colour Family": "Red",
+        "Colour Family": "Blue",
         "Design ID": "30153",
-        "Element ID": "4113954",
-        "Exact Colour": "Tr. red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4113954_s8?$PABspin$",
+        "Element ID": "4119483",
+        "Exact Colour": "TR.BLUE",
+        "Name": "DIAMOND WITH STICK",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "30153",
+        "Element ID": "4128574",
+        "Exact Colour": "TR.FL.REDORA",
+        "Name": "DIAMOND WITH STICK"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Yellow",
+        "Design ID": "30153",
+        "Element ID": "4128576",
+        "Exact Colour": "TR.YEL",
         "Name": "DIAMOND WITH STICK",
         "Price": "£0.08"
     },
     {
         "Category": "Figure accessories in hand",
         "Colour Family": "Purple",
-        "Design ID": "6256",
-        "Element ID": "4618629",
-        "Exact Colour": "Light purple",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4618629_s8?$PABspin$",
-        "Name": "DISH Ø24",
-        "Price": "£0.17"
+        "Design ID": "30153",
+        "Element ID": "4129917",
+        "Exact Colour": "TR.ML.R.VIOL",
+        "Name": "DIAMOND WITH STICK",
+        "Price": "£0.08"
     },
     {
         "Category": "Figure accessories in hand",
-        "Colour Family": "Bright Orange",
-        "Design ID": "58176",
-        "Element ID": "4524365",
-        "Exact Colour": "Tr. bright orange",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4524365_s8?$PABspin$",
-        "Name": "GLOBE W. 3.2 STICK",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Black",
-        "Design ID": "4522",
-        "Element ID": "452226",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/452226_s8?$PABspin$",
-        "Name": "HAMMER",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Black",
-        "Design ID": "4349",
-        "Element ID": "434926",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/434926_s8?$PABspin$",
-        "Name": "MEGAPHONE",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "3836",
-        "Element ID": "4211157",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211157_s8?$PABspin$",
-        "Name": "MINI BROOM",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Red",
-        "Design ID": "92585",
-        "Element ID": "4599453",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4599453_s8?$PABspin$",
-        "Name": "MINI FIGURE CROWBAR",
-        "Price": "£0.12"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Black",
-        "Design ID": "3835",
-        "Element ID": "383526",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/383526_s8?$PABspin$",
-        "Name": "MINI FIREMAN'S AXE",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "87585",
-        "Element ID": "4609635",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4609635_s8?$PABspin$",
-        "Name": "MINI OAR",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Grey",
-        "Design ID": "3841",
-        "Element ID": "4211007",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211007_s8?$PABspin$",
-        "Name": "MINI PICKAXE",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Grey",
-        "Design ID": "3837",
-        "Element ID": "4211006",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211006_s8?$PABspin$",
-        "Name": "MINI SHOVEL",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "4449",
-        "Element ID": "4211235",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211235_s8?$PABspin$",
-        "Name": "MINI SUITCASE",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Black",
-        "Design ID": "4449",
-        "Element ID": "4154853",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4154853_s8?$PABspin$",
-        "Name": "MINI SUITCASE",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Yellow",
-        "Design ID": "3899",
-        "Element ID": "389924",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/389924_s8?$PABspin$",
-        "Name": "MUG",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Red",
-        "Design ID": "3899",
-        "Element ID": "389921",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/389921_s8?$PABspin$",
-        "Name": "MUG",
-        "Price": "£0.06"
+        "Colour Family": "Blue",
+        "Design ID": "30153",
+        "Element ID": "4143491",
+        "Exact Colour": "TR.FL. BLUE",
+        "Name": "DIAMOND WITH STICK"
     },
     {
         "Category": "Figure accessories in hand",
         "Colour Family": "White",
-        "Design ID": "3899",
-        "Element ID": "4659665",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4659665_s8?$PABspin$",
-        "Name": "MUG",
-        "Price": "£0.06"
+        "Design ID": "30153",
+        "Element ID": "4248937",
+        "Exact Colour": "TR.",
+        "Name": "DIAMOND WITH STICK",
+        "Price": "£0.08"
     },
     {
         "Category": "Figure accessories in hand",
-        "Colour Family": "Black",
-        "Design ID": "60849",
-        "Element ID": "4537551",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4537551_s8?$PABspin$",
-        "Name": "NOZZLE W/Ø3.18, SHAFT",
+        "Design ID": "30153",
+        "Element ID": "4552237",
+        "Exact Colour": "TR. BR. ORANGE",
+        "Name": "DIAMOND WITH STICK"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "30153",
+        "Element ID": "6103301",
+        "Exact Colour": "TR.KL.BL.VIO",
+        "Name": "DIAMOND WITH STICK",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "30153",
+        "Element ID": "6147054",
+        "Exact Colour": "TR. BR. GREEN",
+        "Name": "DIAMOND WITH STICK",
         "Price": "£0.10"
     },
     {
         "Category": "Figure accessories in hand",
         "Colour Family": "Grey",
-        "Design ID": "60849",
-        "Element ID": "4514195",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4514195_s8?$PABspin$",
-        "Name": "NOZZLE W/Ø3.18, SHAFT",
-        "Price": "£0.10"
+        "Design ID": "30162",
+        "Element ID": "4109923",
+        "Exact Colour": "DK.GREY",
+        "Name": "PRISMATIC BINOCULARS"
     },
     {
         "Category": "Figure accessories in hand",
-        "Colour Family": "Black",
-        "Design ID": "4528",
-        "Element ID": "452826",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/452826_s8?$PABspin$",
-        "Name": "PAN",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Black",
-        "Design ID": "4529",
-        "Element ID": "452926",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/452926_s8?$PABspin$",
-        "Name": "POT",
-        "Price": "£0.13"
+        "Colour Family": "Grey",
+        "Design ID": "30162",
+        "Element ID": "4190283",
+        "Exact Colour": "GREY",
+        "Name": "PRISMATIC BINOCULARS"
     },
     {
         "Category": "Figure accessories in hand",
         "Colour Family": "Grey",
         "Design ID": "30162",
         "Element ID": "4211051",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211051_s8?$PABspin$",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "PRISMATIC BINOCULARS"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "30162",
+        "Element ID": "4550170",
+        "Exact Colour": "MED. ST-GREY",
         "Name": "PRISMATIC BINOCULARS",
-        "Price": "£0.08"
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "30162",
+        "Element ID": "6034543",
+        "Exact Colour": "W.GOLD",
+        "Name": "PRISMATIC BINOCULARS",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "3835",
+        "Element ID": "383502",
+        "Exact Colour": "GREY",
+        "Name": "MINI FIREMAN'S AXE"
     },
     {
         "Category": "Figure accessories in hand",
         "Colour Family": "Black",
-        "Design ID": "4006",
-        "Element ID": "400626",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/400626_s8?$PABspin$",
-        "Name": "SCREWDRIVER/SPANNER",
-        "Price": "£0.06"
+        "Design ID": "3835",
+        "Element ID": "383526",
+        "Exact Colour": "BLACK",
+        "Name": "MINI FIREMAN'S AXE",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "3835",
+        "Element ID": "4211463",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI FIREMAN'S AXE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Orange-brown",
+        "Design ID": "3836",
+        "Element ID": "383625",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "MINI BROOM"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "3836",
+        "Element ID": "4211157",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI BROOM",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "3837",
+        "Element ID": "383727",
+        "Exact Colour": "DK.GREY",
+        "Name": "MINI SHOVEL"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Black",
+        "Design ID": "3837",
+        "Element ID": "4189009",
+        "Exact Colour": "BLACK",
+        "Name": "MINI SHOVEL",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "3837",
+        "Element ID": "4211006",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI SHOVEL",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "3841",
+        "Element ID": "384127",
+        "Exact Colour": "DK.GREY",
+        "Name": "MINI PICKAXE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "3841",
+        "Element ID": "4211007",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI PICKAXE",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "3841",
+        "Element ID": "4600316",
+        "Exact Colour": "W.GOLD",
+        "Name": "MINI PICKAXE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Red",
+        "Design ID": "3899",
+        "Element ID": "389921",
+        "Exact Colour": "BR.RED",
+        "Name": "MUG",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Blue",
+        "Design ID": "3899",
+        "Element ID": "389923",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MUG"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Yellow",
+        "Design ID": "3899",
+        "Element ID": "389924",
+        "Exact Colour": "BR.YEL",
+        "Name": "MUG",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Purple",
+        "Design ID": "3899",
+        "Element ID": "4618670",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "MUG",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "White",
+        "Design ID": "3899",
+        "Element ID": "4659665",
+        "Exact Colour": "WHITE",
+        "Name": "MUG",
+        "Price": "£0.12"
     },
     {
         "Category": "Figure accessories in hand",
         "Colour Family": "White",
         "Design ID": "3900",
         "Element ID": "390001",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/390001_s8?$PABspin$",
+        "Exact Colour": "WHITE",
         "Name": "SIGN - STOP",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Figure accessories in hand",
-        "Colour Family": "Dark Green",
-        "Design ID": "64644",
-        "Element ID": "4649065",
-        "Exact Colour": "Sand green",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4649065_s8?$PABspin$",
-        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE",
-        "Price": "£0.13"
+        "Price": "£0.11"
     },
     {
         "Category": "Figure accessories in hand",
         "Colour Family": "Grey",
-        "Design ID": "64644",
-        "Element ID": "4657366",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4657366_s8?$PABspin$",
-        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE",
+        "Design ID": "3900",
+        "Element ID": "4166550",
+        "Exact Colour": "GREY",
+        "Name": "SIGN - STOP"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "3900",
+        "Element ID": "4211753",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "SIGN - STOP",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Yellow",
+        "Design ID": "3900",
+        "Element ID": "4656811",
+        "Exact Colour": "BR.YEL",
+        "Name": "SIGN - STOP"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Black",
+        "Design ID": "4006",
+        "Element ID": "400626",
+        "Exact Colour": "BLACK",
+        "Name": "SCREWDRIVER/SPANNER",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "4006",
+        "Element ID": "6167576",
+        "Exact Colour": "SILVER MET.",
+        "Name": "SCREWDRIVER/SPANNER",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Blue",
+        "Design ID": "4349",
+        "Element ID": "4111858",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MEGAPHONE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "4349",
+        "Element ID": "4143006",
+        "Exact Colour": "DK.GREY",
+        "Name": "MEGAPHONE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "4349",
+        "Element ID": "4210698",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MEGAPHONE",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Red",
+        "Design ID": "4349",
+        "Element ID": "434921",
+        "Exact Colour": "BR.RED",
+        "Name": "MEGAPHONE",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Black",
+        "Design ID": "4349",
+        "Element ID": "434926",
+        "Exact Colour": "BLACK",
+        "Name": "MEGAPHONE",
         "Price": "£0.13"
     },
     {
         "Category": "Figure accessories in hand",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "64644",
-        "Element ID": "4538950",
-        "Exact Colour": "Dark brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4538950_s8?$PABspin$",
-        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE",
+        "Colour Family": "Black",
+        "Design ID": "4360",
+        "Element ID": "436026",
+        "Exact Colour": "BLACK",
+        "Name": "CAMERA",
+        "Price": "£0.47"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Black",
+        "Design ID": "4449",
+        "Element ID": "4154853",
+        "Exact Colour": "BLACK",
+        "Name": "MINI SUITCASE",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "4449",
+        "Element ID": "4154857",
+        "Exact Colour": "GREY",
+        "Name": "MINI SUITCASE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "White",
+        "Design ID": "4449",
+        "Element ID": "4154858",
+        "Exact Colour": "WHITE",
+        "Name": "MINI SUITCASE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Blue",
+        "Design ID": "4449",
+        "Element ID": "4188551",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI SUITCASE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "4449",
+        "Element ID": "4211235",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI SUITCASE",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "4449",
+        "Element ID": "4211712",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI SUITCASE",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Yellow",
+        "Design ID": "4449",
+        "Element ID": "4233560",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI SUITCASE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "4449",
+        "Element ID": "4563718",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI SUITCASE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "4449",
+        "Element ID": "6060854",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI SUITCASE",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Purple",
+        "Design ID": "4449",
+        "Element ID": "6116295",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "MINI SUITCASE",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Black",
+        "Design ID": "4522",
+        "Element ID": "452226",
+        "Exact Colour": "BLACK",
+        "Name": "HAMMER",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "4528",
+        "Element ID": "4274575",
+        "Exact Colour": "SILVER",
+        "Name": "PAN"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Black",
+        "Design ID": "4528",
+        "Element ID": "452826",
+        "Exact Colour": "BLACK",
+        "Name": "PAN",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "4528",
+        "Element ID": "4624615",
+        "Exact Colour": "SILVER MET.",
+        "Name": "PAN",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "4528",
+        "Element ID": "6138068",
+        "Exact Colour": "W.GOLD",
+        "Name": "PAN",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Black",
+        "Design ID": "4529",
+        "Element ID": "452926",
+        "Exact Colour": "BLACK",
+        "Name": "POT",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "White",
+        "Design ID": "4529",
+        "Element ID": "4623660",
+        "Exact Colour": "WHITE",
+        "Name": "POT",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Red",
+        "Design ID": "58176",
+        "Element ID": "4497943",
+        "Exact Colour": "TR.RED",
+        "Name": "COUPLE W. 3.2 STICK",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Blue",
+        "Design ID": "58176",
+        "Element ID": "4497952",
+        "Exact Colour": "TR.BLUE",
+        "Name": "COUPLE W. 3.2 STICK",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "58176",
+        "Element ID": "4524365",
+        "Exact Colour": "TR. BR. ORANGE",
+        "Name": "GLOBE W. 3.2 STICK",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Yellow",
+        "Design ID": "58176",
+        "Element ID": "4539499",
+        "Exact Colour": "TR.YEL",
+        "Name": "GLOBE W. 3.2 STICK"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "58176",
+        "Element ID": "4570481",
+        "Exact Colour": "TR. BR. GREEN",
+        "Name": "GLOBE W. 3.2 STICK",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "White",
+        "Design ID": "58176",
+        "Element ID": "4623199",
+        "Exact Colour": "WHITE",
+        "Name": "GLOBE W. 3.2 STICK",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Blue",
+        "Design ID": "58176",
+        "Element ID": "6006124",
+        "Exact Colour": "TR.FL. BLUE",
+        "Name": "GLOBE W. 3.2 STICK",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "58176",
+        "Element ID": "6030198",
+        "Exact Colour": "SILVER MET.",
+        "Name": "GLOBE W. 3.2 STICK",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Blue",
+        "Design ID": "58176",
+        "Element ID": "6081343",
+        "Exact Colour": "TR.L.BLUE",
+        "Name": "GLOBE W. 3.2 STICK",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Purple",
+        "Design ID": "58176",
+        "Element ID": "6177526",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "GLOBE W. 3.2 STICK",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Yellow",
+        "Design ID": "60849",
+        "Element ID": "4514194",
+        "Exact Colour": "BR.YEL",
+        "Name": "NOZZLE W/Ø3.18, SHAFT"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "60849",
+        "Element ID": "4514195",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "NOZZLE W/Ø3.18, SHAFT",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Black",
+        "Design ID": "60849",
+        "Element ID": "4537551",
+        "Exact Colour": "BLACK",
+        "Name": "NOZZLE W/Ø3.18, SHAFT",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "White",
+        "Design ID": "60849",
+        "Element ID": "6101931",
+        "Exact Colour": "WHITE",
+        "Name": "NOZZLE W/Ø3.18, SHAFT"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Yellow",
+        "Design ID": "60849",
+        "Element ID": "6114982",
+        "Exact Colour": "BR.YEL",
+        "Name": "NOZZLE W/Ø3.18, SHAFT",
         "Price": "£0.13"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "60849",
+        "Element ID": "6167585",
+        "Exact Colour": "W.GOLD",
+        "Name": "NOZZLE W/Ø3.18, SHAFT"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "White",
+        "Design ID": "6256",
+        "Element ID": "4107621",
+        "Exact Colour": "WHITE",
+        "Name": "DISH Ø24"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "6256",
+        "Element ID": "4120235",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "DISH Ø24"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Purple",
+        "Design ID": "6256",
+        "Element ID": "4163871",
+        "Exact Colour": "L.REDVIOL",
+        "Name": "DISH Ø24"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Yellow",
+        "Design ID": "6256",
+        "Element ID": "4243920",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "DISH Ø24",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Purple",
+        "Design ID": "6256",
+        "Element ID": "4618629",
+        "Exact Colour": "LGH. PURPLE",
+        "Name": "DISH Ø24",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Purple",
+        "Design ID": "6256",
+        "Element ID": "6173002",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "DISH Ø24",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Yellow",
+        "Design ID": "6256",
+        "Element ID": "6173824",
+        "Exact Colour": "BR.YEL",
+        "Name": "DISH Ø24",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Blue",
+        "Design ID": "6256",
+        "Element ID": "625623",
+        "Exact Colour": "BR.BLUE",
+        "Name": "DISH Ø24"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "64644",
+        "Element ID": "4538126",
+        "Exact Colour": "W.GOLD",
+        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE",
+        "Price": "£0.11"
     },
     {
         "Category": "Figure accessories in hand",
         "Colour Family": "Black",
         "Design ID": "64644",
         "Element ID": "4538456",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4538456_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "64644",
+        "Element ID": "4538950",
+        "Exact Colour": "DK. BROWN",
+        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "64644",
+        "Element ID": "4551262",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "64644",
+        "Element ID": "4618184",
+        "Exact Colour": "SILVER MET.",
+        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "64644",
+        "Element ID": "4649065",
+        "Exact Colour": "SAND GREEN",
+        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "64644",
+        "Element ID": "4657366",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "64644",
+        "Element ID": "6060850",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "White",
+        "Design ID": "64644",
+        "Element ID": "6070327",
+        "Exact Colour": "WHITE",
+        "Name": "STICK Ø3.2 2MM W/KNOB AND TUBE",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "White",
+        "Design ID": "87585",
+        "Element ID": "4570403",
+        "Exact Colour": "WHITE",
+        "Name": "MINI OAR"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "87585",
+        "Element ID": "4609635",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI OAR",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Red",
+        "Design ID": "92585",
+        "Element ID": "4599453",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI FIGURE CROWBAR",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "92585",
+        "Element ID": "6056774",
+        "Exact Colour": "W.GOLD",
+        "Name": "MINI FIGURE CROWBAR",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Blue",
+        "Design ID": "92585",
+        "Element ID": "6116798",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI FIGURE CROWBAR"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Black",
+        "Design ID": "92585",
+        "Element ID": "6186698",
+        "Exact Colour": "BLACK",
+        "Name": "MINI FIGURE CROWBAR"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Design ID": "95343",
+        "Element ID": "4626196",
+        "Exact Colour": "RED. BROWN",
+        "Name": "BUCKET",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Red",
+        "Design ID": "95343",
+        "Element ID": "6003001",
+        "Exact Colour": "BR.RED",
+        "Name": "BUCKET",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure accessories in hand",
+        "Colour Family": "Grey",
+        "Design ID": "95343",
+        "Element ID": "6057487",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "BUCKET",
         "Price": "£0.13"
     }
 ]

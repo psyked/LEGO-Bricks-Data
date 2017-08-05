@@ -1,22 +1,400 @@
 [
     {
+        "Category": "Bricks With Special Bows And Angles",
+        "Colour Family": "Yellow",
+        "Design ID": "13516",
+        "Element ID": "6030250",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI HEAD  \"NO.933\"",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks With Special Bows And Angles",
+        "Design ID": "15589",
+        "Element ID": "6051546",
+        "Exact Colour": "GOLD INK",
+        "Name": "BRICK 2X4 \"NO. 1000\""
+    },
+    {
         "Category": "Bricks with special bows and angles",
-        "Colour Family": "Black",
-        "Design ID": "41748",
-        "Element ID": "4160130",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4160130_s8?$PABspin$",
-        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE",
-        "Price": "£0.26"
+        "Colour Family": "White",
+        "Design ID": "41747",
+        "Element ID": "4160101",
+        "Exact Colour": "WHITE",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.34"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Grey",
+        "Design ID": "41747",
+        "Element ID": "4160103",
+        "Exact Colour": "GREY",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41747",
+        "Element ID": "4160104",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Red",
+        "Design ID": "41747",
+        "Element ID": "4160105",
+        "Exact Colour": "BR.RED",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41747",
+        "Element ID": "4160106",
+        "Exact Colour": "BR.BLUE",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE"
     },
     {
         "Category": "Bricks with special bows and angles",
         "Colour Family": "Black",
         "Design ID": "41747",
         "Element ID": "4160108",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4160108_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE",
-        "Price": "£0.26"
+        "Price": "£0.34"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Grey",
+        "Design ID": "41747",
+        "Element ID": "4160109",
+        "Exact Colour": "DK.GREY",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41747",
+        "Element ID": "4160110",
+        "Exact Colour": "DK.GREEN",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41747",
+        "Element ID": "4160113",
+        "Exact Colour": "MD.BLUE",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41747",
+        "Element ID": "4162716",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Red",
+        "Design ID": "41747",
+        "Element ID": "4163457",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Orange-brown",
+        "Design ID": "41747",
+        "Element ID": "4163759",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41747",
+        "Element ID": "4165654",
+        "Exact Colour": "SAND BLUE",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41747",
+        "Element ID": "4169342",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, RIGHT"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Grey",
+        "Design ID": "41747",
+        "Element ID": "4212007",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Yellow",
+        "Design ID": "41747",
+        "Element ID": "4271084",
+        "Exact Colour": "BR.YEL",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.38"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41747",
+        "Element ID": "4276003",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Yellow",
+        "Design ID": "41747",
+        "Element ID": "4525866",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41747",
+        "Element ID": "4538167",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41747",
+        "Element ID": "4582987",
+        "Exact Colour": "DK.ORA",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41747",
+        "Element ID": "4613278",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Grey",
+        "Design ID": "41747",
+        "Element ID": "6063685",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.37"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41747",
+        "Element ID": "6151670",
+        "Exact Colour": "DARK AZUR",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.38"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41747",
+        "Element ID": "6189187",
+        "Exact Colour": "BR.BLUE",
+        "Name": "RIGHT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "White",
+        "Design ID": "41748",
+        "Element ID": "4160124",
+        "Exact Colour": "WHITE",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.34"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Grey",
+        "Design ID": "41748",
+        "Element ID": "4160125",
+        "Exact Colour": "GREY",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41748",
+        "Element ID": "4160126",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Red",
+        "Design ID": "41748",
+        "Element ID": "4160127",
+        "Exact Colour": "BR.RED",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41748",
+        "Element ID": "4160128",
+        "Exact Colour": "BR.BLUE",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Black",
+        "Design ID": "41748",
+        "Element ID": "4160130",
+        "Exact Colour": "BLACK",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.34"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Grey",
+        "Design ID": "41748",
+        "Element ID": "4160132",
+        "Exact Colour": "DK.GREY",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41748",
+        "Element ID": "4160133",
+        "Exact Colour": "DK.GREEN",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41748",
+        "Element ID": "4160137",
+        "Exact Colour": "MD.BLUE",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41748",
+        "Element ID": "4162717",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Red",
+        "Design ID": "41748",
+        "Element ID": "4163459",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Orange-brown",
+        "Design ID": "41748",
+        "Element ID": "4163761",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41748",
+        "Element ID": "4165655",
+        "Exact Colour": "SAND BLUE",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41748",
+        "Element ID": "4169345",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "SHELL 2X6 W/BOW/ANGLE, L."
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Grey",
+        "Design ID": "41748",
+        "Element ID": "4212008",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Yellow",
+        "Design ID": "41748",
+        "Element ID": "4271087",
+        "Exact Colour": "BR.YEL",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.37"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41748",
+        "Element ID": "4276005",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Yellow",
+        "Design ID": "41748",
+        "Element ID": "4525867",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41748",
+        "Element ID": "4538168",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41748",
+        "Element ID": "4582984",
+        "Exact Colour": "DK.ORA",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Design ID": "41748",
+        "Element ID": "4613279",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.37"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Grey",
+        "Design ID": "41748",
+        "Element ID": "6063681",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.37"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41748",
+        "Element ID": "6151672",
+        "Exact Colour": "DARK AZUR",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE",
+        "Price": "£0.37"
+    },
+    {
+        "Category": "Bricks with special bows and angles",
+        "Colour Family": "Blue",
+        "Design ID": "41748",
+        "Element ID": "6189186",
+        "Exact Colour": "BR.BLUE",
+        "Name": "LEFT SHELL 2X6 W/BOW/ANGLE"
     }
 ]

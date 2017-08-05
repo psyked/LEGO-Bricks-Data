@@ -1,22 +1,68 @@
 [
     {
         "Category": "Functional elements, gear wheels and racks",
+        "Colour Family": "Grey",
+        "Design ID": "32270",
+        "Element ID": "4141454",
+        "Exact Colour": "GREY",
+        "Name": "DOUBLE CONICAL WHEEL Z12 1M"
+    },
+    {
+        "Category": "Functional elements, gear wheels and racks",
+        "Design ID": "32270",
+        "Element ID": "4144370",
+        "Exact Colour": "DK.GREEN",
+        "Name": "DOUBLE CONICAL WHEEL Z12 1M"
+    },
+    {
+        "Category": "Functional elements, gear wheels and racks",
         "Colour Family": "Black",
         "Design ID": "32270",
         "Element ID": "4177431",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4177431_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "DOUBLE CONICAL WHEEL Z12 1M",
-        "Price": "£0.16"
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Functional elements, gear wheels and racks",
+        "Colour Family": "Grey",
+        "Design ID": "32270",
+        "Element ID": "4211634",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "DOUBLE CONICAL WHEEL Z12 1M"
     },
     {
         "Category": "Functional elements, gear wheels and racks",
         "Colour Family": "Grey",
         "Design ID": "4716",
         "Element ID": "4211510",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211510_s8?$PABspin$",
+        "Exact Colour": "MED. ST-GREY",
         "Name": "WORM",
-        "Price": "£0.36"
+        "Price": "£0.53"
+    },
+    {
+        "Category": "Functional elements, gear wheels and racks",
+        "Colour Family": "Grey",
+        "Design ID": "4716",
+        "Element ID": "471602",
+        "Exact Colour": "GREY",
+        "Name": "WORM"
+    },
+    {
+        "Category": "Functional elements, gear wheels and racks",
+        "Colour Family": "Black",
+        "Design ID": "4716",
+        "Element ID": "471626",
+        "Exact Colour": "BLACK",
+        "Name": "WORM"
+    },
+    {
+        "Category": "Functional elements, gear wheels and racks",
+        "Colour Family": "Black",
+        "Design ID": "4716",
+        "Element ID": "6037533",
+        "Exact Colour": "BLACK",
+        "Name": "WORM",
+        "Price": "£0.53"
     }
 ]

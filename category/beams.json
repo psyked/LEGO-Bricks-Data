@@ -1,202 +1,1338 @@
 [
     {
         "Category": "Beams",
-        "Colour Family": "Black",
-        "Design ID": "60484",
-        "Element ID": "4552347",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4552347_s8?$PABspin$",
-        "Name": "T-BEAM 3X3 W/HOLE Ø4.8",
-        "Price": "£0.19"
+        "Design ID": "32278",
+        "Element ID": "4141733",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TECHNIC 15M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32278",
+        "Element ID": "4141734",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "TECHNIC 15M BEAM"
     },
     {
         "Category": "Beams",
         "Colour Family": "Grey",
-        "Design ID": "64290",
-        "Element ID": "4603472",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4603472_s8?$PABspin$",
-        "Name": "TECHNIC 11M BEAM",
-        "Price": "£0.24"
+        "Design ID": "32278",
+        "Element ID": "4142292",
+        "Exact Colour": "DK.GREY",
+        "Name": "TECHNIC 15M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32278",
+        "Element ID": "4144299",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TECHNIC 15M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "32278",
+        "Element ID": "4163147",
+        "Exact Colour": "BR.RED",
+        "Name": "TECHNIC 15M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32278",
+        "Element ID": "4163802",
+        "Exact Colour": "DK.GREEN",
+        "Name": "TECHNIC 15M BEAM"
     },
     {
         "Category": "Beams",
         "Colour Family": "Grey",
-        "Design ID": "41239",
-        "Element ID": "4522937",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4522937_s8?$PABspin$",
-        "Name": "TECHNIC 13M BEAM",
-        "Price": "£0.29"
+        "Design ID": "32278",
+        "Element ID": "4172457",
+        "Exact Colour": "GREY",
+        "Name": "TECHNIC 15M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32278",
+        "Element ID": "4200922",
+        "Exact Colour": "SILVER",
+        "Name": "TECHNIC 15M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Orange-brown",
+        "Design ID": "32278",
+        "Element ID": "4201006",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "TECHNIC 15M BEAM"
     },
     {
         "Category": "Beams",
         "Colour Family": "Grey",
-        "Design ID": "64871",
-        "Element ID": "4542576",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4542576_s8?$PABspin$",
-        "Name": "TECHNIC 15M BEAM",
-        "Price": "£0.31"
-    },
-    {
-        "Category": "Beams",
-        "Colour Family": "Black",
-        "Design ID": "43857",
-        "Element ID": "4177444",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4177444_s8?$PABspin$",
-        "Name": "TECHNIC 2M BEAM",
-        "Price": "£0.06"
+        "Design ID": "32278",
+        "Element ID": "4210687",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "TECHNIC 15M BEAM"
     },
     {
         "Category": "Beams",
         "Colour Family": "Grey",
-        "Design ID": "43857",
-        "Element ID": "4211862",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211862_s8?$PABspin$",
-        "Name": "TECHNIC 2M BEAM",
-        "Price": "£0.06"
+        "Design ID": "32278",
+        "Element ID": "4211770",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TECHNIC 15M BEAM"
     },
     {
         "Category": "Beams",
-        "Colour Family": "Black",
-        "Design ID": "32523",
-        "Element ID": "4142822",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4142822_s8?$PABspin$",
-        "Name": "TECHNIC 3M BEAM",
-        "Price": "£0.08"
+        "Colour Family": "Grey",
+        "Design ID": "32278",
+        "Element ID": "4227469",
+        "Exact Colour": "MET.DK.GREY",
+        "Name": "TECHNIC 15M BEAM"
     },
     {
         "Category": "Beams",
-        "Colour Family": "White",
+        "Colour Family": "Yellow",
+        "Design ID": "32278",
+        "Element ID": "4237445",
+        "Exact Colour": "BR.YEL",
+        "Name": "TECHNIC 15M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
         "Design ID": "32316",
-        "Element ID": "4249021",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4249021_s8?$PABspin$",
+        "Element ID": "4142132",
+        "Exact Colour": "BR.RED",
         "Name": "TECHNIC 5M BEAM",
-        "Price": "£0.14"
+        "Price": "£0.23"
     },
     {
         "Category": "Beams",
-        "Colour Family": "Grey",
+        "Colour Family": "Yellow",
         "Design ID": "32316",
-        "Element ID": "4211651",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211651_s8?$PABspin$",
+        "Element ID": "4142133",
+        "Exact Colour": "BR.YEL",
         "Name": "TECHNIC 5M BEAM",
-        "Price": "£0.14"
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32316",
+        "Element ID": "4142134",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TECHNIC 5M BEAM",
+        "Price": "£0.23"
     },
     {
         "Category": "Beams",
         "Colour Family": "Black",
         "Design ID": "32316",
         "Element ID": "4142135",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4142135_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "TECHNIC 5M BEAM",
-        "Price": "£0.14"
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32316",
+        "Element ID": "4142136",
+        "Exact Colour": "DK.GREY",
+        "Name": "TECHNIC 5M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32316",
+        "Element ID": "4210591",
+        "Exact Colour": "SILVER",
+        "Name": "TECHNIC 5M BEAM"
     },
     {
         "Category": "Beams",
         "Colour Family": "Grey",
         "Design ID": "32316",
         "Element ID": "4210686",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4210686_s8?$PABspin$",
+        "Exact Colour": "DK. ST. GREY",
         "Name": "TECHNIC 5M BEAM",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32316",
+        "Element ID": "4211651",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TECHNIC 5M BEAM",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32316",
+        "Element ID": "4227073",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "TECHNIC 5M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "32316",
+        "Element ID": "4248239",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "TECHNIC 5M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "White",
+        "Design ID": "32316",
+        "Element ID": "4249021",
+        "Exact Colour": "WHITE",
+        "Name": "TECHNIC 5M BEAM",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32316",
+        "Element ID": "4661486",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "TECHNIC 5M BEAM",
+        "Price": "£0.29"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32316",
+        "Element ID": "6097393",
+        "Exact Colour": "BR.GREEN",
+        "Name": "TECHNIC 5M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32316",
+        "Element ID": "6143014",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TECHNIC 5M BEAM",
+        "Price": "£0.30"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32316",
+        "Element ID": "6176425",
+        "Exact Colour": "MD.BLUE",
+        "Name": "TECHNIC 5M BEAM",
+        "Price": "£0.29"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32316",
+        "Element ID": "6179636",
+        "Exact Colour": "RED. BROWN",
+        "Name": "TECHNIC 5M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32316",
+        "Element ID": "6179651",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "TECHNIC 5M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32523",
+        "Element ID": "4142599",
+        "Exact Colour": "GREY",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Black",
+        "Design ID": "32523",
+        "Element ID": "4142822",
+        "Exact Colour": "BLACK",
+        "Name": "TECHNIC 3M BEAM",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "32523",
+        "Element ID": "4153707",
+        "Exact Colour": "BR.YEL",
+        "Name": "TECHNIC 3M BEAM",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "32523",
+        "Element ID": "4153718",
+        "Exact Colour": "BR.RED",
+        "Name": "TECHNIC 3M BEAM",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32523",
+        "Element ID": "4154621",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32523",
+        "Element ID": "4154759",
+        "Exact Colour": "DK.GREY",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32523",
+        "Element ID": "4158867",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Orange-brown",
+        "Design ID": "32523",
+        "Element ID": "4200261",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32523",
+        "Element ID": "4201554",
+        "Exact Colour": "SILVER",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "White",
+        "Design ID": "32523",
+        "Element ID": "4208160",
+        "Exact Colour": "WHITE",
+        "Name": "TECHNIC 3M BEAM",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32523",
+        "Element ID": "4210751",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "TECHNIC 3M BEAM",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32523",
+        "Element ID": "4211655",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TECHNIC 3M BEAM",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "32523",
+        "Element ID": "4247660",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32523",
+        "Element ID": "4247677",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32523",
+        "Element ID": "4247727",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Orange-brown",
+        "Design ID": "32523",
+        "Element ID": "4247766",
+        "Exact Colour": "BROWN",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "32523",
+        "Element ID": "4248238",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32523",
+        "Element ID": "4509376",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TECHNIC 3M BEAM",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32523",
+        "Element ID": "6007973",
+        "Exact Colour": "DK.GREEN",
+        "Name": "TECHNIC 3M BEAM",
         "Price": "£0.14"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32523",
+        "Element ID": "6102618",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TECHNIC 3M BEAM",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32523",
+        "Element ID": "6121726",
+        "Exact Colour": "RED. BROWN",
+        "Name": "TECHNIC 3M BEAM",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32523",
+        "Element ID": "6124173",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "TECHNIC 3M BEAM",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32523",
+        "Element ID": "6164393",
+        "Exact Colour": "MD.BLUE",
+        "Name": "TECHNIC 3M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32523",
+        "Element ID": "6170474",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "BEAM, 3 MODULE",
+        "Price": "£0.20"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32524",
+        "Element ID": "4143020",
+        "Exact Colour": "GREY",
+        "Name": "TECHNIC 7M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32524",
+        "Element ID": "4154760",
+        "Exact Colour": "DK.GREY",
+        "Name": "TECHNIC 7M BEAM"
     },
     {
         "Category": "Beams",
         "Colour Family": "Black",
         "Design ID": "32524",
-        "Element ID": "4495935",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4495935_s8?$PABspin$",
+        "Element ID": "4155458",
+        "Exact Colour": "BLACK",
+        "Name": "TECHNIC 7M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Orange-brown",
+        "Design ID": "32524",
+        "Element ID": "4175214",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "TECHNIC 7M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32524",
+        "Element ID": "4192384",
+        "Exact Colour": "SILVER",
+        "Name": "TECHNIC 7M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32524",
+        "Element ID": "4227470",
+        "Exact Colour": "MET.DK.GREY",
+        "Name": "TECHNIC 7M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "White",
+        "Design ID": "32524",
+        "Element ID": "4495927",
+        "Exact Colour": "WHITE",
         "Name": "TECHNIC 7M BEAM",
-        "Price": "£0.19"
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32524",
+        "Element ID": "4495928",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "TECHNIC 7M BEAM",
+        "Price": "£0.31"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32524",
+        "Element ID": "4495930",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TECHNIC 7M BEAM",
+        "Price": "£0.28"
     },
     {
         "Category": "Beams",
         "Colour Family": "Grey",
         "Design ID": "32524",
         "Element ID": "4495931",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4495931_s8?$PABspin$",
+        "Exact Colour": "DK. ST. GREY",
         "Name": "TECHNIC 7M BEAM",
-        "Price": "£0.19"
-    },
-    {
-        "Category": "Beams",
-        "Colour Family": "White",
-        "Design ID": "64289",
-        "Element ID": "6001831",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6001831_s8?$PABspin$",
-        "Name": "TECHNIC 9M BEAM",
-        "Price": "£0.29"
+        "Price": "£0.28"
     },
     {
         "Category": "Beams",
         "Colour Family": "Grey",
-        "Design ID": "64289",
-        "Element ID": "4645730",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4645730_s8?$PABspin$",
-        "Name": "TECHNIC 9M BEAM",
+        "Design ID": "32524",
+        "Element ID": "4495932",
+        "Exact Colour": "LGH. ST. GREY",
+        "Name": "TECHNIC 7M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "32524",
+        "Element ID": "4495933",
+        "Exact Colour": "BR.RED",
+        "Name": "TECHNIC 7M BEAM",
         "Price": "£0.29"
     },
     {
         "Category": "Beams",
-        "Colour Family": "Grey",
-        "Design ID": "64289",
-        "Element ID": "6102449",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6102449_s8?$PABspin$",
-        "Name": "TECHNIC 9M BEAM",
+        "Colour Family": "Yellow",
+        "Design ID": "32524",
+        "Element ID": "4495934",
+        "Exact Colour": "BR.YEL",
+        "Name": "TECHNIC 7M BEAM",
         "Price": "£0.29"
     },
     {
         "Category": "Beams",
-        "Colour Family": "Black",
-        "Design ID": "64289",
-        "Element ID": "4645732",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4645732_s8?$PABspin$",
-        "Name": "TECHNIC 9M BEAM",
+        "Colour Family": "Blue",
+        "Design ID": "32524",
+        "Element ID": "4506043",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TECHNIC 7M BEAM",
         "Price": "£0.29"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32524",
+        "Element ID": "6038628",
+        "Exact Colour": "DK.GREEN",
+        "Name": "TECHNIC 7M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32524",
+        "Element ID": "6097392",
+        "Exact Colour": "BR.GREEN",
+        "Name": "TECHNIC 7M BEAM",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32524",
+        "Element ID": "6102621",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TECHNIC 7M BEAM",
+        "Price": "£0.31"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32524",
+        "Element ID": "6133891",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "TECHNIC 7M BEAM",
+        "Price": "£0.34"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32524",
+        "Element ID": "6164394",
+        "Exact Colour": "MD.BLUE",
+        "Name": "TECHNIC 7M BEAM",
+        "Price": "£0.31"
     },
     {
         "Category": "Beams",
         "Colour Family": "Black",
         "Design ID": "32526",
         "Element ID": "4142823",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4142823_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "TECHNIC ANG. BEAM 3X5 90 DEG.",
-        "Price": "£0.19"
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "32526",
+        "Element ID": "4143154",
+        "Exact Colour": "BR.RED",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG.",
+        "Price": "£0.29"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "32526",
+        "Element ID": "4144022",
+        "Exact Colour": "BR.YEL",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG.",
+        "Price": "£0.29"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32526",
+        "Element ID": "4154958",
+        "Exact Colour": "GREY",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG."
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32526",
+        "Element ID": "4155459",
+        "Exact Colour": "DK.GREY",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG."
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32526",
+        "Element ID": "4158923",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG.",
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32526",
+        "Element ID": "4177435",
+        "Exact Colour": "SILVER",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG."
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "White",
+        "Design ID": "32526",
+        "Element ID": "4204714",
+        "Exact Colour": "WHITE",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG."
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Orange-brown",
+        "Design ID": "32526",
+        "Element ID": "4205826",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG."
     },
     {
         "Category": "Beams",
         "Colour Family": "Grey",
         "Design ID": "32526",
         "Element ID": "4210753",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4210753_s8?$PABspin$",
+        "Exact Colour": "DK. ST. GREY",
         "Name": "TECHNIC ANG. BEAM 3X5 90 DEG.",
-        "Price": "£0.19"
+        "Price": "£0.29"
     },
     {
         "Category": "Beams",
         "Colour Family": "Grey",
         "Design ID": "32526",
         "Element ID": "4211713",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211713_s8?$PABspin$",
+        "Exact Colour": "MED. ST-GREY",
         "Name": "TECHNIC ANG. BEAM 3X5 90 DEG.",
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "32526",
+        "Element ID": "4227485",
+        "Exact Colour": "MET.DK.GREY",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG."
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32526",
+        "Element ID": "4234421",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG."
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "White",
+        "Design ID": "32526",
+        "Element ID": "4585040",
+        "Exact Colour": "WHITE",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG.",
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32526",
+        "Element ID": "4651764",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG."
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32526",
+        "Element ID": "6013557",
+        "Exact Colour": "DK.GREEN",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG.",
+        "Price": "£0.47"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32526",
+        "Element ID": "6143015",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG.",
+        "Price": "£0.31"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "32526",
+        "Element ID": "6164392",
+        "Exact Colour": "MD.BLUE",
+        "Name": "TECHNIC ANG. BEAM 3X5 90 DEG.",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "32526",
+        "Element ID": "6170475",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ANGULAR BEAM 3X5, 90 DEG.",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "41239",
+        "Element ID": "4227601",
+        "Exact Colour": "SILVER",
+        "Name": "TECHNIC 13M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Black",
+        "Design ID": "41239",
+        "Element ID": "4522933",
+        "Exact Colour": "BLACK",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "41239",
+        "Element ID": "4522934",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "41239",
+        "Element ID": "4522935",
+        "Exact Colour": "BR.YEL",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.41"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "41239",
+        "Element ID": "4522937",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.41"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "41239",
+        "Element ID": "4522938",
+        "Exact Colour": "BR.RED",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.41"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "41239",
+        "Element ID": "4522939",
+        "Exact Colour": "LGH. ST. GREY",
+        "Name": "TECHNIC 13M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "White",
+        "Design ID": "41239",
+        "Element ID": "4620671",
+        "Exact Colour": "WHITE",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "41239",
+        "Element ID": "4629802",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.46"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "41239",
+        "Element ID": "6036632",
+        "Exact Colour": "DK.GREEN",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.48"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "41239",
+        "Element ID": "6063602",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.48"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "41239",
+        "Element ID": "6133901",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.43"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "41239",
+        "Element ID": "6171916",
+        "Exact Colour": "MD.BLUE",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.48"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "41239",
+        "Element ID": "6173125",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TECHNIC 13M BEAM",
+        "Price": "£0.44"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "White",
+        "Design ID": "41482",
+        "Element ID": "4157772",
+        "Exact Colour": "WHITE",
+        "Name": "TECHNIC 3M BEAM, PC"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "41482",
+        "Element ID": "4175935",
+        "Exact Colour": "MET.SAND.BLU",
+        "Name": "TECHNIC 3M BEAM, PC"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Black",
+        "Design ID": "43857",
+        "Element ID": "4177444",
+        "Exact Colour": "BLACK",
+        "Name": "TECHNIC 2M BEAM",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "43857",
+        "Element ID": "4185664",
+        "Exact Colour": "BR.RED",
+        "Name": "TECHNIC 2M BEAM",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "43857",
+        "Element ID": "4187122",
+        "Exact Colour": "BR.YEL",
+        "Name": "TECHNIC 2M BEAM",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "43857",
+        "Element ID": "4195272",
+        "Exact Colour": "GREY",
+        "Name": "TECHNIC 2M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Orange-brown",
+        "Design ID": "43857",
+        "Element ID": "4205832",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "TECHNIC 2M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "43857",
+        "Element ID": "4211862",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TECHNIC 2M BEAM",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "43857",
+        "Element ID": "4227476",
+        "Exact Colour": "MET.DK.GREY",
+        "Name": "TECHNIC 2M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "43857",
+        "Element ID": "4263119",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "TECHNIC 2M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "43857",
+        "Element ID": "6057802",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TECHNIC 2M BEAM",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Black",
+        "Design ID": "60484",
+        "Element ID": "4552347",
+        "Exact Colour": "BLACK",
+        "Name": "T-BEAM 3X3 W/HOLE Ø4.8",
         "Price": "£0.19"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "60484",
+        "Element ID": "4552348",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "T-BEAM 3X3 W/HOLE Ø4.8",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "60484",
+        "Element ID": "4552349",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "T-BEAM 3X3 W/HOLE Ø4.8",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "60484",
+        "Element ID": "6072627",
+        "Exact Colour": "BR.YEL",
+        "Name": "T-BEAM 3X3 W/HOLE Ø4.8",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "64289",
+        "Element ID": "4645730",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "TECHNIC 9M BEAM",
+        "Price": "£0.32"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Black",
+        "Design ID": "64289",
+        "Element ID": "4645732",
+        "Exact Colour": "BLACK",
+        "Name": "TECHNIC 9M BEAM",
+        "Price": "£0.31"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "64289",
+        "Element ID": "4645733",
+        "Exact Colour": "BR.RED",
+        "Name": "TECHNIC 9M BEAM",
+        "Price": "£0.32"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "White",
+        "Design ID": "64289",
+        "Element ID": "6001831",
+        "Exact Colour": "WHITE",
+        "Name": "TECHNIC 9M BEAM",
+        "Price": "£0.31"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "64289",
+        "Element ID": "6102449",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TECHNIC 9M BEAM",
+        "Price": "£0.31"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "64289",
+        "Element ID": "6115616",
+        "Exact Colour": "BR.YEL",
+        "Name": "TECHNIC 9M BEAM",
+        "Price": "£0.32"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "64289",
+        "Element ID": "6115617",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TECHNIC 9M BEAM",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "64289",
+        "Element ID": "6115618",
+        "Exact Colour": "DK.GREEN",
+        "Name": "TECHNIC 9M BEAM",
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "64289",
+        "Element ID": "6135086",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TECHNIC 9M BEAM",
+        "Price": "£0.36"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Black",
+        "Design ID": "64290",
+        "Element ID": "4534909",
+        "Exact Colour": "BLACK",
+        "Name": "MISENTRY"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "64290",
+        "Element ID": "4534910",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MISENTRY"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "64290",
+        "Element ID": "4534911",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MISENTRY"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "64290",
+        "Element ID": "4534912",
+        "Exact Colour": "BR.YEL",
+        "Name": "MISENTRY"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "64290",
+        "Element ID": "4534913",
+        "Exact Colour": "BR.RED",
+        "Name": "MISENTRY"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "64290",
+        "Element ID": "4534914",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MISENTRY"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "64290",
+        "Element ID": "4562805",
+        "Exact Colour": "BR.RED",
+        "Name": "TECHNIC 11M BEAM",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "64290",
+        "Element ID": "4603472",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "TECHNIC 11M BEAM",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "64290",
+        "Element ID": "4611705",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TECHNIC 11M BEAM",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "White",
+        "Design ID": "64290",
+        "Element ID": "6028103",
+        "Exact Colour": "WHITE",
+        "Name": "TECHNIC 11M BEAM",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "64290",
+        "Element ID": "6028106",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "TECHNIC 11M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "64290",
+        "Element ID": "6028107",
+        "Exact Colour": "BR.YEL",
+        "Name": "TECHNIC 11M BEAM",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Black",
+        "Design ID": "64290",
+        "Element ID": "6029578",
+        "Exact Colour": "BLACK",
+        "Name": "TECHNIC 11M BEAM",
+        "Price": "£0.34"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "64290",
+        "Element ID": "6057859",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TECHNIC 11M BEAM",
+        "Price": "£0.42"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "64290",
+        "Element ID": "6097390",
+        "Exact Colour": "BR.GREEN",
+        "Name": "TECHNIC 11M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "64290",
+        "Element ID": "6135085",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TECHNIC 11M BEAM",
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "64290",
+        "Element ID": "6151077",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "TECHNIC 11M BEAM",
+        "Price": "£0.43"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "64290",
+        "Element ID": "6167321",
+        "Exact Colour": "MD.BLUE",
+        "Name": "TECHNIC 11M BEAM",
+        "Price": "£0.42"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Black",
+        "Design ID": "64871",
+        "Element ID": "4542573",
+        "Exact Colour": "BLACK",
+        "Name": "TECHNIC 15M BEAM",
+        "Price": "£0.43"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "64871",
+        "Element ID": "4542574",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "TECHNIC 15M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Red",
+        "Design ID": "64871",
+        "Element ID": "4542575",
+        "Exact Colour": "BR.RED",
+        "Name": "TECHNIC 15M BEAM",
+        "Price": "£0.46"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "64871",
+        "Element ID": "4542576",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "TECHNIC 15M BEAM",
+        "Price": "£0.46"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "64871",
+        "Element ID": "4542577",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TECHNIC 15M BEAM",
+        "Price": "£0.44"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "White",
+        "Design ID": "64871",
+        "Element ID": "4542578",
+        "Exact Colour": "WHITE",
+        "Name": "TECHNIC 15M BEAM",
+        "Price": "£0.43"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Yellow",
+        "Design ID": "64871",
+        "Element ID": "4542579",
+        "Exact Colour": "BR.YEL",
+        "Name": "TECHNIC 15M BEAM",
+        "Price": "£0.46"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "64871",
+        "Element ID": "4545165",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "TECHNIC 15M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Grey",
+        "Design ID": "64871",
+        "Element ID": "4548305",
+        "Exact Colour": "LGH. ST. GREY",
+        "Name": "TECHNIC 15M BEAM"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "64871",
+        "Element ID": "6057799",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TECHNIC 15M BEAM",
+        "Price": "£0.68"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "64871",
+        "Element ID": "6135083",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TECHNIC 15M BEAM",
+        "Price": "£0.50"
+    },
+    {
+        "Category": "Beams",
+        "Colour Family": "Blue",
+        "Design ID": "64871",
+        "Element ID": "6151070",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "TECHNIC 15M BEAM",
+        "Price": "£0.55"
+    },
+    {
+        "Category": "Beams",
+        "Design ID": "64871",
+        "Element ID": "6179616",
+        "Exact Colour": "RED. BROWN",
+        "Name": "TECHNIC 15M BEAM"
     }
 ]

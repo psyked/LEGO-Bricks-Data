@@ -1,12 +1,61 @@
 [
     {
         "Category": "Crains and scaffold",
+        "Colour Family": "Grey",
+        "Design ID": "95347",
+        "Element ID": "4667462",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "LATTICE TOWER 2X2X10 W/CROSS"
+    },
+    {
+        "Category": "Crains and scaffold",
         "Colour Family": "Black",
         "Design ID": "95347",
         "Element ID": "4667463",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4667463_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "LATTICE TOWER 2X2X10 W/CROSS",
-        "Price": "£0.60"
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Crains and scaffold",
+        "Colour Family": "White",
+        "Design ID": "95347",
+        "Element ID": "4667464",
+        "Exact Colour": "WHITE",
+        "Name": "LATTICE TOWER 2X2X10 W/CROSS"
+    },
+    {
+        "Category": "Crains and scaffold",
+        "Colour Family": "Blue",
+        "Design ID": "95347",
+        "Element ID": "4668028",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "LATTICE TOWER 2X2X10 W/CROSS"
+    },
+    {
+        "Category": "Crains and scaffold",
+        "Colour Family": "Yellow",
+        "Design ID": "95347",
+        "Element ID": "6074687",
+        "Exact Colour": "BR.YEL",
+        "Name": "LATTICE TOWER 2X2X10 W/CROSS",
+        "Price": "£0.76"
+    },
+    {
+        "Category": "Crains and scaffold",
+        "Design ID": "95347",
+        "Element ID": "6117028",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "LATTICE TOWER 2X2X10 W/CROSS",
+        "Price": "£0.74"
+    },
+    {
+        "Category": "Crains and scaffold",
+        "Colour Family": "Red",
+        "Design ID": "95347",
+        "Element ID": "6143435",
+        "Exact Colour": "BR.RED",
+        "Name": "LATTICE TOWER 2X2X10 W/CROSS",
+        "Price": "£0.95"
     }
 ]

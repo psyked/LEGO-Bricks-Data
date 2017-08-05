@@ -1,102 +1,468 @@
 [
     {
         "Category": "Functional elements",
+        "Colour Family": "Blue",
+        "Design ID": "19954",
+        "Element ID": "6102759",
+        "Exact Colour": "BR.BLUE",
+        "Name": "HINGE PLATE 1X2",
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "19954",
+        "Element ID": "6102767",
+        "Exact Colour": "DK.GREEN",
+        "Name": "HINGE PLATE 1X2",
+        "Price": "£0.42"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Yellow",
+        "Design ID": "19954",
+        "Element ID": "6102768",
+        "Exact Colour": "BR.YEL",
+        "Name": "HINGE PLATE 1X2",
+        "Price": "£0.41"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Grey",
+        "Design ID": "19954",
+        "Element ID": "6102769",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "HINGE PLATE 1X2",
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "19954",
+        "Element ID": "6102772",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "HINGE PLATE 1X2",
+        "Price": "£0.42"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Grey",
+        "Design ID": "19954",
+        "Element ID": "6102774",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "HINGE PLATE 1X2",
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "White",
+        "Design ID": "19954",
+        "Element ID": "6102776",
+        "Exact Colour": "WHITE",
+        "Name": "HINGE PLATE 1X2",
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "19954",
+        "Element ID": "6102779",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "HINGE PLATE 1X2",
+        "Price": "£0.43"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Black",
+        "Design ID": "19954",
+        "Element ID": "6102782",
+        "Exact Colour": "BLACK",
+        "Name": "HINGE PLATE 1X2",
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Functional elements",
         "Colour Family": "Red",
         "Design ID": "19954",
         "Element ID": "6102786",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6102786_s8?$PABspin$",
+        "Exact Colour": "BR.RED",
         "Name": "HINGE PLATE 1X2",
-        "Price": "£0.36"
+        "Price": "£0.40"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Blue",
+        "Design ID": "19954",
+        "Element ID": "6119114",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "HINGE PLATE 1X2"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Blue",
+        "Design ID": "19954",
+        "Element ID": "6135593",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "HINGE PLATE 1X2",
+        "Price": "£0.46"
     },
     {
         "Category": "Functional elements",
         "Colour Family": "Grey",
-        "Design ID": "3938",
-        "Element ID": "4211470",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211470_s8?$PABspin$",
-        "Name": "PLATE 1X2 (ROCKING)",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Functional elements",
-        "Colour Family": "Black",
-        "Design ID": "3938",
-        "Element ID": "393826",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/393826_s8?$PABspin$",
-        "Name": "PLATE 1X2 (ROCKING)",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Functional elements",
-        "Colour Family": "Grey",
-        "Design ID": "6134",
-        "Element ID": "4211881",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211881_s8?$PABspin$",
-        "Name": "PLATE 2X2 (ROCKING)",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Functional elements",
-        "Colour Family": "Black",
-        "Design ID": "6134",
-        "Element ID": "4124096",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4124096_s8?$PABspin$",
-        "Name": "PLATE 2X2 (ROCKING)",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Functional elements",
-        "Colour Family": "Grey",
-        "Design ID": "3937",
-        "Element ID": "4211469",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211469_s8?$PABspin$",
-        "Name": "ROCKER BEARING 1X2",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Functional elements",
-        "Colour Family": "Black",
-        "Design ID": "3937",
-        "Element ID": "393726",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/393726_s8?$PABspin$",
-        "Name": "ROCKER BEARING 1X2",
-        "Price": "£0.10"
+        "Design ID": "3679",
+        "Element ID": "4211439",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TURN PLATE 2X2, UPPER PART"
     },
     {
         "Category": "Functional elements",
         "Colour Family": "White",
         "Design ID": "3680",
         "Element ID": "368001",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/368001_s8?$PABspin$",
+        "Exact Colour": "WHITE",
+        "Name": "TURN PLATE 2X2, LOWER PART"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Red",
+        "Design ID": "3680",
+        "Element ID": "368021",
+        "Exact Colour": "BR.RED",
         "Name": "TURN PLATE 2X2, LOWER PART",
-        "Price": "£0.10"
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Blue",
+        "Design ID": "3680",
+        "Element ID": "368023",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TURN PLATE 2X2, LOWER PART",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Yellow",
+        "Design ID": "3680",
+        "Element ID": "368024",
+        "Exact Colour": "BR.YEL",
+        "Name": "TURN PLATE 2X2, LOWER PART"
     },
     {
         "Category": "Functional elements",
         "Colour Family": "Black",
         "Design ID": "3680",
         "Element ID": "368026",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/368026_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "TURN PLATE 2X2, LOWER PART",
-        "Price": "£0.10"
+        "Price": "£0.12"
     },
     {
         "Category": "Functional elements",
         "Colour Family": "Grey",
-        "Design ID": "3679",
-        "Element ID": "4540203",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4540203_s8?$PABspin$",
-        "Name": "TURN PLATE 2X2, UPPER PART",
-        "Price": "£0.06"
+        "Design ID": "3680",
+        "Element ID": "4258479",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TURN PLATE 2X2, LOWER PART"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "White",
+        "Design ID": "3937",
+        "Element ID": "393701",
+        "Exact Colour": "WHITE",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Grey",
+        "Design ID": "3937",
+        "Element ID": "393702",
+        "Exact Colour": "GREY",
+        "Name": "ROCKER BEARING 1X2"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Red",
+        "Design ID": "3937",
+        "Element ID": "393721",
+        "Exact Colour": "BR.RED",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Blue",
+        "Design ID": "3937",
+        "Element ID": "393723",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Yellow",
+        "Design ID": "3937",
+        "Element ID": "393724",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Black",
+        "Design ID": "3937",
+        "Element ID": "393726",
+        "Exact Colour": "BLACK",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Grey",
+        "Design ID": "3937",
+        "Element ID": "4112234",
+        "Exact Colour": "DK.GREY",
+        "Name": "ROCKER BEARING 1X2"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3937",
+        "Element ID": "4114305",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROCKER BEARING 1X2"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Grey",
+        "Design ID": "3937",
+        "Element ID": "4211066",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Grey",
+        "Design ID": "3937",
+        "Element ID": "4211469",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Purple",
+        "Design ID": "3937",
+        "Element ID": "4217281",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "ROCKER BEARING 1X2"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3937",
+        "Element ID": "4217438",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROCKER BEARING 1X2"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3937",
+        "Element ID": "4286649",
+        "Exact Colour": "SAND GREEN",
+        "Name": "ROCKER BEARING 1X2"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3937",
+        "Element ID": "6167642",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3937",
+        "Element ID": "6170765",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3937",
+        "Element ID": "6174919",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3937",
+        "Element ID": "6186045",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROCKER BEARING 1X2",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "White",
+        "Design ID": "3938",
+        "Element ID": "393801",
+        "Exact Colour": "WHITE",
+        "Name": "PLATE 1X2 (ROCKING)",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Grey",
+        "Design ID": "3938",
+        "Element ID": "393802",
+        "Exact Colour": "GREY",
+        "Name": "PLATE 1X2 (ROCKING)"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Red",
+        "Design ID": "3938",
+        "Element ID": "393821",
+        "Exact Colour": "BR.RED",
+        "Name": "PLATE 1X2 (ROCKING)"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Yellow",
+        "Design ID": "3938",
+        "Element ID": "393824",
+        "Exact Colour": "BR.YEL",
+        "Name": "PLATE 1X2 (ROCKING)"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Black",
+        "Design ID": "3938",
+        "Element ID": "393826",
+        "Exact Colour": "BLACK",
+        "Name": "PLATE 1X2 (ROCKING)"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3938",
+        "Element ID": "4124464",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "PLATE 1X2 (ROCKING)"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3938",
+        "Element ID": "4211249",
+        "Exact Colour": "RED. BROWN",
+        "Name": "PLATE 1X2 (ROCKING)"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Grey",
+        "Design ID": "3938",
+        "Element ID": "4211470",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "PLATE 1X2 (ROCKING)"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3938",
+        "Element ID": "4585494",
+        "Exact Colour": "RED. BROWN",
+        "Name": "PLATE 1X2 (ROCKING)"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "3938",
+        "Element ID": "6170768",
+        "Exact Colour": "DK.GREEN",
+        "Name": "PLATE 1X2 (ROCKING)",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Grey",
+        "Design ID": "3938",
+        "Element ID": "6176400",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "PLATE 1X2 (ROCKING)",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Black",
+        "Design ID": "6134",
+        "Element ID": "4124096",
+        "Exact Colour": "BLACK",
+        "Name": "PLATE 2X2 (ROCKING)",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "6134",
+        "Element ID": "4143703",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "PLATE 2X2 (ROCKING)"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Blue",
+        "Design ID": "6134",
+        "Element ID": "4195007",
+        "Exact Colour": "BR.BLUE",
+        "Name": "PLATE 2X2 (ROCKING)",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Grey",
+        "Design ID": "6134",
+        "Element ID": "4211881",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "PLATE 2X2 (ROCKING)",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Green",
+        "Design ID": "6134",
+        "Element ID": "4216932",
+        "Exact Colour": "MD.YEL-GREEN",
+        "Name": "PLATE 2X2 (ROCKING)"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "White",
+        "Design ID": "6134",
+        "Element ID": "4612342",
+        "Exact Colour": "WHITE",
+        "Name": "PLATE 2X2 (ROCKING)",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Functional elements",
+        "Colour Family": "Red",
+        "Design ID": "6134",
+        "Element ID": "613421",
+        "Exact Colour": "BR.RED",
+        "Name": "PLATE 2X2 (ROCKING)",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "6134",
+        "Element ID": "6167644",
+        "Exact Colour": "RED. BROWN",
+        "Name": "PLATE 2X2 (ROCKING)",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Functional elements",
+        "Design ID": "6134",
+        "Element ID": "6186623",
+        "Exact Colour": "DK.GREEN",
+        "Name": "PLATE 2X2 (ROCKING)",
+        "Price": "£0.22"
     }
 ]

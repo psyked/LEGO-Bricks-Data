@@ -1,12 +1,112 @@
 [
     {
         "Category": "Figure accessories, upper and lower part",
+        "Colour Family": "White",
+        "Design ID": "76116",
+        "Element ID": "6006126",
+        "Exact Colour": "WHITE",
+        "Name": "BAD ROBOT ARM",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Colour Family": "Red",
+        "Design ID": "76116",
+        "Element ID": "6006738",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "BAD ROBOT ARM",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Colour Family": "Black",
+        "Design ID": "76116",
+        "Element ID": "6006739",
+        "Exact Colour": "BLACK",
+        "Name": "BAD ROBOT ARM",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Design ID": "76116",
+        "Element ID": "6006740",
+        "Exact Colour": "RED. BROWN",
+        "Name": "BAD ROBOT ARM",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Design ID": "76116",
+        "Element ID": "6006741",
+        "Exact Colour": "W.GOLD",
+        "Name": "BAD ROBOT ARM",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Design ID": "76116",
+        "Element ID": "6008483",
+        "Exact Colour": "SILVER MET.",
+        "Name": "BAD ROBOT ARM",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
         "Colour Family": "Grey",
         "Design ID": "76116",
         "Element ID": "6008484",
-        "Exact Colour": "Titanium metallic",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6008484_s8?$PABspin$",
+        "Exact Colour": "TITAN. METAL.",
         "Name": "BAD ROBOT ARM",
-        "Price": "£0.14"
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Colour Family": "Grey",
+        "Design ID": "76116",
+        "Element ID": "6012812",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "BAD ROBOT ARM",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Colour Family": "Red",
+        "Design ID": "76116",
+        "Element ID": "6014030",
+        "Exact Colour": "BR.RED",
+        "Name": "BAD ROBOT ARM"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Colour Family": "Blue",
+        "Design ID": "76116",
+        "Element ID": "6014032",
+        "Exact Colour": "BR.BLUE",
+        "Name": "BAD ROBOT ARM",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Colour Family": "Yellow",
+        "Design ID": "76116",
+        "Element ID": "6014111",
+        "Exact Colour": "BR.YEL",
+        "Name": "BAD ROBOT ARM"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Design ID": "76116",
+        "Element ID": "6014296",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "BAD ROBOT ARM",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Figure accessories, upper and lower part",
+        "Colour Family": "Blue",
+        "Design ID": "76116",
+        "Element ID": "6104486",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "BAD ROBOT ARM"
     }
 ]

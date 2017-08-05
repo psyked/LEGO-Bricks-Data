@@ -1,102 +1,346 @@
 [
     {
         "Category": "Figure, heads and masks",
-        "Colour Family": "White",
-        "Design ID": "3626",
-        "Element ID": "362601",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/362601_s8?$PABspin$",
-        "Name": "MINI HEAD",
-        "Price": "£0.07"
-    },
-    {
-        "Category": "Figure, heads and masks",
         "Colour Family": "Yellow",
         "Design ID": "12813",
         "Element ID": "6021844",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6021844_s8?$PABspin$",
+        "Exact Colour": "BR.YEL",
         "Name": "MINI HEAD \"NO 1147\"",
-        "Price": "£0.16"
+        "Price": "£0.22"
     },
     {
         "Category": "Figure, heads and masks",
         "Colour Family": "Yellow",
         "Design ID": "19541",
         "Element ID": "6100203",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6100203_s8?$PABspin$",
+        "Exact Colour": "BR.YEL",
         "Name": "MINI HEAD \"NO. 1580\"",
-        "Price": "£0.16"
+        "Price": "£0.22"
     },
     {
         "Category": "Figure, heads and masks",
         "Colour Family": "Yellow",
         "Design ID": "21023",
         "Element ID": "6112622",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6112622_s8?$PABspin$",
-        "Name": "MINI HEAD \"NO. 1663\"",
-        "Price": "£0.16"
-    },
-    {
-        "Category": "Figure, heads and masks",
-        "Colour Family": "Yellow",
-        "Design ID": "99810",
-        "Element ID": "4652361",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4652361_s8?$PABspin$",
-        "Name": "MINI HEAD \"NO. 914\"",
-        "Price": "£0.16"
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI HEAD \"NO. 1663\""
     },
     {
         "Category": "Figure, heads and masks",
         "Colour Family": "White",
         "Design ID": "30011",
         "Element ID": "3001140",
-        "Exact Colour": "Transparent",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/3001140_s8?$PABspin$",
+        "Exact Colour": "TR.",
         "Name": "MINI HEAD - TR.",
-        "Price": "£0.16"
+        "Price": "£0.17"
     },
     {
         "Category": "Figure, heads and masks",
         "Colour Family": "Yellow",
-        "Design ID": "90787",
-        "Element ID": "4584727",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4584727_s8?$PABspin$",
-        "Name": "MINI HEAD NO 677",
-        "Price": "£0.16"
+        "Design ID": "30011",
+        "Element ID": "4190214",
+        "Exact Colour": "TR.YEL",
+        "Name": "MINI HEAD - TR."
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Blue",
+        "Design ID": "30011",
+        "Element ID": "4190262",
+        "Exact Colour": "TR.L.BLUE",
+        "Name": "MINI HEAD - TR."
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "White",
+        "Design ID": "30011",
+        "Element ID": "6006525",
+        "Exact Colour": "WHITE GLOW",
+        "Name": "MINI HEAD - TR. GLOW",
+        "Price": "£0.72"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "30011",
+        "Element ID": "6039180",
+        "Exact Colour": "TR.FL.REDORA",
+        "Name": "MINI HEAD - TR.",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Blue",
+        "Design ID": "30011",
+        "Element ID": "6066376",
+        "Exact Colour": "TR.L.BLUE",
+        "Name": "MINI HEAD",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Blue",
+        "Design ID": "30011",
+        "Element ID": "6071581",
+        "Exact Colour": "TR.FL. BLUE",
+        "Name": "MINI HEAD",
+        "Price": "£0.19"
     },
     {
         "Category": "Figure, heads and masks",
         "Colour Family": "Yellow",
-        "Design ID": "99566",
-        "Element ID": "4651441",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4651441_s8?$PABspin$",
-        "Name": "MINI HEAD NO 891",
-        "Price": "£0.16"
+        "Design ID": "30011",
+        "Element ID": "6109893",
+        "Exact Colour": "TR.FL.GREEN",
+        "Name": "MINI HEAD",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "30011",
+        "Element ID": "6157729",
+        "Exact Colour": "TR.BROWN",
+        "Name": "MINI HEAD",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Red",
+        "Design ID": "30011",
+        "Element ID": "6173950",
+        "Exact Colour": "TR.RED",
+        "Name": "MINI HEAD",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "30011",
+        "Element ID": "6179551",
+        "Exact Colour": "TR.GREEN",
+        "Name": "MINI HEAD, NO. 2187",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "30011",
+        "Element ID": "6192847",
+        "Exact Colour": "TR. BR. GREEN",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "White",
+        "Design ID": "3626",
+        "Element ID": "362601",
+        "Exact Colour": "WHITE",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Yellow",
+        "Design ID": "3626",
+        "Element ID": "362624",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Black",
+        "Design ID": "3626",
+        "Element ID": "362626",
+        "Exact Colour": "BLACK",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "3626",
+        "Element ID": "4159051",
+        "Exact Colour": "BR.GREEN",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "3626",
+        "Element ID": "4162795",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Red",
+        "Design ID": "3626",
+        "Element ID": "4173441",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Red",
+        "Design ID": "3626",
+        "Element ID": "4182849",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Grey",
+        "Design ID": "3626",
+        "Element ID": "4187121",
+        "Exact Colour": "DK.GREY",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "3626",
+        "Element ID": "4194825",
+        "Exact Colour": "NOUGAT",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Grey",
+        "Design ID": "3626",
+        "Element ID": "4210898",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "3626",
+        "Element ID": "4211218",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Grey",
+        "Design ID": "3626",
+        "Element ID": "4211585",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI HEAD",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "3626",
+        "Element ID": "4511896",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "3626",
+        "Element ID": "4569361",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Blue",
+        "Design ID": "3626",
+        "Element ID": "4586188",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "3626",
+        "Element ID": "4614249",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI HEAD",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "3626",
+        "Element ID": "4621352",
+        "Exact Colour": "W.GOLD",
+        "Name": "MINI HEAD",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "3626",
+        "Element ID": "4629994",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "MINI HEAD"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Blue",
+        "Design ID": "3626",
+        "Element ID": "6005999",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI HEAD",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Purple",
+        "Design ID": "3626",
+        "Element ID": "6029725",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "MINI HEAD",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Design ID": "3626",
+        "Element ID": "6071680",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "MINI HEAD",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Grey",
+        "Design ID": "3626",
+        "Element ID": "6192569",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI HEAD"
     },
     {
         "Category": "Figure, heads and masks",
         "Colour Family": "Yellow",
         "Design ID": "51523",
         "Element ID": "4261572",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4261572_s8?$PABspin$",
+        "Exact Colour": "BR.YEL",
         "Name": "MINI HEAD NO. 389",
-        "Price": "£0.16"
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Yellow",
+        "Design ID": "90787",
+        "Element ID": "4584727",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI HEAD NO 677",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Yellow",
+        "Design ID": "99566",
+        "Element ID": "4651441",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI HEAD NO 891",
+        "Price": "£0.22"
     },
     {
         "Category": "Figure, heads and masks",
         "Colour Family": "Yellow",
         "Design ID": "99570",
         "Element ID": "4651443",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4651443_s8?$PABspin$",
+        "Exact Colour": "BR.YEL",
         "Name": "MINI HEAD NO. 893",
-        "Price": "£0.16"
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Figure, heads and masks",
+        "Colour Family": "Yellow",
+        "Design ID": "99810",
+        "Element ID": "4652361",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI HEAD \"NO. 914\"",
+        "Price": "£0.22"
     }
 ]

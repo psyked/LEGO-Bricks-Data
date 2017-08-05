@@ -1,21 +1,162 @@
-"Category","Colour Family","Design ID","Element ID","Exact Colour","Image","Name","Price"
-"Beams","Black","60484","4552347","Black","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4552347_s8?$PABspin$","T-BEAM 3X3 W/HOLE Ø4.8","£0.19"
-"Beams","Grey","64290","4603472","Dark stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4603472_s8?$PABspin$","TECHNIC 11M BEAM","£0.24"
-"Beams","Grey","41239","4522937","Dark stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4522937_s8?$PABspin$","TECHNIC 13M BEAM","£0.29"
-"Beams","Grey","64871","4542576","Dark stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4542576_s8?$PABspin$","TECHNIC 15M BEAM","£0.31"
-"Beams","Black","43857","4177444","Black","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4177444_s8?$PABspin$","TECHNIC 2M BEAM","£0.06"
-"Beams","Grey","43857","4211862","Medium stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211862_s8?$PABspin$","TECHNIC 2M BEAM","£0.06"
-"Beams","Black","32523","4142822","Black","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4142822_s8?$PABspin$","TECHNIC 3M BEAM","£0.08"
-"Beams","White","32316","4249021","White","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4249021_s8?$PABspin$","TECHNIC 5M BEAM","£0.14"
-"Beams","Grey","32316","4211651","Medium stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211651_s8?$PABspin$","TECHNIC 5M BEAM","£0.14"
-"Beams","Black","32316","4142135","Black","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4142135_s8?$PABspin$","TECHNIC 5M BEAM","£0.14"
-"Beams","Grey","32316","4210686","Dark stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4210686_s8?$PABspin$","TECHNIC 5M BEAM","£0.14"
-"Beams","Black","32524","4495935","Black","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4495935_s8?$PABspin$","TECHNIC 7M BEAM","£0.19"
-"Beams","Grey","32524","4495931","Dark stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4495931_s8?$PABspin$","TECHNIC 7M BEAM","£0.19"
-"Beams","White","64289","6001831","White","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6001831_s8?$PABspin$","TECHNIC 9M BEAM","£0.29"
-"Beams","Grey","64289","4645730","Dark stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4645730_s8?$PABspin$","TECHNIC 9M BEAM","£0.29"
-"Beams","Grey","64289","6102449","Medium stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6102449_s8?$PABspin$","TECHNIC 9M BEAM","£0.29"
-"Beams","Black","64289","4645732","Black","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4645732_s8?$PABspin$","TECHNIC 9M BEAM","£0.29"
-"Beams","Black","32526","4142823","Black","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4142823_s8?$PABspin$","TECHNIC ANG. BEAM 3X5 90 DEG.","£0.19"
-"Beams","Grey","32526","4210753","Dark stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4210753_s8?$PABspin$","TECHNIC ANG. BEAM 3X5 90 DEG.","£0.19"
-"Beams","Grey","32526","4211713","Medium stone grey","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211713_s8?$PABspin$","TECHNIC ANG. BEAM 3X5 90 DEG.","£0.19"
+"Category","Design ID","Element ID","Exact Colour","Name","Colour Family","Price"
+"Beams","32278","4141733","BR.ORANGE","TECHNIC 15M BEAM",,
+"Beams","32278","4141734","BR.YEL-GREEN","TECHNIC 15M BEAM",,
+"Beams","32278","4142292","DK.GREY","TECHNIC 15M BEAM","Grey",
+"Beams","32278","4144299","BR.BLUE","TECHNIC 15M BEAM","Blue",
+"Beams","32278","4163147","BR.RED","TECHNIC 15M BEAM","Red",
+"Beams","32278","4163802","DK.GREEN","TECHNIC 15M BEAM",,
+"Beams","32278","4172457","GREY","TECHNIC 15M BEAM","Grey",
+"Beams","32278","4200922","SILVER","TECHNIC 15M BEAM",,
+"Beams","32278","4201006","EARTH-ORA","TECHNIC 15M BEAM","Orange-brown",
+"Beams","32278","4210687","DK. ST. GREY","TECHNIC 15M BEAM","Grey",
+"Beams","32278","4211770","MED. ST-GREY","TECHNIC 15M BEAM","Grey",
+"Beams","32278","4227469","MET.DK.GREY","TECHNIC 15M BEAM","Grey",
+"Beams","32278","4237445","BR.YEL","TECHNIC 15M BEAM","Yellow",
+"Beams","32316","4142132","BR.RED","TECHNIC 5M BEAM","Red","£0.23"
+"Beams","32316","4142133","BR.YEL","TECHNIC 5M BEAM","Yellow","£0.23"
+"Beams","32316","4142134","BR.BLUE","TECHNIC 5M BEAM","Blue","£0.23"
+"Beams","32316","4142135","BLACK","TECHNIC 5M BEAM","Black","£0.23"
+"Beams","32316","4142136","DK.GREY","TECHNIC 5M BEAM","Grey",
+"Beams","32316","4210591","SILVER","TECHNIC 5M BEAM",,
+"Beams","32316","4210686","DK. ST. GREY","TECHNIC 5M BEAM","Grey","£0.23"
+"Beams","32316","4211651","MED. ST-GREY","TECHNIC 5M BEAM","Grey","£0.23"
+"Beams","32316","4227073","EARTH BLUE","TECHNIC 5M BEAM","Blue",
+"Beams","32316","4248239","FL. YELL-ORA","TECHNIC 5M BEAM","Yellow",
+"Beams","32316","4249021","WHITE","TECHNIC 5M BEAM","White","£0.23"
+"Beams","32316","4661486","BR.YEL-GREEN","TECHNIC 5M BEAM",,"£0.29"
+"Beams","32316","6097393","BR.GREEN","TECHNIC 5M BEAM",,
+"Beams","32316","6143014","BR.ORANGE","TECHNIC 5M BEAM",,"£0.30"
+"Beams","32316","6176425","MD.BLUE","TECHNIC 5M BEAM","Blue","£0.29"
+"Beams","32316","6179636","RED. BROWN","TECHNIC 5M BEAM",,
+"Beams","32316","6179651","BRICK-YEL","TECHNIC 5M BEAM",,
+"Beams","32523","4142599","GREY","TECHNIC 3M BEAM","Grey",
+"Beams","32523","4142822","BLACK","TECHNIC 3M BEAM","Black","£0.12"
+"Beams","32523","4153707","BR.YEL","TECHNIC 3M BEAM","Yellow","£0.12"
+"Beams","32523","4153718","BR.RED","TECHNIC 3M BEAM","Red","£0.12"
+"Beams","32523","4154621","BR.ORANGE","TECHNIC 3M BEAM",,
+"Beams","32523","4154759","DK.GREY","TECHNIC 3M BEAM","Grey",
+"Beams","32523","4158867","BRICK-YEL","TECHNIC 3M BEAM",,
+"Beams","32523","4200261","EARTH-ORA","TECHNIC 3M BEAM","Orange-brown",
+"Beams","32523","4201554","SILVER","TECHNIC 3M BEAM",,
+"Beams","32523","4208160","WHITE","TECHNIC 3M BEAM","White","£0.12"
+"Beams","32523","4210751","DK. ST. GREY","TECHNIC 3M BEAM","Grey","£0.12"
+"Beams","32523","4211655","MED. ST-GREY","TECHNIC 3M BEAM","Grey","£0.12"
+"Beams","32523","4247660","NEW DARK RED","TECHNIC 3M BEAM","Red",
+"Beams","32523","4247677","EARTH GREEN","TECHNIC 3M BEAM",,
+"Beams","32523","4247727","EARTH BLUE","TECHNIC 3M BEAM","Blue",
+"Beams","32523","4247766","BROWN","TECHNIC 3M BEAM","Orange-brown",
+"Beams","32523","4248238","FL. YELL-ORA","TECHNIC 3M BEAM","Yellow",
+"Beams","32523","4509376","BR.BLUE","TECHNIC 3M BEAM","Blue","£0.12"
+"Beams","32523","6007973","DK.GREEN","TECHNIC 3M BEAM",,"£0.14"
+"Beams","32523","6102618","BR.ORANGE","TECHNIC 3M BEAM",,"£0.13"
+"Beams","32523","6121726","RED. BROWN","TECHNIC 3M BEAM",,"£0.14"
+"Beams","32523","6124173","BRICK-YEL","TECHNIC 3M BEAM",,"£0.19"
+"Beams","32523","6164393","MD.BLUE","TECHNIC 3M BEAM","Blue",
+"Beams","32523","6170474","BR.YEL-GREEN","BEAM, 3 MODULE",,"£0.20"
+"Beams","32524","4143020","GREY","TECHNIC 7M BEAM","Grey",
+"Beams","32524","4154760","DK.GREY","TECHNIC 7M BEAM","Grey",
+"Beams","32524","4155458","BLACK","TECHNIC 7M BEAM","Black",
+"Beams","32524","4175214","EARTH-ORA","TECHNIC 7M BEAM","Orange-brown",
+"Beams","32524","4192384","SILVER","TECHNIC 7M BEAM",,
+"Beams","32524","4227470","MET.DK.GREY","TECHNIC 7M BEAM","Grey",
+"Beams","32524","4495927","WHITE","TECHNIC 7M BEAM","White","£0.28"
+"Beams","32524","4495928","BR.YEL-GREEN","TECHNIC 7M BEAM",,"£0.31"
+"Beams","32524","4495930","MED. ST-GREY","TECHNIC 7M BEAM","Grey","£0.28"
+"Beams","32524","4495931","DK. ST. GREY","TECHNIC 7M BEAM","Grey","£0.28"
+"Beams","32524","4495932","LGH. ST. GREY","TECHNIC 7M BEAM","Grey",
+"Beams","32524","4495933","BR.RED","TECHNIC 7M BEAM","Red","£0.29"
+"Beams","32524","4495934","BR.YEL","TECHNIC 7M BEAM","Yellow","£0.29"
+"Beams","32524","4506043","BR.BLUE","TECHNIC 7M BEAM","Blue","£0.29"
+"Beams","32524","6038628","DK.GREEN","TECHNIC 7M BEAM",,
+"Beams","32524","6097392","BR.GREEN","TECHNIC 7M BEAM",,"£0.35"
+"Beams","32524","6102621","BR.ORANGE","TECHNIC 7M BEAM",,"£0.31"
+"Beams","32524","6133891","MEDIUM AZUR","TECHNIC 7M BEAM","Blue","£0.34"
+"Beams","32524","6164394","MD.BLUE","TECHNIC 7M BEAM","Blue","£0.31"
+"Beams","32526","4142823","BLACK","TECHNIC ANG. BEAM 3X5 90 DEG.","Black","£0.28"
+"Beams","32526","4143154","BR.RED","TECHNIC ANG. BEAM 3X5 90 DEG.","Red","£0.29"
+"Beams","32526","4144022","BR.YEL","TECHNIC ANG. BEAM 3X5 90 DEG.","Yellow","£0.29"
+"Beams","32526","4154958","GREY","TECHNIC ANG. BEAM 3X5 90 DEG.","Grey",
+"Beams","32526","4155459","DK.GREY","TECHNIC ANG. BEAM 3X5 90 DEG.","Grey",
+"Beams","32526","4158923","BR.BLUE","TECHNIC ANG. BEAM 3X5 90 DEG.","Blue","£0.28"
+"Beams","32526","4177435","SILVER","TECHNIC ANG. BEAM 3X5 90 DEG.",,
+"Beams","32526","4204714","WHITE","TECHNIC ANG. BEAM 3X5 90 DEG.","White",
+"Beams","32526","4205826","EARTH-ORA","TECHNIC ANG. BEAM 3X5 90 DEG.","Orange-brown",
+"Beams","32526","4210753","DK. ST. GREY","TECHNIC ANG. BEAM 3X5 90 DEG.","Grey","£0.29"
+"Beams","32526","4211713","MED. ST-GREY","TECHNIC ANG. BEAM 3X5 90 DEG.","Grey","£0.28"
+"Beams","32526","4227485","MET.DK.GREY","TECHNIC ANG. BEAM 3X5 90 DEG.","Grey",
+"Beams","32526","4234421","BRICK-YEL","TECHNIC ANG. BEAM 3X5 90 DEG.",,
+"Beams","32526","4585040","WHITE","TECHNIC ANG. BEAM 3X5 90 DEG.","White","£0.28"
+"Beams","32526","4651764","BR.YEL-GREEN","TECHNIC ANG. BEAM 3X5 90 DEG.",,
+"Beams","32526","6013557","DK.GREEN","TECHNIC ANG. BEAM 3X5 90 DEG.",,"£0.47"
+"Beams","32526","6143015","BR.ORANGE","TECHNIC ANG. BEAM 3X5 90 DEG.",,"£0.31"
+"Beams","32526","6164392","MD.BLUE","TECHNIC ANG. BEAM 3X5 90 DEG.","Blue","£0.35"
+"Beams","32526","6170475","BR.YEL-GREEN","ANGULAR BEAM 3X5, 90 DEG.",,"£0.35"
+"Beams","41239","4227601","SILVER","TECHNIC 13M BEAM",,
+"Beams","41239","4522933","BLACK","TECHNIC 13M BEAM","Black","£0.40"
+"Beams","41239","4522934","MED. ST-GREY","TECHNIC 13M BEAM","Grey","£0.40"
+"Beams","41239","4522935","BR.YEL","TECHNIC 13M BEAM","Yellow","£0.41"
+"Beams","41239","4522937","DK. ST. GREY","TECHNIC 13M BEAM","Grey","£0.41"
+"Beams","41239","4522938","BR.RED","TECHNIC 13M BEAM","Red","£0.41"
+"Beams","41239","4522939","LGH. ST. GREY","TECHNIC 13M BEAM","Grey",
+"Beams","41239","4620671","WHITE","TECHNIC 13M BEAM","White","£0.40"
+"Beams","41239","4629802","BR.ORANGE","TECHNIC 13M BEAM",,"£0.46"
+"Beams","41239","6036632","DK.GREEN","TECHNIC 13M BEAM",,"£0.48"
+"Beams","41239","6063602","BR.YEL-GREEN","TECHNIC 13M BEAM",,"£0.48"
+"Beams","41239","6133901","MEDIUM AZUR","TECHNIC 13M BEAM","Blue","£0.43"
+"Beams","41239","6171916","MD.BLUE","TECHNIC 13M BEAM","Blue","£0.48"
+"Beams","41239","6173125","BR.BLUE","TECHNIC 13M BEAM","Blue","£0.44"
+"Beams","41482","4157772","WHITE","TECHNIC 3M BEAM, PC","White",
+"Beams","41482","4175935","MET.SAND.BLU","TECHNIC 3M BEAM, PC","Blue",
+"Beams","43857","4177444","BLACK","TECHNIC 2M BEAM","Black","£0.11"
+"Beams","43857","4185664","BR.RED","TECHNIC 2M BEAM","Red","£0.11"
+"Beams","43857","4187122","BR.YEL","TECHNIC 2M BEAM","Yellow","£0.11"
+"Beams","43857","4195272","GREY","TECHNIC 2M BEAM","Grey",
+"Beams","43857","4205832","EARTH-ORA","TECHNIC 2M BEAM","Orange-brown",
+"Beams","43857","4211862","MED. ST-GREY","TECHNIC 2M BEAM","Grey","£0.11"
+"Beams","43857","4227476","MET.DK.GREY","TECHNIC 2M BEAM","Grey",
+"Beams","43857","4263119","BR.YEL-GREEN","TECHNIC 2M BEAM",,
+"Beams","43857","6057802","BR.BLUE","TECHNIC 2M BEAM","Blue","£0.13"
+"Beams","60484","4552347","BLACK","T-BEAM 3X3 W/HOLE Ø4.8","Black","£0.19"
+"Beams","60484","4552348","MED. ST-GREY","T-BEAM 3X3 W/HOLE Ø4.8","Grey","£0.19"
+"Beams","60484","4552349","DK. ST. GREY","T-BEAM 3X3 W/HOLE Ø4.8","Grey","£0.19"
+"Beams","60484","6072627","BR.YEL","T-BEAM 3X3 W/HOLE Ø4.8","Yellow","£0.24"
+"Beams","64289","4645730","DK. ST. GREY","TECHNIC 9M BEAM","Grey","£0.32"
+"Beams","64289","4645732","BLACK","TECHNIC 9M BEAM","Black","£0.31"
+"Beams","64289","4645733","BR.RED","TECHNIC 9M BEAM","Red","£0.32"
+"Beams","64289","6001831","WHITE","TECHNIC 9M BEAM","White","£0.31"
+"Beams","64289","6102449","MED. ST-GREY","TECHNIC 9M BEAM","Grey","£0.31"
+"Beams","64289","6115616","BR.YEL","TECHNIC 9M BEAM","Yellow","£0.32"
+"Beams","64289","6115617","BR.BLUE","TECHNIC 9M BEAM","Blue","£0.35"
+"Beams","64289","6115618","DK.GREEN","TECHNIC 9M BEAM",,"£0.40"
+"Beams","64289","6135086","BR.ORANGE","TECHNIC 9M BEAM",,"£0.36"
+"Beams","64290","4534909","BLACK","MISENTRY","Black",
+"Beams","64290","4534910","MED. ST-GREY","MISENTRY","Grey",
+"Beams","64290","4534911","BR.YEL-GREEN","MISENTRY",,
+"Beams","64290","4534912","BR.YEL","MISENTRY","Yellow",
+"Beams","64290","4534913","BR.RED","MISENTRY","Red",
+"Beams","64290","4534914","DK. ST. GREY","MISENTRY","Grey",
+"Beams","64290","4562805","BR.RED","TECHNIC 11M BEAM","Red","£0.35"
+"Beams","64290","4603472","DK. ST. GREY","TECHNIC 11M BEAM","Grey","£0.35"
+"Beams","64290","4611705","MED. ST-GREY","TECHNIC 11M BEAM","Grey","£0.35"
+"Beams","64290","6028103","WHITE","TECHNIC 11M BEAM","White","£0.35"
+"Beams","64290","6028106","BRICK-YEL","TECHNIC 11M BEAM",,
+"Beams","64290","6028107","BR.YEL","TECHNIC 11M BEAM","Yellow","£0.35"
+"Beams","64290","6029578","BLACK","TECHNIC 11M BEAM","Black","£0.34"
+"Beams","64290","6057859","BR.BLUE","TECHNIC 11M BEAM","Blue","£0.42"
+"Beams","64290","6097390","BR.GREEN","TECHNIC 11M BEAM",,
+"Beams","64290","6135085","BR.ORANGE","TECHNIC 11M BEAM",,"£0.40"
+"Beams","64290","6151077","EARTH BLUE","TECHNIC 11M BEAM","Blue","£0.43"
+"Beams","64290","6167321","MD.BLUE","TECHNIC 11M BEAM","Blue","£0.42"
+"Beams","64871","4542573","BLACK","TECHNIC 15M BEAM","Black","£0.43"
+"Beams","64871","4542574","BR.YEL-GREEN","TECHNIC 15M BEAM",,
+"Beams","64871","4542575","BR.RED","TECHNIC 15M BEAM","Red","£0.46"
+"Beams","64871","4542576","DK. ST. GREY","TECHNIC 15M BEAM","Grey","£0.46"
+"Beams","64871","4542577","MED. ST-GREY","TECHNIC 15M BEAM","Grey","£0.44"
+"Beams","64871","4542578","WHITE","TECHNIC 15M BEAM","White","£0.43"
+"Beams","64871","4542579","BR.YEL","TECHNIC 15M BEAM","Yellow","£0.46"
+"Beams","64871","4545165","BRICK-YEL","TECHNIC 15M BEAM",,
+"Beams","64871","4548305","LGH. ST. GREY","TECHNIC 15M BEAM","Grey",
+"Beams","64871","6057799","BR.BLUE","TECHNIC 15M BEAM","Blue","£0.68"
+"Beams","64871","6135083","BR.ORANGE","TECHNIC 15M BEAM",,"£0.50"
+"Beams","64871","6151070","EARTH BLUE","TECHNIC 15M BEAM","Blue","£0.55"
+"Beams","64871","6179616","RED. BROWN","TECHNIC 15M BEAM",,

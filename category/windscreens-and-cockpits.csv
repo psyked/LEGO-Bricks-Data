@@ -1,4 +1,9 @@
-"Category","Colour Family","Design ID","Element ID","Exact Colour","Name"
-"Windscreens And Cockpits","Blue",12015,6020577,"BR.BLUE","LOCO FR.,PASSENGER,D. LIGHTS"
-"Windscreens And Cockpits","",12017,6020596,"BR.GREEN","LOCO FRONT, GODS, DEC. STRIPES"
-"Windscreens And Cockpits","White",13856,6033101,"WHITE","4-WD W. WAGGON 4X8, DEC."
+"Category","Colour Family","Design ID","Element ID","Exact Colour","Name","Price"
+"Windscreens And Cockpits","Blue","12015","6020577","BR.BLUE","LOCO FR.,PASSENGER,D. LIGHTS",
+"Windscreens And Cockpits",,"12017","6020596","BR.GREEN","LOCO FRONT, GODS, DEC. STRIPES",
+"Windscreens And Cockpits","White","13856","6033101","WHITE","4-WD W. WAGGON 4X8, DEC.",
+"Windscreens and cockpits","White","3823","382340","TR.","WINDSCREEN 2X4X2","£0.46"
+"Windscreens and cockpits","Blue","3823","382342","TR.L.BLUE","WINDSCREEN 2X4X2","£0.50"
+"Windscreens and cockpits","Blue","3823","4112808","TR.BLUE","WINDSCREEN 2X4X2",
+"Windscreens and cockpits",,"3823","4114235","TR.GREEN","WINDSCREEN 2X4X2",
+"Windscreens and cockpits",,"3823","4167504","TR.BROWN","WINDSCREEN 2X4X2","£0.46"

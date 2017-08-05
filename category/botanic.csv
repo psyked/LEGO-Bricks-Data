@@ -1,10 +1,35 @@
-"Category","Colour Family","Design ID","Element ID","Exact Colour","Image","Name","Price"
-"Botanic","Dark Green","30176","4114348","Dark green","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4114348_s8?$PABspin$","BAMBOO LEAVES 3X3","£0.17"
-"Botanic","Yellow","98262","6000022","Bright yellow","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6000022_s8?$PABspin$","FLOWER","£0.10"
-"Botanic","Dark Green","4727","4143562","Bright green","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4143562_s8?$PABspin$","FLOWER, STALK","£0.13"
-"Botanic","Yellow","3742","4599537","Bright yellow","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4599537_s8?$PABspin$","FLOWERHEAD","£0.13"
-"Botanic","Red","3742","4106915","Bright red","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4106915_s8?$PABspin$","FLOWERHEAD","£0.13"
-"Botanic","Dark Green","2417","4505066","Earth green","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4505066_s8?$PABspin$","LIMB ELEMENT","£0.18"
-"Botanic","Dark Green","2417","4613823","Dark green","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4613823_s8?$PABspin$","LIMB ELEMENT","£0.18"
-"Botanic","Dark Green","2423","242328","Dark green","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/242328_s8?$PABspin$","LIMB ELEMENT, SMALL","£0.11"
-"Botanic","Dark Green","3741","374128","Dark green","https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/374128_s8?$PABspin$","STALK","£0.17"
+"Category","Design ID","Element ID","Exact Colour","Name","Price","Colour Family"
+"Botanic","2417","4129872","BR.GREEN","LIMB ELEMENT",,
+"Botanic","2417","4505066","EARTH GREEN","LIMB ELEMENT","£0.28",
+"Botanic","2417","4613823","DK.GREEN","LIMB ELEMENT","£0.29",
+"Botanic","2417","6021978","NEW DARK RED","LIMB ELEMENT",,"Red"
+"Botanic","2417","6039193","DK.ORA","LIMB ELEMENT","£0.31",
+"Botanic","2417","6093469","WHITE","LIMB ELEMENT","£0.30","White"
+"Botanic","2417","6097523","M. LILAC","LIMB ELEMENT","£0.31",
+"Botanic","2417","6133021","BR.RED-VIOL.","LIMB ELEMENT","£0.29","Purple"
+"Botanic","2423","242328","DK.GREEN","LIMB ELEMENT, SMALL","£0.16",
+"Botanic","2423","6006425","OLIVE GREEN","LIMB ELEMENT, SMALL","£0.17",
+"Botanic","2423","6024916","NEW DARK RED","LIMB ELEMENT, SMALL","£0.18","Red"
+"Botanic","2423","6093480","BR. PURPLE","LIMB ELEMENT, SMALL","£0.16","Purple"
+"Botanic","2423","6093902","LAVENDER","LIMB ELEMENT, SMALL","£0.18",
+"Botanic","2423","6094069","BR.YEL-GREEN","LIMB ELEMENT, SMALL","£0.16",
+"Botanic","2423","6097516","M. LILAC","LIMB ELEMENT, SMALL","£0.18",
+"Botanic","2423","6135500","WHITE","LIMB ELEMENT, SMALL","£0.16","White"
+"Botanic","2423","6177019","BR.RED-VIOL.","LIMB ELEMENT, SMALL","£0.17","Purple"
+"Botanic","30176","4114348","DK.GREEN","BAMBOO LEAVES 3X3","£0.22",
+"Botanic","30176","6186050","BR.RED","BAMBOO LEAVES 3X3","£0.25","Red"
+"Botanic","3741","374128","DK.GREEN","STALK","£0.20",
+"Botanic","3741","4114429","BR.GREEN","STALK",,
+"Botanic","3741","6109542","OLIVE GREEN","STALK","£0.22",
+"Botanic","3741","6136421","LAVENDER","STALK","£0.20",
+"Botanic","3742","4106915","BR.RED","FLOWERHEAD","£0.18","Red"
+"Botanic","3742","4186952","WHITE","FLOWERHEAD","£0.20","White"
+"Botanic","3742","4216375","BR. PURPLE","FLOWERHEAD","£0.20","Purple"
+"Botanic","3742","4222946","LGH. PURPLE","FLOWERHEAD",,"Purple"
+"Botanic","3742","4599537","BR.YEL","FLOWERHEAD","£0.20","Yellow"
+"Botanic","3742","6000294","LGH. PURPLE","FLOWERHEAD","£0.20","Purple"
+"Botanic","4727","4143562","BR.GREEN","FLOWER, STALK",,
+"Botanic","98262","6000019","WHITE","FLOWER",,"White"
+"Botanic","98262","6000020","BR.RED","FLOWER","£0.16","Red"
+"Botanic","98262","6000021","BR.BLUE","FLOWER",,"Blue"
+"Botanic","98262","6000022","BR.YEL","FLOWER","£0.12","Yellow"

@@ -4,9 +4,33 @@
         "Colour Family": "Grey",
         "Design ID": "4697",
         "Element ID": "4211508",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211508_s8?$PABspin$",
+        "Exact Colour": "MED. ST-GREY",
         "Name": "T-PIECE",
-        "Price": "£0.06"
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Functional elements, others",
+        "Colour Family": "Grey",
+        "Design ID": "4697",
+        "Element ID": "469702",
+        "Exact Colour": "GREY",
+        "Name": "T-PIECE"
+    },
+    {
+        "Category": "Functional elements, others",
+        "Colour Family": "Black",
+        "Design ID": "4697",
+        "Element ID": "6104209",
+        "Exact Colour": "BLACK",
+        "Name": "T-PIECE",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Functional elements, others",
+        "Design ID": "4697",
+        "Element ID": "6167930",
+        "Exact Colour": "W.GOLD",
+        "Name": "T-PIECE",
+        "Price": "£0.11"
     }
 ]

@@ -2,10 +2,91 @@
     {
         "Category": "Animals and creatures",
         "Colour Family": "Black",
+        "Design ID": "87747",
+        "Element ID": "4563477",
+        "Exact Colour": "BLACK",
+        "Name": "TOOTH Ø3.2 SHAFT",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Colour Family": "White",
+        "Design ID": "87747",
+        "Element ID": "4566256",
+        "Exact Colour": "WHITE",
+        "Name": "TOOTH Ø3.2 SHAFT",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Design ID": "87747",
+        "Element ID": "4610450",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TOOTH Ø3.2 SHAFT"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Design ID": "87747",
+        "Element ID": "4611904",
+        "Exact Colour": "W.GOLD",
+        "Name": "TOOTH Ø3.2 SHAFT"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Design ID": "87747",
+        "Element ID": "4617190",
+        "Exact Colour": "SILVER MET.",
+        "Name": "TOOTH Ø3.2 SHAFT"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Design ID": "87747",
+        "Element ID": "6058227",
+        "Exact Colour": "M. LILAC",
+        "Name": "TOOTH Ø3.2 SHAFT",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Colour Family": "Red",
+        "Design ID": "87747",
+        "Element ID": "6133143",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "TOOTH Ø3.2 SHAFT",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Colour Family": "Yellow",
+        "Design ID": "87747",
+        "Element ID": "6157573",
+        "Exact Colour": "COOL YEL.",
+        "Name": "TOOTH Ø3.2 SHAFT",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Colour Family": "Red",
+        "Design ID": "87747",
+        "Element ID": "6172746",
+        "Exact Colour": "BR.RED",
+        "Name": "TOOTH Ø3.2 SHAFT",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Colour Family": "Purple",
+        "Design ID": "87747",
+        "Element ID": "6173152",
+        "Exact Colour": "BR.RED-VIOL.",
+        "Name": "TOOTH Ø3.2 SHAFT"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Colour Family": "Black",
         "Design ID": "88513",
         "Element ID": "4568385",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4568385_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "HORN W. SHAFT Ø 3.2",
         "Price": "£0.06"
     },
@@ -14,29 +95,74 @@
         "Colour Family": "White",
         "Design ID": "88513",
         "Element ID": "4568387",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4568387_s8?$PABspin$",
+        "Exact Colour": "WHITE",
         "Name": "HORN W. SHAFT Ø 3.2",
         "Price": "£0.06"
     },
     {
         "Category": "Animals and creatures",
-        "Colour Family": "White",
-        "Design ID": "87747",
-        "Element ID": "4566256",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4566256_s8?$PABspin$",
-        "Name": "TOOTH Ø3.2 SHAFT",
-        "Price": "£0.08"
+        "Colour Family": "Red",
+        "Design ID": "88513",
+        "Element ID": "4568388",
+        "Exact Colour": "BR.RED",
+        "Name": "HORN W. SHAFT Ø 3.2",
+        "Price": "£0.06"
     },
     {
         "Category": "Animals and creatures",
-        "Colour Family": "Black",
-        "Design ID": "87747",
-        "Element ID": "4563477",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4563477_s8?$PABspin$",
-        "Name": "TOOTH Ø3.2 SHAFT",
+        "Design ID": "88513",
+        "Element ID": "4579250",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "HORN W. SHAFT Ø 3.2"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Design ID": "88513",
+        "Element ID": "4612901",
+        "Exact Colour": "SILVER MET.",
+        "Name": "HORN W. SHAFT Ø 3.2",
         "Price": "£0.07"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Design ID": "88513",
+        "Element ID": "4618195",
+        "Exact Colour": "W.GOLD",
+        "Name": "HORN W. SHAFT Ø 3.2",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Colour Family": "Yellow",
+        "Design ID": "88513",
+        "Element ID": "6014033",
+        "Exact Colour": "BR.YEL",
+        "Name": "HORN W. SHAFT Ø 3.2",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Design ID": "88513",
+        "Element ID": "6022717",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "HORN W. SHAFT Ø 3.2",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Design ID": "88513",
+        "Element ID": "6109556",
+        "Exact Colour": "SPR. YELL. GREE",
+        "Name": "HORN W. SHAFT Ø 3.2",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Animals and creatures",
+        "Colour Family": "Yellow",
+        "Design ID": "88513",
+        "Element ID": "6157571",
+        "Exact Colour": "COOL YEL.",
+        "Name": "HORN W. SHAFT Ø 3.2",
+        "Price": "£0.08"
     }
 ]

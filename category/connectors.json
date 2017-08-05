@@ -1,231 +1,490 @@
 [
     {
         "Category": "Connectors",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "32002",
-        "Element ID": "6013938",
-        "Exact Colour": "Brick yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6013938_s8?$PABspin$",
-        "Name": "1 1/2 M CONNECTING BUSH",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Connectors",
-        "Colour Family": "Grey",
-        "Design ID": "32123",
-        "Element ID": "4211573",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211573_s8?$PABspin$",
-        "Name": "1/2 BUSH",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Connectors",
-        "Colour Family": "Yellow",
-        "Design ID": "32123",
-        "Element ID": "4239601",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4239601_s8?$PABspin$",
-        "Name": "1/2 BUSH",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Connectors",
-        "Colour Family": "Red",
-        "Design ID": "32062",
-        "Element ID": "4142865",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4142865_s8?$PABspin$",
-        "Name": "2M CROSS AXLE W. GROOVE",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Connectors",
-        "Colour Family": "Black",
-        "Design ID": "32062",
-        "Element ID": "4109810",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4109810_s8?$PABspin$",
-        "Name": "2M CROSS AXLE W. GROOVE",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Connectors",
         "Colour Family": "Black",
         "Design ID": "2566",
         "Element ID": "4532220",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4532220_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "ASSEMBLY ELEMENT Ø3.2",
-        "Price": "£0.10"
+        "Price": "£0.13"
     },
     {
         "Category": "Connectors",
-        "Colour Family": "Grey",
-        "Design ID": "6590",
-        "Element ID": "4211622",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211622_s8?$PABspin$",
-        "Name": "BUSH FOR CROSS AXLE",
-        "Price": "£0.06"
+        "Design ID": "2566",
+        "Element ID": "4612842",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ASSEMBLY ELEMENT Ø3.2"
     },
     {
         "Category": "Connectors",
-        "Colour Family": "Blue",
-        "Design ID": "43093",
-        "Element ID": "4206482",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4206482_s8?$PABspin$",
-        "Name": "CONN.BUSH W.FRIC./CROSSALE",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Connectors",
-        "Colour Family": "Grey",
-        "Design ID": "3673",
-        "Element ID": "4211807",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211807_s8?$PABspin$",
-        "Name": "CONNECTOR PEG",
-        "Price": "£0.06"
+        "Design ID": "2566",
+        "Element ID": "6143062",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ASSEMBLY ELEMENT Ø3.2",
+        "Price": "£0.13"
     },
     {
         "Category": "Connectors",
         "Colour Family": "Black",
         "Design ID": "2780",
         "Element ID": "4121715",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4121715_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "CONNECTOR PEG W. FRICTION",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Connectors",
-        "Colour Family": "Blue",
-        "Design ID": "4274",
-        "Element ID": "4143005",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4143005_s8?$PABspin$",
-        "Name": "CONNECTOR PEG W. KNOB",
-        "Price": "£0.06"
+        "Price": "£0.07"
     },
     {
         "Category": "Connectors",
         "Colour Family": "Grey",
-        "Design ID": "4274",
-        "Element ID": "4211483",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211483_s8?$PABspin$",
-        "Name": "CONNECTOR PEG W. KNOB",
-        "Price": "£0.06"
+        "Design ID": "32002",
+        "Element ID": "4109854",
+        "Exact Colour": "DK.GREY",
+        "Name": "1 1/2 M CONNECTING BUSH"
     },
     {
         "Category": "Connectors",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "6562",
-        "Element ID": "4666579",
-        "Exact Colour": "Brick yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4666579_s8?$PABspin$",
-        "Name": "CONNECTOR PEG/CROSS AXLE",
-        "Price": "£0.06"
+        "Colour Family": "Grey",
+        "Design ID": "32002",
+        "Element ID": "4211050",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "1 1/2 M CONNECTING BUSH",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Connectors",
+        "Design ID": "32002",
+        "Element ID": "6013938",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "1 1/2 M CONNECTING BUSH",
+        "Price": "£0.07"
     },
     {
         "Category": "Connectors",
         "Colour Family": "Black",
-        "Design ID": "3737",
-        "Element ID": "373726",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/373726_s8?$PABspin$",
-        "Name": "CROSS AXLE 10M",
-        "Price": "£0.17"
+        "Design ID": "32062",
+        "Element ID": "4109810",
+        "Exact Colour": "BLACK",
+        "Name": "2M CROSS AXLE W. GROOVE",
+        "Price": "£0.08"
     },
     {
         "Category": "Connectors",
-        "Colour Family": "Grey",
-        "Design ID": "4519",
-        "Element ID": "4211815",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211815_s8?$PABspin$",
-        "Name": "CROSS AXLE 3M",
-        "Price": "£0.06"
+        "Colour Family": "Red",
+        "Design ID": "32062",
+        "Element ID": "4142865",
+        "Exact Colour": "BR.RED",
+        "Name": "2M CROSS AXLE W. GROOVE",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "White",
+        "Design ID": "32062",
+        "Element ID": "4163623",
+        "Exact Colour": "WHITE",
+        "Name": "2M CROSS AXLE W. GROOVE"
     },
     {
         "Category": "Connectors",
         "Colour Family": "Black",
-        "Design ID": "3705",
-        "Element ID": "370526",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/370526_s8?$PABspin$",
-        "Name": "CROSS AXLE 4M",
-        "Price": "£0.10"
+        "Design ID": "32073",
+        "Element ID": "4114740",
+        "Exact Colour": "BLACK",
+        "Name": "CROSS AXLE 5M"
     },
     {
         "Category": "Connectors",
         "Colour Family": "Grey",
-        "Design ID": "59426",
-        "Element ID": "4508553",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4508553_s8?$PABspin$",
-        "Name": "CROSS AXLE 5,5  WITH STOP 1M.",
-        "Price": "£0.10"
+        "Design ID": "32073",
+        "Element ID": "4141482",
+        "Exact Colour": "GREY",
+        "Name": "CROSS AXLE 5M"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "White",
+        "Design ID": "32073",
+        "Element ID": "4166139",
+        "Exact Colour": "WHITE",
+        "Name": "CROSS AXLE 5M"
     },
     {
         "Category": "Connectors",
         "Colour Family": "Grey",
         "Design ID": "32073",
         "Element ID": "4211639",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211639_s8?$PABspin$",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "CROSS AXLE 5M",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Yellow",
+        "Design ID": "32073",
+        "Element ID": "6130008",
+        "Exact Colour": "BR.YEL",
         "Name": "CROSS AXLE 5M",
         "Price": "£0.12"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "32123",
+        "Element ID": "4110050",
+        "Exact Colour": "GREY",
+        "Name": "1/2 BUSH"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "White",
+        "Design ID": "32123",
+        "Element ID": "4203585",
+        "Exact Colour": "WHITE",
+        "Name": "1/2 BUSH"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "32123",
+        "Element ID": "4211573",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "1/2 BUSH"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Yellow",
+        "Design ID": "32123",
+        "Element ID": "4239601",
+        "Exact Colour": "BR.YEL",
+        "Name": "1/2 BUSH",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Blue",
+        "Design ID": "32123",
+        "Element ID": "4260467",
+        "Exact Colour": "BR.BLUE",
+        "Name": "1/2 BUSH"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Black",
+        "Design ID": "32123",
+        "Element ID": "4278910",
+        "Exact Colour": "BLACK",
+        "Name": "1/2 BUSH"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "3673",
+        "Element ID": "4211807",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "CONNECTOR PEG",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Black",
+        "Design ID": "3705",
+        "Element ID": "370526",
+        "Exact Colour": "BLACK",
+        "Name": "CROSS AXLE 4M",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Orange-brown",
+        "Design ID": "3705",
+        "Element ID": "4162390",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "CROSS AXLE 4M"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "3705",
+        "Element ID": "4180062",
+        "Exact Colour": "GREY",
+        "Name": "CROSS AXLE 4M"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "3705",
+        "Element ID": "4265797",
+        "Exact Colour": "BR.RED",
+        "Name": "CROSS AXLE 4M"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "3705",
+        "Element ID": "6129995",
+        "Exact Colour": "BR.RED",
+        "Name": "CROSS AXLE 4M",
+        "Price": "£0.10"
     },
     {
         "Category": "Connectors",
         "Colour Family": "Black",
         "Design ID": "3706",
         "Element ID": "370626",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/370626_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "CROSS AXLE 6M",
-        "Price": "£0.13"
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "3706",
+        "Element ID": "4143263",
+        "Exact Colour": "GREY",
+        "Name": "CROSS AXLE 6M"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "3706",
+        "Element ID": "4191526",
+        "Exact Colour": "BR.RED",
+        "Name": "CROSS AXLE 6M"
+    },
+    {
+        "Category": "Connectors",
+        "Design ID": "3706",
+        "Element ID": "4203604",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "CROSS AXLE 6M"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "3706",
+        "Element ID": "6130002",
+        "Exact Colour": "BR.RED",
+        "Name": "CROSS AXLE 6M",
+        "Price": "£0.19"
     },
     {
         "Category": "Connectors",
         "Colour Family": "Black",
         "Design ID": "3707",
         "Element ID": "370726",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/370726_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "CROSS AXLE 8M",
-        "Price": "£0.13"
+        "Price": "£0.17"
     },
     {
         "Category": "Connectors",
         "Colour Family": "Grey",
-        "Design ID": "4735",
-        "Element ID": "4211644",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211644_s8?$PABspin$",
-        "Name": "HOLDER 16 MM",
-        "Price": "£0.17"
+        "Design ID": "3707",
+        "Element ID": "4156302",
+        "Exact Colour": "GREY",
+        "Name": "CROSS AXLE 8M"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "3707",
+        "Element ID": "6130004",
+        "Exact Colour": "BR.RED",
+        "Name": "CROSS AXLE 8M",
+        "Price": "£0.20"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Black",
+        "Design ID": "3737",
+        "Element ID": "373726",
+        "Exact Colour": "BLACK",
+        "Name": "CROSS AXLE 10M",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "3737",
+        "Element ID": "6130005",
+        "Exact Colour": "BR.RED",
+        "Name": "CROSS AXLE 10M",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "42610",
+        "Element ID": "4168161",
+        "Exact Colour": "GREY",
+        "Name": "HUB Ø11,2 X 7,84"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "42610",
+        "Element ID": "4185944",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "HUB Ø11,2 X 7,84"
     },
     {
         "Category": "Connectors",
         "Colour Family": "Grey",
         "Design ID": "42610",
         "Element ID": "4211758",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211758_s8?$PABspin$",
+        "Exact Colour": "MED. ST-GREY",
         "Name": "HUB Ø11,2 X 7,84",
-        "Price": "£0.10"
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Blue",
+        "Design ID": "4274",
+        "Element ID": "4143005",
+        "Exact Colour": "BR.BLUE",
+        "Name": "CONNECTOR PEG W. KNOB",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "White",
+        "Design ID": "4274",
+        "Element ID": "4187741",
+        "Exact Colour": "WHITE",
+        "Name": "CONNECTOR PEG W. KNOB"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "4274",
+        "Element ID": "4211483",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "CONNECTOR PEG W. KNOB",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "4274",
+        "Element ID": "427402",
+        "Exact Colour": "GREY",
+        "Name": "CONNECTOR PEG W. KNOB"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Black",
+        "Design ID": "43093",
+        "Element ID": "4184170",
+        "Exact Colour": "BLACK",
+        "Name": "CONN.BUSH W.FRIC./CROSSALE"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "White",
+        "Design ID": "43093",
+        "Element ID": "4184171",
+        "Exact Colour": "WHITE",
+        "Name": "CONN.BUSH W.FRIC./CROSSALE"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Blue",
+        "Design ID": "43093",
+        "Element ID": "4206482",
+        "Exact Colour": "BR.BLUE",
+        "Name": "CONN.BUSH W.FRIC./CROSSALE",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "4519",
+        "Element ID": "4143467",
+        "Exact Colour": "BR.RED",
+        "Name": "CROSS AXLE 3M"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "4519",
+        "Element ID": "4186007",
+        "Exact Colour": "GREY",
+        "Name": "CROSS AXLE 3M"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "4519",
+        "Element ID": "4211815",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "CROSS AXLE 3M",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Black",
+        "Design ID": "4519",
+        "Element ID": "451926",
+        "Exact Colour": "BLACK",
+        "Name": "CROSS AXLE 3M"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Yellow",
+        "Design ID": "4519",
+        "Element ID": "6130007",
+        "Exact Colour": "BR.YEL",
+        "Name": "CROSS AXLE 3M",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Black",
+        "Design ID": "4735",
+        "Element ID": "4141580",
+        "Exact Colour": "BLACK",
+        "Name": "HOLDER 16 MM",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "4735",
+        "Element ID": "4143007",
+        "Exact Colour": "DK.GREY",
+        "Name": "HOLDER 16 MM"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "4735",
+        "Element ID": "4210699",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "HOLDER 16 MM"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "4735",
+        "Element ID": "4211644",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "HOLDER 16 MM",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "59426",
+        "Element ID": "4508553",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "CROSS AXLE 5,5  WITH STOP 1M.",
+        "Price": "£0.11"
     },
     {
         "Category": "Connectors",
         "Colour Family": "White",
         "Design ID": "62462",
         "Element ID": "4526981",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4526981_s8?$PABspin$",
+        "Exact Colour": "WHITE",
         "Name": "TUBE W/DOUBLE Ø4.85",
         "Price": "£0.06"
     },
@@ -234,9 +493,167 @@
         "Colour Family": "Black",
         "Design ID": "62462",
         "Element ID": "4526982",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4526982_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "TUBE W/DOUBLE Ø4.85",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Yellow",
+        "Design ID": "62462",
+        "Element ID": "4526983",
+        "Exact Colour": "BR.YEL",
+        "Name": "TUBE W/DOUBLE Ø4.85",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "62462",
+        "Element ID": "4526984",
+        "Exact Colour": "BR.RED",
+        "Name": "TUBE W/DOUBLE Ø4.85",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "62462",
+        "Element ID": "4526985",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "TUBE W/DOUBLE Ø4.85",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Connectors",
+        "Design ID": "62462",
+        "Element ID": "4538144",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "TUBE W/DOUBLE Ø4.85",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "62462",
+        "Element ID": "4539091",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "TUBE W/DOUBLE Ø4.85",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Blue",
+        "Design ID": "62462",
+        "Element ID": "4595160",
+        "Exact Colour": "BR.BLUE",
+        "Name": "TUBE W/DOUBLE Ø4.85"
+    },
+    {
+        "Category": "Connectors",
+        "Design ID": "62462",
+        "Element ID": "6054858",
+        "Exact Colour": "SILVER MET.",
+        "Name": "TUBE W/DOUBLE Ø4.85",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Connectors",
+        "Design ID": "62462",
+        "Element ID": "6055781",
+        "Exact Colour": "RED. BROWN",
+        "Name": "TUBE W/DOUBLE Ø4.85",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Connectors",
+        "Design ID": "62462",
+        "Element ID": "6109756",
+        "Exact Colour": "W.GOLD",
+        "Name": "TUBE W/DOUBLE Ø4.85",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "62462",
+        "Element ID": "6167943",
+        "Exact Colour": "TITAN. METAL.",
+        "Name": "TUBE W/DOUBLE Ø4.85",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "6562",
+        "Element ID": "4211808",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "CONNECTOR PEG/CROSS AXLE"
+    },
+    {
+        "Category": "Connectors",
+        "Design ID": "6562",
+        "Element ID": "4666579",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "CONNECTOR PEG/CROSS AXLE",
         "Price": "£0.06"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "6562",
+        "Element ID": "656202",
+        "Exact Colour": "GREY",
+        "Name": "CONNECTOR PEG/CROSS AXLE"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "6590",
+        "Element ID": "4125313",
+        "Exact Colour": "GREY",
+        "Name": "BUSH FOR CROSS AXLE"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Black",
+        "Design ID": "6590",
+        "Element ID": "4177421",
+        "Exact Colour": "BLACK",
+        "Name": "BUSH FOR CROSS AXLE"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "White",
+        "Design ID": "6590",
+        "Element ID": "4207525",
+        "Exact Colour": "WHITE",
+        "Name": "BUSH FOR CROSS AXLE"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Grey",
+        "Design ID": "6590",
+        "Element ID": "4211622",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "BUSH FOR CROSS AXLE",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Red",
+        "Design ID": "6590",
+        "Element ID": "4227155",
+        "Exact Colour": "BR.RED",
+        "Name": "BUSH FOR CROSS AXLE",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Connectors",
+        "Colour Family": "Yellow",
+        "Design ID": "6590",
+        "Element ID": "4238814",
+        "Exact Colour": "BR.YEL",
+        "Name": "BUSH FOR CROSS AXLE"
     }
 ]

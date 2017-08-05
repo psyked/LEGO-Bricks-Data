@@ -1,22 +1,148 @@
 [
     {
         "Category": "Figure, wigs",
-        "Colour Family": "Reddish Brown",
+        "Colour Family": "Orange-brown",
         "Design ID": "3901",
-        "Element ID": "4211158",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211158_s8?$PABspin$",
-        "Name": "MINI WIG MAN",
-        "Price": "£0.16"
+        "Element ID": "390125",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "MINI WIG MAN"
     },
     {
         "Category": "Figure, wigs",
-        "Colour Family": "Reddish Brown",
+        "Colour Family": "Black",
+        "Design ID": "3901",
+        "Element ID": "390126",
+        "Exact Colour": "BLACK",
+        "Name": "MINI WIG MAN",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Design ID": "3901",
+        "Element ID": "4124069",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI WIG MAN"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Colour Family": "Grey",
+        "Design ID": "3901",
+        "Element ID": "4162404",
+        "Exact Colour": "GREY",
+        "Name": "MINI WIG MAN"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Colour Family": "Orange-brown",
+        "Design ID": "3901",
+        "Element ID": "4163862",
+        "Exact Colour": "DARK NOUGAT",
+        "Name": "MINI WIG MAN"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Colour Family": "Grey",
+        "Design ID": "3901",
+        "Element ID": "4192401",
+        "Exact Colour": "DK.GREY",
+        "Name": "MINI WIG MAN"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Design ID": "3901",
+        "Element ID": "4211158",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI WIG MAN",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Colour Family": "Grey",
+        "Design ID": "3901",
+        "Element ID": "4211740",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI WIG MAN",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Design ID": "3901",
+        "Element ID": "4557944",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI WIG MAN",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Design ID": "3901",
+        "Element ID": "6006104",
+        "Exact Colour": "DK.ORA",
+        "Name": "MINI WIG MAN",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Design ID": "3901",
+        "Element ID": "6131630",
+        "Exact Colour": "DK. BROWN",
+        "Name": "MINI WIG MAN",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Colour Family": "Black",
+        "Design ID": "62810",
+        "Element ID": "4526110",
+        "Exact Colour": "BLACK",
+        "Name": "WIG BOY",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Design ID": "62810",
+        "Element ID": "4529755",
+        "Exact Colour": "DK.ORA",
+        "Name": "WIG BOY",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, wigs",
         "Design ID": "62810",
         "Element ID": "4535553",
-        "Exact Colour": "Dark brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4535553_s8?$PABspin$",
+        "Exact Colour": "DK. BROWN",
+        "Name": "WIG BOY"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Design ID": "62810",
+        "Element ID": "6018438",
+        "Exact Colour": "SAND YELLOW",
         "Name": "WIG BOY",
-        "Price": "£0.16"
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Colour Family": "Grey",
+        "Design ID": "62810",
+        "Element ID": "6075237",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "WIG BOY",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Design ID": "62810",
+        "Element ID": "6082516",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "WIG BOY",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, wigs",
+        "Colour Family": "Yellow",
+        "Design ID": "62810",
+        "Element ID": "6105762",
+        "Exact Colour": "BR.YEL",
+        "Name": "WIG BOY"
     }
 ]

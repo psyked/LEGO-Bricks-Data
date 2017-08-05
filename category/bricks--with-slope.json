@@ -2,510 +2,998 @@
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Black",
-        "Design ID": "3045",
-        "Element ID": "4189064",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4189064_s8?$PABspin$",
-        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
-        "Price": "£0.16"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3045",
-        "Element ID": "4210646",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4210646_s8?$PABspin$",
-        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
-        "Price": "£0.16"
+        "Design ID": "15571",
+        "Element ID": "6051508",
+        "Exact Colour": "BLACK",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.11"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Red",
         "Design ID": "15571",
         "Element ID": "6075074",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6075074_s8?$PABspin$",
+        "Exact Colour": "BR.RED",
         "Name": "END RIDGED TILE 1X2/45°",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "15571",
-        "Element ID": "6051508",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6051508_s8?$PABspin$",
-        "Name": "END RIDGED TILE 1X2/45°",
-        "Price": "£0.06"
+        "Price": "£0.11"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Grey",
-        "Design ID": "52501",
-        "Element ID": "4294180",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4294180_s8?$PABspin$",
-        "Name": "INVERTED ROOF TILE 6X1X1",
-        "Price": "£0.18"
+        "Design ID": "15571",
+        "Element ID": "6075075",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.11"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "50746",
-        "Element ID": "4244362",
-        "Exact Colour": "Transparent",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4244362_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 1 X 2/3",
-        "Price": "£0.06"
+        "Design ID": "15571",
+        "Element ID": "6075077",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.20"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Red",
-        "Design ID": "50746",
-        "Element ID": "4244363",
-        "Exact Colour": "Tr. red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4244363_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 1 X 2/3",
-        "Price": "£0.06"
+        "Design ID": "15571",
+        "Element ID": "6075079",
+        "Exact Colour": "W.GOLD",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "15571",
+        "Element ID": "6075084",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.20"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Yellow",
-        "Design ID": "50746",
-        "Element ID": "4260942",
-        "Exact Colour": "Tr. yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4260942_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 1 X 2/3",
-        "Price": "£0.06"
+        "Design ID": "15571",
+        "Element ID": "6075085",
+        "Exact Colour": "BR.YEL",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.14"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Dark Green",
-        "Design ID": "85984",
-        "Element ID": "6000071",
-        "Exact Colour": "Dark green",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6000071_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
-        "Price": "£0.10"
+        "Colour Family": "Grey",
+        "Design ID": "15571",
+        "Element ID": "6076203",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "15571",
+        "Element ID": "6078294",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "15571",
+        "Element ID": "6078456",
+        "Exact Colour": "BR.BLUE",
+        "Name": "END RIDGED TILE 1X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "15571",
+        "Element ID": "6097801",
+        "Exact Colour": "WHITE",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.12"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Purple",
-        "Design ID": "85984",
-        "Element ID": "4649749",
-        "Exact Colour": "Light purple",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4649749_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "85984",
-        "Element ID": "4567887",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4567887_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
-        "Price": "£0.10"
+        "Design ID": "15571",
+        "Element ID": "6133697",
+        "Exact Colour": "BR.RED-VIOL.",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.16"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Blue",
-        "Design ID": "85984",
-        "Element ID": "4651236",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4651236_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Red",
-        "Design ID": "85984",
-        "Element ID": "4651524",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4651524_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "85984",
-        "Element ID": "4624086",
-        "Exact Colour": "Brick yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4624086_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "85984",
-        "Element ID": "4547489",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4547489_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Yellow",
-        "Design ID": "85984",
-        "Element ID": "4550348",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4550348_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "85984",
-        "Element ID": "4548180",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4548180_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Yellow",
-        "Design ID": "85984",
-        "Element ID": "6024286",
-        "Exact Colour": "Flame yellowish orange",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6024286_s8?$PABspin$",
-        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "54200",
-        "Element ID": "4516055",
-        "Exact Colour": "Brick yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4516055_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "54200",
-        "Element ID": "4504376",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4504376_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
+        "Design ID": "15571",
+        "Element ID": "6137764",
+        "Exact Colour": "AQUA",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.13"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Blue",
-        "Design ID": "54200",
-        "Element ID": "4504380",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4504380_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
+        "Design ID": "15571",
+        "Element ID": "6151689",
+        "Exact Colour": "DARK AZUR",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.14"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Yellow",
-        "Design ID": "54200",
-        "Element ID": "4504381",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4504381_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Dark Green",
-        "Design ID": "54200",
-        "Element ID": "4504372",
-        "Exact Colour": "Bright yellowish green",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4504372_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Bright Orange",
-        "Design ID": "54200",
-        "Element ID": "4504371",
-        "Exact Colour": "Bright orange",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4504371_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Dark Green",
-        "Design ID": "54200",
-        "Element ID": "4546705",
-        "Exact Colour": "Dark green",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4546705_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "54200",
-        "Element ID": "4504378",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4504378_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "54200",
-        "Element ID": "4521921",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4521921_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Lilac",
-        "Design ID": "54200",
-        "Element ID": "4567509",
-        "Exact Colour": "Medium lilac",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4567509_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Dark Green",
-        "Design ID": "54200",
-        "Element ID": "6002841",
-        "Exact Colour": "Olive green",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6002841_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "54200",
-        "Element ID": "4504369",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4504369_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Red",
-        "Design ID": "54200",
-        "Element ID": "4531415",
-        "Exact Colour": "New dark red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4531415_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Red",
-        "Design ID": "54200",
-        "Element ID": "4504379",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4504379_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "54200",
-        "Element ID": "4504382",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4504382_s8?$PABspin$",
-        "Name": "ROOF TILE 1X1X2/3, ABS",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "15672",
-        "Element ID": "6069164",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6069164_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "15672",
-        "Element ID": "6069002",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6069002_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
-        "Price": "£0.06"
+        "Design ID": "15571",
+        "Element ID": "6185990",
+        "Exact Colour": "M. LILAC",
+        "Name": "END RIDGED TILE 1X2/45°",
+        "Price": "£0.14"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Red",
         "Design ID": "15672",
         "Element ID": "6053011",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6053011_s8?$PABspin$",
+        "Exact Colour": "BR.RED",
         "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
-        "Price": "£0.06"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "15672",
-        "Element ID": "6069000",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6069000_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
-        "Price": "£0.06"
+        "Price": "£0.08"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "White",
-        "Design ID": "3665",
-        "Element ID": "366501",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/366501_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 INV.",
+        "Design ID": "15672",
+        "Element ID": "6069002",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "15672",
+        "Element ID": "6069163",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "15672",
+        "Element ID": "6069165",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "15672",
+        "Element ID": "6069171",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "15672",
+        "Element ID": "6075287",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "15672",
+        "Element ID": "6093064",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "15672",
+        "Element ID": "6093859",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "15672",
+        "Element ID": "6134312",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "15672",
+        "Element ID": "6139519",
+        "Exact Colour": "SAND BLUE",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "15672",
+        "Element ID": "6151668",
+        "Exact Colour": "DARK AZUR",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "15672",
+        "Element ID": "6170559",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE",
         "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "15672",
+        "Element ID": "6186683",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 1X2 45° W 1/3 PLATE"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "2449",
+        "Element ID": "244926",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "2449",
+        "Element ID": "4159199",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "2449",
+        "Element ID": "4160697",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "2449",
+        "Element ID": "4216248",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "2449",
+        "Element ID": "4224953",
+        "Exact Colour": "SAND BLUE",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "2449",
+        "Element ID": "4226442",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "2449",
+        "Element ID": "4264755",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.24"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Red",
-        "Design ID": "3665",
-        "Element ID": "366521",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/366521_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 INV.",
-        "Price": "£0.12"
+        "Design ID": "2449",
+        "Element ID": "4276180",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 1X2X3/74° INV."
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Grey",
-        "Design ID": "3665",
-        "Element ID": "4211437",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211437_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 INV.",
+        "Design ID": "2449",
+        "Element ID": "4500975",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "2449",
+        "Element ID": "4501534",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.29"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "2449",
+        "Element ID": "4518561",
+        "Exact Colour": "DK. BROWN",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "2449",
+        "Element ID": "4532972",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "2449",
+        "Element ID": "4583836",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "2449",
+        "Element ID": "4629678",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "2449",
+        "Element ID": "4636202",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "2449",
+        "Element ID": "6022072",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.29"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "2449",
+        "Element ID": "6022081",
+        "Exact Colour": "COOL YEL.",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "2449",
+        "Element ID": "6030731",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "2449",
+        "Element ID": "6110024",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.38"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "2449",
+        "Element ID": "6146485",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "2449",
+        "Element ID": "6170901",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "2449",
+        "Element ID": "6172639",
+        "Exact Colour": "AQUA",
+        "Name": "ROOF TILE 1X2X3/74° INV.",
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "2449",
+        "Element ID": "6194230",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 1X2X3/74° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "30363",
+        "Element ID": "4124121",
+        "Exact Colour": "GREY",
+        "Name": "ROOF TILE 2X4X1, 18°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "30363",
+        "Element ID": "4124463",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 2X4X1, 18°",
+        "Price": "£0.37"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "30363",
+        "Element ID": "4129539",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 2X4X1, 18°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "30363",
+        "Element ID": "4143000",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 2X4X1, 18°",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "30363",
+        "Element ID": "4185583",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 2X4X1, 18°",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "30363",
+        "Element ID": "4210637",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 2X4X1, 18°",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "30363",
+        "Element ID": "4212122",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 2X4X1, 18°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "30363",
+        "Element ID": "4212560",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 2X4X1, 18°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "30363",
+        "Element ID": "4225869",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 2X4X1, 18°",
+        "Price": "£0.29"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "30363",
+        "Element ID": "4509915",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 2X4X1, 18°",
+        "Price": "£0.29"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "30363",
+        "Element ID": "4595862",
+        "Exact Colour": "SAND GREEN",
+        "Name": "ROOF TILE 2X4X1, 18°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "30363",
+        "Element ID": "6030360",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 2X4X1, 18°",
+        "Price": "£0.37"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "30363",
+        "Element ID": "6065880",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 2X4X1, 18°",
+        "Price": "£0.29"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "3037",
+        "Element ID": "303701",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3037",
+        "Element ID": "303721",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "3037",
+        "Element ID": "303726",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3037",
+        "Element ID": "4107437",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3037",
+        "Element ID": "4141737",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 2X4/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3037",
+        "Element ID": "4195424",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 2X4/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3037",
+        "Element ID": "4211127",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3037",
+        "Element ID": "4211205",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3037",
+        "Element ID": "4211409",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3037",
+        "Element ID": "4219911",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3037",
+        "Element ID": "4225933",
+        "Exact Colour": "SAND BLUE",
+        "Name": "ROOF TILE 2X4/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3037",
+        "Element ID": "4264401",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "ROOF TILE 2X4/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "3037",
+        "Element ID": "4518889",
+        "Exact Colour": "BR.RED-VIOL.",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3037",
+        "Element ID": "4541380",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3037",
+        "Element ID": "4578094",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3037",
+        "Element ID": "4633072",
+        "Exact Colour": "SAND GREEN",
+        "Name": "ROOF TILE 2X4/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3037",
+        "Element ID": "6036490",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3037",
+        "Element ID": "6109901",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3037",
+        "Element ID": "6115263",
+        "Exact Colour": "DK.ORA",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3037",
+        "Element ID": "6149568",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 2X4/45°",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3037",
+        "Element ID": "6195281",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 2X4/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "3039",
+        "Element ID": "303901",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3039",
+        "Element ID": "303902",
+        "Exact Colour": "GREY",
+        "Name": "ROOF TILE 2X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3039",
+        "Element ID": "303921",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 2X2/45°",
         "Price": "£0.12"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "3665",
-        "Element ID": "4159196",
-        "Exact Colour": "Brick yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4159196_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 INV.",
+        "Colour Family": "Blue",
+        "Design ID": "3039",
+        "Element ID": "303923",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 2X2/45°",
         "Price": "£0.12"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Lilac",
-        "Design ID": "3665",
-        "Element ID": "4619509",
-        "Exact Colour": "Medium lavendel",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4619509_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 INV.",
-        "Price": "£0.12"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "3665",
-        "Element ID": "4211222",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211222_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 INV.",
+        "Colour Family": "Yellow",
+        "Design ID": "3039",
+        "Element ID": "303924",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 2X2/45°",
         "Price": "£0.12"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Black",
-        "Design ID": "3665",
-        "Element ID": "366526",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/366526_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 INV.",
+        "Design ID": "3039",
+        "Element ID": "303926",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "303928",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 2X2/45°",
         "Price": "£0.12"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Grey",
-        "Design ID": "3665",
-        "Element ID": "4211096",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211096_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2 INV.",
+        "Design ID": "3039",
+        "Element ID": "4109984",
+        "Exact Colour": "DK.GREY",
+        "Name": "ROOF TILE 2X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "4114322",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 2X2/45°",
         "Price": "£0.12"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Dark Green",
-        "Design ID": "3040",
-        "Element ID": "4537925",
-        "Exact Colour": "Bright yellowish green",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4537925_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2/45°",
-        "Price": "£0.10"
+        "Design ID": "3039",
+        "Element ID": "4118828",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.12"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Black",
+        "Colour Family": "Orange-brown",
+        "Design ID": "3039",
+        "Element ID": "4124058",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "ROOF TILE 2X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3039",
+        "Element ID": "4143135",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 2X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3039",
+        "Element ID": "4153653",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "4153763",
+        "Exact Colour": "SAND GREEN",
+        "Name": "ROOF TILE 2X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "4158239",
+        "Exact Colour": "DK.ORA",
+        "Name": "ROOF TILE 2X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3039",
+        "Element ID": "4211054",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "4211202",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3039",
+        "Element ID": "4211410",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3039",
+        "Element ID": "4215337",
+        "Exact Colour": "SAND BLUE",
+        "Name": "ROOF TILE 2X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "3039",
+        "Element ID": "4279496",
+        "Exact Colour": "BR. RED. LILAC",
+        "Name": "ROOF TILE 2X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "3039",
+        "Element ID": "4550362",
+        "Exact Colour": "BR.RED-VIOL.",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3039",
+        "Element ID": "4609925",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "4650630",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "6016474",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "ROOF TILE 2X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3039",
+        "Element ID": "6020181",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "6022023",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "6115261",
+        "Exact Colour": "DK.ORA",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3039",
+        "Element ID": "6137765",
+        "Exact Colour": "AQUA",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "6172518",
+        "Exact Colour": "LAVENDER",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3039",
+        "Element ID": "6173655",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3039",
+        "Element ID": "6184880",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "ROOF TILE 2X2/45°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
         "Design ID": "3040",
-        "Element ID": "4121966",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4121966_s8?$PABspin$",
+        "Element ID": "4121932",
+        "Exact Colour": "WHITE",
         "Name": "ROOF TILE 1X2/45°",
-        "Price": "£0.10"
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3040",
+        "Element ID": "4121934",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.08"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Blue",
         "Design ID": "3040",
         "Element ID": "4121936",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4121936_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2/45°",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3040",
-        "Element ID": "4211135",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211135_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2/45°",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "3040",
-        "Element ID": "4121972",
-        "Exact Colour": "Brick yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4121972_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2/45°",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Purple",
-        "Design ID": "3040",
-        "Element ID": "4625626",
-        "Exact Colour": "Bright reddish violet",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4625626_s8?$PABspin$",
+        "Exact Colour": "BR.BLUE",
         "Name": "ROOF TILE 1X2/45°",
         "Price": "£0.10"
     },
@@ -514,68 +1002,162 @@
         "Colour Family": "Yellow",
         "Design ID": "3040",
         "Element ID": "4121965",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4121965_s8?$PABspin$",
+        "Exact Colour": "BR.YEL",
         "Name": "ROOF TILE 1X2/45°",
         "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "3040",
+        "Element ID": "4121966",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "4121967",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "4121969",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3040",
+        "Element ID": "4121970",
+        "Exact Colour": "DK.GREY",
+        "Name": "ROOF TILE 1X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Orange-brown",
+        "Design ID": "3040",
+        "Element ID": "4121971",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "ROOF TILE 1X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "4121972",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "4143043",
+        "Exact Colour": "SAND GREEN",
+        "Name": "ROOF TILE 1X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3040",
+        "Element ID": "4168633",
+        "Exact Colour": "SAND BLUE",
+        "Name": "ROOF TILE 1X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3040",
+        "Element ID": "4211135",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "4211199",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.08"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Grey",
         "Design ID": "3040",
         "Element ID": "4211614",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211614_s8?$PABspin$",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "4224730",
+        "Exact Colour": "DK.ORA",
+        "Name": "ROOF TILE 1X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "4255624",
+        "Exact Colour": "EARTH GREEN",
         "Name": "ROOF TILE 1X2/45°",
         "Price": "£0.10"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Bright Orange",
+        "Colour Family": "Purple",
         "Design ID": "3040",
-        "Element ID": "4121967",
-        "Exact Colour": "Bright orange",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4121967_s8?$PABspin$",
+        "Element ID": "4517995",
+        "Exact Colour": "LGH. PURPLE",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "4518557",
+        "Exact Colour": "DK. BROWN",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "3040",
+        "Element ID": "4518891",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "ROOF TILE 1X2/45°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "4530678",
+        "Exact Colour": "SAND YELLOW",
         "Name": "ROOF TILE 1X2/45°",
         "Price": "£0.10"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Dark Green",
         "Design ID": "3040",
-        "Element ID": "4121969",
-        "Exact Colour": "Dark green",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4121969_s8?$PABspin$",
+        "Element ID": "4537925",
+        "Exact Colour": "BR.YEL-GREEN",
         "Name": "ROOF TILE 1X2/45°",
-        "Price": "£0.10"
+        "Price": "£0.11"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Lilac",
+        "Colour Family": "Red",
         "Design ID": "3040",
-        "Element ID": "6022005",
-        "Exact Colour": "Medium lavendel",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6022005_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2/45°",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "3040",
-        "Element ID": "4211199",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211199_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2/45°",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "3040",
-        "Element ID": "4121932",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4121932_s8?$PABspin$",
+        "Element ID": "4541526",
+        "Exact Colour": "NEW DARK RED",
         "Name": "ROOF TILE 1X2/45°",
         "Price": "£0.10"
     },
@@ -584,48 +1166,1696 @@
         "Colour Family": "Blue",
         "Design ID": "3040",
         "Element ID": "4619655",
-        "Exact Colour": "Medium azur",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4619655_s8?$PABspin$",
+        "Exact Colour": "MEDIUM AZUR",
         "Name": "ROOF TILE 1X2/45°",
         "Price": "£0.10"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
+        "Colour Family": "Purple",
         "Design ID": "3040",
-        "Element ID": "4530678",
-        "Exact Colour": "Sand yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4530678_s8?$PABspin$",
+        "Element ID": "4625626",
+        "Exact Colour": "BR.RED-VIOL.",
         "Name": "ROOF TILE 1X2/45°",
-        "Price": "£0.10"
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3040",
+        "Element ID": "4626883",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "6022005",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3040",
+        "Element ID": "6023157",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3040",
+        "Element ID": "6036851",
+        "Exact Colour": "DARK AZUR",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "6058135",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "6064670",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "6069259",
+        "Exact Colour": "DK.ORA",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3040",
+        "Element ID": "6103405",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3040",
+        "Element ID": "6109814",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3040",
+        "Element ID": "6163292",
+        "Exact Colour": "AQUA",
+        "Name": "ROOF TILE 1X2/45°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3045",
+        "Element ID": "4118936",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3045",
+        "Element ID": "4153761",
+        "Exact Colour": "SAND GREEN",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Red",
-        "Design ID": "3040",
-        "Element ID": "4121934",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4121934_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2/45°",
+        "Design ID": "3045",
+        "Element ID": "4163087",
+        "Exact Colour": "BR.RED",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "3045",
+        "Element ID": "4189064",
+        "Exact Colour": "BLACK",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Orange-brown",
+        "Design ID": "3045",
+        "Element ID": "4190173",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3045",
+        "Element ID": "4196736",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.20"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3045",
+        "Element ID": "4210646",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3045",
+        "Element ID": "4216250",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3045",
+        "Element ID": "4222745",
+        "Exact Colour": "RED. BROWN",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3045",
+        "Element ID": "4224301",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "3045",
+        "Element ID": "4233370",
+        "Exact Colour": "WHITE",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3045",
+        "Element ID": "4271076",
+        "Exact Colour": "BR.YEL",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3045",
+        "Element ID": "4593330",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3045",
+        "Element ID": "4593335",
+        "Exact Colour": "BR.BLUE",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3045",
+        "Element ID": "4613007",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3045",
+        "Element ID": "4652624",
+        "Exact Colour": "RED. BROWN",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3045",
+        "Element ID": "6036493",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3045",
+        "Element ID": "6107202",
+        "Exact Colour": "M. LILAC",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.20"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3045",
+        "Element ID": "6115260",
+        "Exact Colour": "DK.ORA",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3045",
+        "Element ID": "6137762",
+        "Exact Colour": "AQUA",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3045",
+        "Element ID": "6138508",
+        "Exact Colour": "LAVENDER",
+        "Name": "CORNER BRICK 2X2/45° OUTSIDE",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "3298",
+        "Element ID": "329801",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3298",
+        "Element ID": "329802",
+        "Exact Colour": "GREY",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3298",
+        "Element ID": "329821",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3298",
+        "Element ID": "329823",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3298",
+        "Element ID": "329824",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "3298",
+        "Element ID": "329826",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3298",
+        "Element ID": "329828",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3298",
+        "Element ID": "4114312",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3298",
+        "Element ID": "4114323",
+        "Exact Colour": "DK.GREY",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3298",
+        "Element ID": "4120172",
+        "Exact Colour": "BR.BLUEGREEN",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3298",
+        "Element ID": "4121742",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Orange-brown",
+        "Design ID": "3298",
+        "Element ID": "4140484",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3298",
+        "Element ID": "4162215",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3298",
+        "Element ID": "4211106",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3298",
+        "Element ID": "4211421",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3298",
+        "Element ID": "4216625",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3298",
+        "Element ID": "4223833",
+        "Exact Colour": "R.BLUE",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3298",
+        "Element ID": "4242352",
+        "Exact Colour": "DK.ORA",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "3298",
+        "Element ID": "4599547",
+        "Exact Colour": "BR.RED-VIOL.",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3298",
+        "Element ID": "6021566",
+        "Exact Colour": "DARK AZUR",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3298",
+        "Element ID": "6025376",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3298",
+        "Element ID": "6055875",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3298",
+        "Element ID": "6064669",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "ROOF TILE 2X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3298",
+        "Element ID": "6078613",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3298",
+        "Element ID": "6141996",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 2X3/25°",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "3660",
+        "Element ID": "366001",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3660",
+        "Element ID": "366002",
+        "Exact Colour": "GREY",
+        "Name": "ROOF TILE 2X2/45° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3660",
+        "Element ID": "366021",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3660",
+        "Element ID": "366023",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3660",
+        "Element ID": "366024",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "3660",
+        "Element ID": "366026",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3660",
+        "Element ID": "366027",
+        "Exact Colour": "DK.GREY",
+        "Name": "ROOF TILE 2X2/45° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3660",
+        "Element ID": "4118829",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3660",
+        "Element ID": "4118866",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3660",
+        "Element ID": "4142717",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Orange-brown",
+        "Design ID": "3660",
+        "Element ID": "4143260",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "ROOF TILE 2X2/45° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3660",
+        "Element ID": "4196731",
+        "Exact Colour": "SAND BLUE",
+        "Name": "ROOF TILE 2X2/45° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3660",
+        "Element ID": "4211000",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3660",
+        "Element ID": "4211221",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3660",
+        "Element ID": "4211436",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 2X2/45° INV.",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3660",
+        "Element ID": "4224050",
+        "Exact Colour": "R.BLUE",
+        "Name": "ROOF TILE 2X2/45° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3660",
+        "Element ID": "4255751",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 2X2/45 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3660",
+        "Element ID": "4529174",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "ROOF TILE 2X2/45 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3660",
+        "Element ID": "4529679",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 2X2/45 INV.",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3660",
+        "Element ID": "4648296",
+        "Exact Colour": "DK. BROWN",
+        "Name": "ROOF TILE 2X2/45 INV.",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3660",
+        "Element ID": "6025375",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 2X2/45 INV.",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3660",
+        "Element ID": "6052917",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 2X2/45 INV.",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3660",
+        "Element ID": "6055241",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "ROOF TILE 2X2/45 INV.",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3660",
+        "Element ID": "6056214",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 2X2/45 INV.",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3660",
+        "Element ID": "6070756",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "ROOF TILE 2X2/45 INV.",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3660",
+        "Element ID": "6133921",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 2X2/45 INV.",
+        "Price": "£0.20"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3660",
+        "Element ID": "6170916",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 2X2/45 INV.",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "3660",
+        "Element ID": "6172860",
+        "Exact Colour": "BR.RED-VIOL.",
+        "Name": "ROOF TILE 2X2/45 INV.",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "3665",
+        "Element ID": "366501",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3665",
+        "Element ID": "366502",
+        "Exact Colour": "GREY",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3665",
+        "Element ID": "366521",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 1X2 INV.",
         "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3665",
+        "Element ID": "366523",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3665",
+        "Element ID": "366524",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "3665",
+        "Element ID": "366526",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3665",
+        "Element ID": "4114060",
+        "Exact Colour": "DK.GREY",
+        "Name": "ROFF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4142989",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 1X2 INV",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Orange-brown",
+        "Design ID": "3665",
+        "Element ID": "4143261",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3665",
+        "Element ID": "4153279",
+        "Exact Colour": "SAND BLUE",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4159196",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4160185",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4164028",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3665",
+        "Element ID": "4211096",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4211222",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3665",
+        "Element ID": "4211437",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3665",
+        "Element ID": "4226033",
+        "Exact Colour": "R.BLUE",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4265357",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4267987",
+        "Exact Colour": "DK.ORA",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "3665",
+        "Element ID": "4279493",
+        "Exact Colour": "BR. RED. LILAC",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4569534",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3665",
+        "Element ID": "4590811",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3665",
+        "Element ID": "4598015",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4616279",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4619509",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "3665",
+        "Element ID": "4622743",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4654915",
+        "Exact Colour": "DK. BROWN",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "4656081",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "6030276",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3665",
+        "Element ID": "6070769",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3665",
+        "Element ID": "6097498",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3665",
+        "Element ID": "6121959",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3665",
+        "Element ID": "6135608",
+        "Exact Colour": "DARK AZUR",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3665",
+        "Element ID": "6136455",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 1X2 INV.",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "3665",
+        "Element ID": "6195504",
+        "Exact Colour": "BR.RED-VIOL.",
+        "Name": "ROOF TILE 1X2 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "3747",
+        "Element ID": "374724",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 2X3/25° INV.",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3747",
+        "Element ID": "4109695",
+        "Exact Colour": "GREY",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3747",
+        "Element ID": "4112039",
+        "Exact Colour": "DK.GREY",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3747",
+        "Element ID": "4113071",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3747",
+        "Element ID": "4121737",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 2X3/25° INV.",
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3747",
+        "Element ID": "4121833",
+        "Exact Colour": "BR.BLUEGREEN",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3747",
+        "Element ID": "4163773",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3747",
+        "Element ID": "4211570",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 2X3/25° INV.",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Orange-brown",
+        "Design ID": "3747",
+        "Element ID": "4222818",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3747",
+        "Element ID": "4500453",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 2X3/25° INV.",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "3747",
+        "Element ID": "4500458",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3747",
+        "Element ID": "4500462",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 2X3/25° INV.",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "3747",
+        "Element ID": "4500464",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3747",
+        "Element ID": "4500467",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "3747",
+        "Element ID": "4500469",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 2X3/25° INV.",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3747",
+        "Element ID": "4508616",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 2X3/25° INV.",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3747",
+        "Element ID": "4509443",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 2X3/25° INV.",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "3747",
+        "Element ID": "4585630",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3747",
+        "Element ID": "4640884",
+        "Exact Colour": "DARK AZUR",
+        "Name": "ROOF TILE 2X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "3747",
+        "Element ID": "6097491",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 2X3/25° INV.",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "3747",
+        "Element ID": "6142697",
+        "Exact Colour": "SAND GREEN",
+        "Name": "ROOF TILE 2X3/25° INV.",
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "4107637",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4286",
+        "Element ID": "4108045",
+        "Exact Colour": "DK.GREY",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Orange-brown",
+        "Design ID": "4286",
+        "Element ID": "4118916",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "4125256",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4286",
+        "Element ID": "4143136",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "4286",
+        "Element ID": "4143692",
+        "Exact Colour": "SAND RED",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "4164030",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4286",
+        "Element ID": "4211045",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "4211197",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4286",
+        "Element ID": "4211488",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4286",
+        "Element ID": "4223834",
+        "Exact Colour": "R.BLUE",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "4225012",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "4242393",
+        "Exact Colour": "DK.ORA",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "4248193",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "4286",
+        "Element ID": "428601",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4286",
+        "Element ID": "428602",
+        "Exact Colour": "GREY",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "4286",
+        "Element ID": "428621",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4286",
+        "Element ID": "428623",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "4286",
+        "Element ID": "428624",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "4286",
+        "Element ID": "428626",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4286",
+        "Element ID": "4288231",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "4552337",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "4598531",
+        "Exact Colour": "SAND GREEN",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "4286",
+        "Element ID": "4621620",
+        "Exact Colour": "LGH. PURPLE",
+        "Name": "ROOF TILE 1X3/25°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "4286",
+        "Element ID": "4650862",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "6015454",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4286",
+        "Element ID": "6056239",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "6058090",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "6070295",
+        "Exact Colour": "LAVENDER",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4286",
+        "Element ID": "6096941",
+        "Exact Colour": "AQUA",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4286",
+        "Element ID": "6097317",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4286",
+        "Element ID": "6103774",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "4286",
+        "Element ID": "6131583",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4286",
+        "Element ID": "6167466",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 1X3/25°",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4287",
+        "Element ID": "4112881",
+        "Exact Colour": "DK.GREY",
+        "Name": "ROOF TILE 1X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Orange-brown",
+        "Design ID": "4287",
+        "Element ID": "4118750",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "ROOF TILE 1X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4287",
+        "Element ID": "4182478",
+        "Exact Colour": "SAND BLUE",
+        "Name": "ROOF TILE 1X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4287",
+        "Element ID": "4211068",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4287",
+        "Element ID": "4211195",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4287",
+        "Element ID": "4211489",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4287",
+        "Element ID": "4225270",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 1X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "4287",
+        "Element ID": "4248804",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 1X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4287",
+        "Element ID": "4250611",
+        "Exact Colour": "PASTBLU",
+        "Name": "ROOF TILE 1X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "4287",
+        "Element ID": "428701",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4287",
+        "Element ID": "428702",
+        "Exact Colour": "GREY",
+        "Name": "ROOF TILE 1X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "4287",
+        "Element ID": "428721",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4287",
+        "Element ID": "428723",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "4287",
+        "Element ID": "428724",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "4287",
+        "Element ID": "428726",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4287",
+        "Element ID": "4569469",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "ROOF TILE 1X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4287",
+        "Element ID": "4583837",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4287",
+        "Element ID": "6037389",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "4287",
+        "Element ID": "6131586",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 1X3/25° INV.",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4287",
+        "Element ID": "6182441",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1X3/25° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4460",
+        "Element ID": "4121925",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4460",
+        "Element ID": "4129996",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 1X2X3/73°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "4460",
+        "Element ID": "4162628",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 1X2X3/73°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4460",
+        "Element ID": "4211494",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.16"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Grey",
         "Design ID": "4460",
         "Element ID": "4221745",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4221745_s8?$PABspin$",
+        "Exact Colour": "DK. ST. GREY",
         "Name": "ROOF TILE 1X2X3/73°",
         "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "4460",
+        "Element ID": "4267279",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 1X2X3/73°"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4460",
+        "Element ID": "4270470",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4460",
+        "Element ID": "4295307",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.26"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "White",
         "Design ID": "4460",
         "Element ID": "446001",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/446001_s8?$PABspin$",
+        "Exact Colour": "WHITE",
         "Name": "ROOF TILE 1X2X3/73°",
         "Price": "£0.17"
     },
@@ -634,599 +2864,1569 @@
         "Colour Family": "Black",
         "Design ID": "4460",
         "Element ID": "446026",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/446026_s8?$PABspin$",
+        "Exact Colour": "BLACK",
         "Name": "ROOF TILE 1X2X3/73°",
         "Price": "£0.17"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "2449",
-        "Element ID": "4532972",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4532972_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2X3/74° INV.",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "2449",
-        "Element ID": "4500975",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4500975_s8?$PABspin$",
-        "Name": "ROOF TILE 1X2X3/74° INV.",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Dark Green",
-        "Design ID": "4286",
-        "Element ID": "4107637",
-        "Exact Colour": "Dark green",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4107637_s8?$PABspin$",
-        "Name": "ROOF TILE 1X3/25°",
-        "Price": "£0.10"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "4286",
-        "Element ID": "428601",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/428601_s8?$PABspin$",
-        "Name": "ROOF TILE 1X3/25°",
-        "Price": "£0.10"
+        "Design ID": "4460",
+        "Element ID": "4518562",
+        "Exact Colour": "DK. BROWN",
+        "Name": "ROOF TILE 1X2X3/73°"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "Red",
-        "Design ID": "4286",
-        "Element ID": "428621",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/428621_s8?$PABspin$",
-        "Name": "ROOF TILE 1X3/25°",
-        "Price": "£0.10"
+        "Design ID": "4460",
+        "Element ID": "4623597",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.22"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "4286",
-        "Element ID": "428626",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/428626_s8?$PABspin$",
-        "Name": "ROOF TILE 1X3/25°",
-        "Price": "£0.10"
+        "Design ID": "4460",
+        "Element ID": "4647555",
+        "Exact Colour": "BR.GREEN",
+        "Name": "ROOF TILE 1X2X3/73°"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "4286",
-        "Element ID": "4211045",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211045_s8?$PABspin$",
-        "Name": "ROOF TILE 1X3/25°",
-        "Price": "£0.10"
+        "Design ID": "4460",
+        "Element ID": "4653509",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.19"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "4286",
-        "Element ID": "4211488",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211488_s8?$PABspin$",
-        "Name": "ROOF TILE 1X3/25°",
-        "Price": "£0.10"
+        "Colour Family": "Yellow",
+        "Design ID": "4460",
+        "Element ID": "6023161",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 1X2X3/73°"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "4287",
-        "Element ID": "4211489",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211489_s8?$PABspin$",
-        "Name": "ROOF TILE 1X3/25° INV.",
-        "Price": "£0.10"
+        "Colour Family": "Blue",
+        "Design ID": "4460",
+        "Element ID": "6027624",
+        "Exact Colour": "AQUA",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.19"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "4287",
-        "Element ID": "4211068",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211068_s8?$PABspin$",
-        "Name": "ROOF TILE 1X3/25° INV.",
-        "Price": "£0.10"
+        "Design ID": "4460",
+        "Element ID": "6055224",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.26"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "4287",
-        "Element ID": "428701",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/428701_s8?$PABspin$",
-        "Name": "ROOF TILE 1X3/25° INV.",
-        "Price": "£0.10"
+        "Design ID": "4460",
+        "Element ID": "6056251",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "ROOF TILE 1X2X3/73°"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "60477",
-        "Element ID": "4535930",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4535930_s8?$PABspin$",
-        "Name": "ROOF TILE 1X4X1",
-        "Price": "£0.17"
+        "Design ID": "4460",
+        "Element ID": "6107204",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.26"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "60481",
-        "Element ID": "4515373",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4515373_s8?$PABspin$",
-        "Name": "ROOF TILE 2X1X2",
-        "Price": "£0.12"
+        "Colour Family": "Blue",
+        "Design ID": "4460",
+        "Element ID": "6144752",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.20"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "60481",
-        "Element ID": "4515370",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4515370_s8?$PABspin$",
-        "Name": "ROOF TILE 2X1X2",
-        "Price": "£0.12"
+        "Design ID": "4460",
+        "Element ID": "6153748",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.20"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "60481",
-        "Element ID": "4629736",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4629736_s8?$PABspin$",
-        "Name": "ROOF TILE 2X1X2",
-        "Price": "£0.12"
+        "Design ID": "4460",
+        "Element ID": "6170322",
+        "Exact Colour": "LAVENDER",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.20"
     },
     {
         "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "60481",
-        "Element ID": "4515374",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4515374_s8?$PABspin$",
-        "Name": "ROOF TILE 2X1X2",
-        "Price": "£0.12"
+        "Design ID": "4460",
+        "Element ID": "6182393",
+        "Exact Colour": "SPR. YELL. GREE",
+        "Name": "ROOF TILE 1X2X3/73°",
+        "Price": "£0.26"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "White",
         "Design ID": "46097",
         "Element ID": "4195659",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4195659_s8?$PABspin$",
+        "Exact Colour": "WHITE",
         "Name": "ROOF TILE 2X2 45° NO. 2",
-        "Price": "£0.29"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "56570",
-        "Element ID": "4295400",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4295400_s8?$PABspin$",
-        "Name": "ROOF TILE 2x2 NO. \"14\"",
-        "Price": "£0.29"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "82024",
-        "Element ID": "4261941",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4261941_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2, RADARC LOS",
-        "Price": "£0.29"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "3039",
-        "Element ID": "4114322",
-        "Exact Colour": "Brick yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4114322_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Red",
-        "Design ID": "3039",
-        "Element ID": "303921",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/303921_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3039",
-        "Element ID": "4211410",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211410_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Yellow",
-        "Design ID": "3039",
-        "Element ID": "303924",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/303924_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Dark Green",
-        "Design ID": "3039",
-        "Element ID": "303928",
-        "Exact Colour": "Dark green",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/303928_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3039",
-        "Element ID": "4211054",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211054_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "3039",
-        "Element ID": "4211202",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211202_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "3039",
-        "Element ID": "303901",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/303901_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Bright Orange",
-        "Design ID": "3039",
-        "Element ID": "4118828",
-        "Exact Colour": "Bright orange",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4118828_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Blue",
-        "Design ID": "3039",
-        "Element ID": "303923",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/303923_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "3039",
-        "Element ID": "303926",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/303926_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "6227",
-        "Element ID": "622740",
-        "Exact Colour": "Transparent",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/622740_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45° - TR.",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Red",
-        "Design ID": "3660",
-        "Element ID": "366021",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/366021_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45° INV.",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "3660",
-        "Element ID": "4118866",
-        "Exact Colour": "Brick yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4118866_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45° INV.",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "3660",
-        "Element ID": "366026",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/366026_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45° INV.",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3660",
-        "Element ID": "4211000",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211000_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45° INV.",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Reddish Brown",
-        "Design ID": "3660",
-        "Element ID": "4211221",
-        "Exact Colour": "Reddish brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211221_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45° INV.",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3660",
-        "Element ID": "4211436",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211436_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45° INV.",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Blue",
-        "Design ID": "3660",
-        "Element ID": "366023",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/366023_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45° INV.",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "3660",
-        "Element ID": "366001",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/366001_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45° INV.",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Yellow",
-        "Design ID": "3660",
-        "Element ID": "366024",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/366024_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2/45° INV.",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "98560",
-        "Element ID": "6004491",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6004491_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2X3/ 73 GR.",
-        "Price": "£0.26"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "98560",
-        "Element ID": "6007896",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6007896_s8?$PABspin$",
-        "Name": "ROOF TILE 2X2X3/ 73 GR.",
-        "Price": "£0.26"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "3298",
-        "Element ID": "329801",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/329801_s8?$PABspin$",
-        "Name": "ROOF TILE 2X3/25°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3298",
-        "Element ID": "4211106",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211106_s8?$PABspin$",
-        "Name": "ROOF TILE 2X3/25°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3298",
-        "Element ID": "4211421",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211421_s8?$PABspin$",
-        "Name": "ROOF TILE 2X3/25°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "3298",
-        "Element ID": "329826",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/329826_s8?$PABspin$",
-        "Name": "ROOF TILE 2X3/25°",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3747",
-        "Element ID": "4211064",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211064_s8?$PABspin$",
-        "Name": "ROOF TILE 2X3/25° INV.",
-        "Price": "£0.14"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "3747",
-        "Element ID": "4500469",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4500469_s8?$PABspin$",
-        "Name": "ROOF TILE 2X3/25° INV.",
-        "Price": "£0.14"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "3747",
-        "Element ID": "374726",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/374726_s8?$PABspin$",
-        "Name": "ROOF TILE 2X3/25° INV.",
-        "Price": "£0.14"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "3037",
-        "Element ID": "303701",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/303701_s8?$PABspin$",
-        "Name": "ROOF TILE 2X4/45°",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3037",
-        "Element ID": "4211127",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211127_s8?$PABspin$",
-        "Name": "ROOF TILE 2X4/45°",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Red",
-        "Design ID": "3037",
-        "Element ID": "303721",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/303721_s8?$PABspin$",
-        "Name": "ROOF TILE 2X4/45°",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Yellow",
-        "Design ID": "3037",
-        "Element ID": "4219911",
-        "Exact Colour": "Bright yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4219911_s8?$PABspin$",
-        "Name": "ROOF TILE 2X4/45°",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "3037",
-        "Element ID": "303726",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/303726_s8?$PABspin$",
-        "Name": "ROOF TILE 2X4/45°",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Grey",
-        "Design ID": "3037",
-        "Element ID": "4211409",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4211409_s8?$PABspin$",
-        "Name": "ROOF TILE 2X4/45°",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "30363",
-        "Element ID": "4185583",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4185583_s8?$PABspin$",
-        "Name": "ROOF TILE 2X4X1, 18°",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "White",
-        "Design ID": "30363",
-        "Element ID": "4143000",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4143000_s8?$PABspin$",
-        "Name": "ROOF TILE 2X4X1, 18°",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Bricks, with slope",
-        "Colour Family": "Black",
-        "Design ID": "4871",
-        "Element ID": "4188534",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4188534_s8?$PABspin$",
-        "Name": "ROOF TILE 4X2/45° INV.",
-        "Price": "£0.19"
+        "Price": "£0.32"
     },
     {
         "Category": "Bricks, with slope",
         "Colour Family": "White",
         "Design ID": "4871",
         "Element ID": "4173943",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4173943_s8?$PABspin$",
+        "Exact Colour": "WHITE",
         "Name": "ROOF TILE 4X2/45° INV.",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Orange-brown",
+        "Design ID": "4871",
+        "Element ID": "4187753",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "ROOF TILE 4X2/45° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "4871",
+        "Element ID": "4188534",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 4X2/45° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4871",
+        "Element ID": "4211076",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 4X2/45° INV.",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4871",
+        "Element ID": "4211517",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 4X2/45° INV.",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4871",
+        "Element ID": "4223841",
+        "Exact Colour": "R.BLUE",
+        "Name": "ROOF TILE 4X2/45° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4871",
+        "Element ID": "4261784",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 4X2/45° INV.",
+        "Price": "£0.34"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "4871",
+        "Element ID": "4656767",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 4X2/45° INV.",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "4871",
+        "Element ID": "487102",
+        "Exact Colour": "GREY",
+        "Name": "ROOF TILE 4X2/45° INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "4871",
+        "Element ID": "487121",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 4X2/45° INV.",
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4871",
+        "Element ID": "6039192",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 2X4 INV.",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4871",
+        "Element ID": "6110067",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 2X4 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4871",
+        "Element ID": "6133798",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "ROOF TILE 2X4 INV.",
+        "Price": "£0.34"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4871",
+        "Element ID": "6139363",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 2X4 INV.",
+        "Price": "£0.32"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4871",
+        "Element ID": "6143412",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 2X4 INV.",
+        "Price": "£0.34"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "4871",
+        "Element ID": "6186381",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 2X4 INV."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "50746",
+        "Element ID": "4244362",
+        "Exact Colour": "TR.",
+        "Name": "ROOF TILE 1 X 1 X 2/3",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "50746",
+        "Element ID": "4244363",
+        "Exact Colour": "TR.RED",
+        "Name": "ROOF TILE 1 X 1 X 2/3",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "50746",
+        "Element ID": "4244366",
+        "Exact Colour": "TR.BLUE",
+        "Name": "ROOF TILE 1 X 1 X 2/3",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "50746",
+        "Element ID": "4244368",
+        "Exact Colour": "TR.BROWN",
+        "Name": "ROOF TILE 1 X 1 X 2/3",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "50746",
+        "Element ID": "4244369",
+        "Exact Colour": "TR. BR. ORANGE",
+        "Name": "ROOF TILE 1 X 1 X 2/3",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "50746",
+        "Element ID": "4244573",
+        "Exact Colour": "TR.GREEN",
+        "Name": "ROOF TILE 1 X 1 X 2/3",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "50746",
+        "Element ID": "4255409",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 1 X 1 X 2/3"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "50746",
+        "Element ID": "4260942",
+        "Exact Colour": "TR.YEL",
+        "Name": "ROOF TILE 1 X 1 X 2/3",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Green",
+        "Design ID": "50746",
+        "Element ID": "4516438",
+        "Exact Colour": "PH.GREEN",
+        "Name": "ROOF TILE 1 X 1 X 2/3, PC"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "50746",
+        "Element ID": "4611464",
+        "Exact Colour": "TR.FL. BLUE",
+        "Name": "ROOF TILE 1 X 1 X 2/3, PC",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "50746",
+        "Element ID": "6073445",
+        "Exact Colour": "TR.L.BLUE",
+        "Name": "ROOF TILE 1X1X2/3, PC",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "50746",
+        "Element ID": "6076751",
+        "Exact Colour": "TR.FL.GREEN",
+        "Name": "ROOF TILE 1X1X2/3, PC",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "50746",
+        "Element ID": "6078609",
+        "Exact Colour": "SILVER MET.",
+        "Name": "ROOF TILE 1X1X2/3, PC"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "50746",
+        "Element ID": "6138775",
+        "Exact Colour": "TR.KL.BL.VIO",
+        "Name": "ROOF TILE 1X1X2/3, PC",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "50746",
+        "Element ID": "6172367",
+        "Exact Colour": "TR.ML.R.VIOL",
+        "Name": "ROOF TILE 1X1X2/3, PC",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "50746",
+        "Element ID": "6173739",
+        "Exact Colour": "TR. BR. GREEN",
+        "Name": "ROOF TILE 1X1X2/3, PC",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "52501",
+        "Element ID": "4259678",
+        "Exact Colour": "BR.RED",
+        "Name": "INVERTED ROOF TILE 6X1X1",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "52501",
+        "Element ID": "4259937",
+        "Exact Colour": "WHITE",
+        "Name": "INVERTED ROOF TILE 6X1X1",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "52501",
+        "Element ID": "4260862",
+        "Exact Colour": "BLACK",
+        "Name": "INVERTED ROOF TILE 6X1X1"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "52501",
+        "Element ID": "4294180",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "INVERTED ROOF TILE 6X1X1",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "52501",
+        "Element ID": "4294738",
+        "Exact Colour": "BR.BLUE",
+        "Name": "INVERTED ROOF TILE 6X1X1",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "52501",
+        "Element ID": "4503844",
+        "Exact Colour": "BR.YEL",
+        "Name": "INVERTED ROOF TILE 6X1X1",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "52501",
+        "Element ID": "4525650",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "INVERTED ROOF TILE 6X1X1"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "52501",
+        "Element ID": "4618657",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "INVERTED ROOF TILE 6X1X1",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "52501",
+        "Element ID": "4625030",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "INVERTED ROOF TILE 6X1X1"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "52501",
+        "Element ID": "6052854",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "INVERTED ROOF TILE 6X1X1",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "52501",
+        "Element ID": "6064228",
+        "Exact Colour": "BLACK",
+        "Name": "INVERTED ROOF TILE 6X1X1",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "54200",
+        "Element ID": "4504369",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "4504371",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "4504372",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "54200",
+        "Element ID": "4504374",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "4504375",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "4504376",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "54200",
+        "Element ID": "4504378",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "54200",
+        "Element ID": "4504379",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "54200",
+        "Element ID": "4504380",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "54200",
+        "Element ID": "4504381",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "54200",
+        "Element ID": "4504382",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "4516055",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "54200",
+        "Element ID": "4521921",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "54200",
+        "Element ID": "4531415",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "4546705",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "54200",
+        "Element ID": "4565363",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "4567509",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "4587002",
+        "Exact Colour": "W.GOLD",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "54200",
+        "Element ID": "4599538",
+        "Exact Colour": "LGH. PURPLE",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "54200",
+        "Element ID": "4616645",
+        "Exact Colour": "AQUA",
+        "Name": "ROOF TILE 1X1X2/3, ABS"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "54200",
+        "Element ID": "4619520",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "4647546",
+        "Exact Colour": "BR.GREEN",
+        "Name": "ROOF TILE 1X1X2/3, ABS"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "4652205",
+        "Exact Colour": "SAND GREEN",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "6002841",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "54200",
+        "Element ID": "6023173",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "6033014",
+        "Exact Colour": "DK. BROWN",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "6040126",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "54200",
+        "Element ID": "6062686",
+        "Exact Colour": "SAND BLUE",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "6104342",
+        "Exact Colour": "DK.ORA",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "6109495",
+        "Exact Colour": "SPR. YELL. GREE",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "54200",
+        "Element ID": "6127601",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.05"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "54200",
+        "Element ID": "6133838",
+        "Exact Colour": "DARK AZUR",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "6167690",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "54200",
+        "Element ID": "6175983",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "ROOF TILE 1X1X2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "56570",
+        "Element ID": "4295400",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 2x2 NO. \"14\"",
+        "Price": "£0.32"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "60477",
+        "Element ID": "4515359",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 1X4X1",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "60477",
+        "Element ID": "4515360",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 1X4X1",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "60477",
+        "Element ID": "4515362",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 1X4X1",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60477",
+        "Element ID": "4519742",
+        "Exact Colour": "DK. BROWN",
+        "Name": "ROOF TILE 1X4X1",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "60477",
+        "Element ID": "4535930",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 1X4X1",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "60477",
+        "Element ID": "4656699",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 1X4X1",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "60477",
+        "Element ID": "6013497",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 1X4X1",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "60477",
+        "Element ID": "6023330",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 1X4X1",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "60477",
+        "Element ID": "6028122",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 1X4X1"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60477",
+        "Element ID": "6058091",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 1X4X1",
         "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60477",
+        "Element ID": "6096994",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1X4X1"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "60477",
+        "Element ID": "6101304",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 1X4X1",
+        "Price": "£0.18"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "60477",
+        "Element ID": "6133519",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 1X4X1",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "60477",
+        "Element ID": "6195278",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 1X4X1"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "60481",
+        "Element ID": "4515370",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "60481",
+        "Element ID": "4515371",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "60481",
+        "Element ID": "4515373",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "60481",
+        "Element ID": "4515374",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60481",
+        "Element ID": "4537926",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 2X1X2"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "60481",
+        "Element ID": "4596065",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 2X1X2"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60481",
+        "Element ID": "4624089",
+        "Exact Colour": "DK. BROWN",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.13"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60481",
+        "Element ID": "4626200",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60481",
+        "Element ID": "4629736",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "60481",
+        "Element ID": "4645101",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60481",
+        "Element ID": "6003331",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "60481",
+        "Element ID": "6013498",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "60481",
+        "Element ID": "6013658",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60481",
+        "Element ID": "6022070",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60481",
+        "Element ID": "6024692",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "ROOF TILE 2X1X2"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "60481",
+        "Element ID": "6060798",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "60481",
+        "Element ID": "6062343",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "60481",
+        "Element ID": "6081493",
+        "Exact Colour": "BR.RED-VIOL.",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.20"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "60481",
+        "Element ID": "6097429",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.16"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60481",
+        "Element ID": "6138504",
+        "Exact Colour": "LAVENDER",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60481",
+        "Element ID": "6146815",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "ROOF TILE 2X1X2"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "60481",
+        "Element ID": "6146962",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "60481",
+        "Element ID": "6149563",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "60481",
+        "Element ID": "6151673",
+        "Exact Colour": "DARK AZUR",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "60481",
+        "Element ID": "6163294",
+        "Exact Colour": "AQUA",
+        "Name": "ROOF TILE 2X1X2",
+        "Price": "£0.14"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "60481",
+        "Element ID": "6186637",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 2X1X2"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "60481",
+        "Element ID": "6189189",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 2X1X2"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "6227",
+        "Element ID": "4140789",
+        "Exact Colour": "TR.FL.GREEN",
+        "Name": "ROOF TILE 2X2/45° - TR."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "6227",
+        "Element ID": "4144304",
+        "Exact Colour": "TR.GREEN",
+        "Name": "ROOF TILE 2X2/45° - TR."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "6227",
+        "Element ID": "4164276",
+        "Exact Colour": "TR.BROWN",
+        "Name": "ROOF TILE 2X2/45° - TR."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "6227",
+        "Element ID": "6056694",
+        "Exact Colour": "TR.RED",
+        "Name": "ROOF TILE 2X2/45° - TR.",
+        "Price": "£0.22"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "6227",
+        "Element ID": "6070495",
+        "Exact Colour": "TR.L.BLUE",
+        "Name": "ROOF TILE 2X2/45° - TR.",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "6227",
+        "Element ID": "622740",
+        "Exact Colour": "TR.",
+        "Name": "ROOF TILE 2X2/45° - TR.",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "6227",
+        "Element ID": "622743",
+        "Exact Colour": "TR.BLUE",
+        "Name": "ROOF TILE 2X2/45° - TR.",
+        "Price": "£0.20"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "82024",
+        "Element ID": "4261941",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 2X2, RADARC LOS",
+        "Price": "£0.32"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "85984",
+        "Element ID": "4547489",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "85984",
+        "Element ID": "4548180",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "85984",
+        "Element ID": "4550348",
+        "Exact Colour": "BR.YEL",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "4566607",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "85984",
+        "Element ID": "4567887",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "85984",
+        "Element ID": "4568637",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "85984",
+        "Element ID": "4616211",
+        "Exact Colour": "AQUA",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "85984",
+        "Element ID": "4616412",
+        "Exact Colour": "PASTBLU",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "4624086",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "4625024",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "4648855",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "85984",
+        "Element ID": "4649749",
+        "Exact Colour": "LGH. PURPLE",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "85984",
+        "Element ID": "4651236",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "85984",
+        "Element ID": "4651524",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "6000071",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "6015449",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "6016468",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Yellow",
+        "Design ID": "85984",
+        "Element ID": "6024286",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.07"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "6025026",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "6035291",
+        "Exact Colour": "RED. BROWN",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "6068996",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.06"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "85984",
+        "Element ID": "6083977",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "6127366",
+        "Exact Colour": "DK. BROWN",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "6138510",
+        "Exact Colour": "BR.GREEN",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "85984",
+        "Element ID": "6151663",
+        "Exact Colour": "DARK AZUR",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "6168574",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "85984",
+        "Element ID": "6177986",
+        "Exact Colour": "MD.BLUE",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "85984",
+        "Element ID": "6178247",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS",
+        "Price": "£0.08"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "85984",
+        "Element ID": "6188477",
+        "Exact Colour": "DK.ORA",
+        "Name": "ROOF TILE 1 X 2 X 2/3, ABS"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "98560",
+        "Element ID": "6000852",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "98560",
+        "Element ID": "6000853",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "White",
+        "Design ID": "98560",
+        "Element ID": "6004491",
+        "Exact Colour": "WHITE",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Grey",
+        "Design ID": "98560",
+        "Element ID": "6007894",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "98560",
+        "Element ID": "6007895",
+        "Exact Colour": "DK.GREEN",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Black",
+        "Design ID": "98560",
+        "Element ID": "6007896",
+        "Exact Colour": "BLACK",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "98560",
+        "Element ID": "6007897",
+        "Exact Colour": "BR.RED",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Red",
+        "Design ID": "98560",
+        "Element ID": "6007898",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.30"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "98560",
+        "Element ID": "6007899",
+        "Exact Colour": "DK. BROWN",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "98560",
+        "Element ID": "6022007",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "ROOF TILE 2X2X3/ 73 GR."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Purple",
+        "Design ID": "98560",
+        "Element ID": "6058361",
+        "Exact Colour": "BR.RED-VIOL.",
+        "Name": "ROOF TILE 2X2X3/ 73 GR."
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "98560",
+        "Element ID": "6109971",
+        "Exact Colour": "M. LILAC",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.36"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "98560",
+        "Element ID": "6144751",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.29"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "98560",
+        "Element ID": "6146885",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.28"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Design ID": "98560",
+        "Element ID": "6173638",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Bricks, with slope",
+        "Colour Family": "Blue",
+        "Design ID": "98560",
+        "Element ID": "6173944",
+        "Exact Colour": "BR.BLUE",
+        "Name": "ROOF TILE 2X2X3/ 73 GR.",
+        "Price": "£0.34"
     }
 ]

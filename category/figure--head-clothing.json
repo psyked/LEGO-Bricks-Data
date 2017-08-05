@@ -1,112 +1,575 @@
 [
     {
         "Category": "Figure, head clothing",
-        "Colour Family": "Bright Orange",
-        "Design ID": "64647",
-        "Element ID": "4540865",
-        "Exact Colour": "Tr. fluore.redd. orange",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4540865_s8?$PABspin$",
-        "Name": "FEATHER",
-        "Price": "£0.13"
+        "Colour Family": "Blue",
+        "Design ID": "11303",
+        "Element ID": "6032176",
+        "Exact Colour": "BR.BLUE",
+        "Name": "FIGUR HEAD CLOTHING NO 6"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "11303",
+        "Element ID": "6032177",
+        "Exact Colour": "DK.GREEN",
+        "Name": "FIGUR HEAD CLOTHING NO 6",
+        "Price": "£0.17"
     },
     {
         "Category": "Figure, head clothing",
         "Colour Family": "Red",
         "Design ID": "11303",
         "Element ID": "6032178",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6032178_s8?$PABspin$",
+        "Exact Colour": "BR.RED",
         "Name": "FIGUR HEAD CLOTHING NO 6",
-        "Price": "£0.13"
-    },
-    {
-        "Category": "Figure, head clothing",
-        "Colour Family": "Black",
-        "Design ID": "3624",
-        "Element ID": "362426",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/362426_s8?$PABspin$",
-        "Name": "MINI CAP",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Figure, head clothing",
-        "Colour Family": "Red",
-        "Design ID": "3833",
-        "Element ID": "383321",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/383321_s8?$PABspin$",
-        "Name": "MINI CONTRACTOR'S HELMET",
-        "Price": "£0.12"
-    },
-    {
-        "Category": "Figure, head clothing",
-        "Colour Family": "White",
-        "Design ID": "30124",
-        "Element ID": "4298609",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4298609_s8?$PABspin$",
-        "Name": "MINI CRASH HELMET",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Figure, head clothing",
-        "Colour Family": "Black",
-        "Design ID": "30124",
-        "Element ID": "4298619",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4298619_s8?$PABspin$",
-        "Name": "MINI CRASH HELMET",
-        "Price": "£0.17"
-    },
-    {
-        "Category": "Figure, head clothing",
-        "Colour Family": "Black",
-        "Design ID": "41334",
-        "Element ID": "4157108",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4157108_s8?$PABspin$",
-        "Name": "MINI PIXIE CAP",
-        "Price": "£0.13"
+        "Price": "£0.11"
     },
     {
         "Category": "Figure, head clothing",
         "Colour Family": "Blue",
-        "Design ID": "86035",
-        "Element ID": "4567909",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4567909_s8?$PABspin$",
-        "Name": "MINI U.S. CAP",
+        "Design ID": "11303",
+        "Element ID": "6056241",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "FIGUR HEAD CLOTHING NO 6",
         "Price": "£0.11"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "11303",
+        "Element ID": "6100774",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "FIGUR HEAD CLOTHING NO 6",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "11303",
+        "Element ID": "6102964",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "FIGUR HEAD CLOTHING NO 6",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Black",
+        "Design ID": "2447",
+        "Element ID": "244726",
+        "Exact Colour": "BLACK",
+        "Name": "MINI VISOR 2"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "2447",
+        "Element ID": "244742",
+        "Exact Colour": "TR.L.BLUE",
+        "Name": "MINI VISOR 2"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Yellow",
+        "Design ID": "2447",
+        "Element ID": "244749",
+        "Exact Colour": "TR.FL.GREEN",
+        "Name": "MINI VISOR 2"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "2447",
+        "Element ID": "4163306",
+        "Exact Colour": "TR.BROWN",
+        "Name": "MINI VISOR 2",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "2447",
+        "Element ID": "4569898",
+        "Exact Colour": "TR.RED",
+        "Name": "MINI VISOR 2"
     },
     {
         "Category": "Figure, head clothing",
         "Colour Family": "White",
         "Design ID": "2447",
         "Element ID": "4626724",
-        "Exact Colour": "Transparent",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4626724_s8?$PABspin$",
+        "Exact Colour": "TR.",
         "Name": "MINI VISOR 2",
-        "Price": "£0.07"
+        "Price": "£0.11"
     },
     {
         "Category": "Figure, head clothing",
-        "Colour Family": "Reddish Brown",
+        "Colour Family": "Red",
         "Design ID": "2447",
-        "Element ID": "4163306",
-        "Exact Colour": "Tr. brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4163306_s8?$PABspin$",
+        "Element ID": "6173916",
+        "Exact Colour": "TR.RED",
         "Name": "MINI VISOR 2",
-        "Price": "£0.07"
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Grey",
+        "Design ID": "30124",
+        "Element ID": "4106308",
+        "Exact Colour": "DK.GREY",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Grey",
+        "Design ID": "30124",
+        "Element ID": "4211033",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "30124",
+        "Element ID": "4223918",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "White",
+        "Design ID": "30124",
+        "Element ID": "4298609",
+        "Exact Colour": "WHITE",
+        "Name": "MINI CRASH HELMET",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "30124",
+        "Element ID": "4298611",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "30124",
+        "Element ID": "4298612",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "30124",
+        "Element ID": "4298613",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "30124",
+        "Element ID": "4298614",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "30124",
+        "Element ID": "4298617",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI CRASH HELMET",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "30124",
+        "Element ID": "4298618",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI CRASH HELMET",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Black",
+        "Design ID": "30124",
+        "Element ID": "4298619",
+        "Exact Colour": "BLACK",
+        "Name": "MINI CRASH HELMET",
+        "Price": "£0.19"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "30124",
+        "Element ID": "4298620",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "30124",
+        "Element ID": "4298622",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "30124",
+        "Element ID": "4504949",
+        "Exact Colour": "SILVER",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "30124",
+        "Element ID": "4632099",
+        "Exact Colour": "SILVER MET.",
+        "Name": "MINI CRASH HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "30124",
+        "Element ID": "6095717",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI CRASH HELMET",
+        "Price": "£0.35"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "White",
+        "Design ID": "3624",
+        "Element ID": "362401",
+        "Exact Colour": "WHITE",
+        "Name": "MINI CAP",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "3624",
+        "Element ID": "362421",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI CAP"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Black",
+        "Design ID": "3624",
+        "Element ID": "362426",
+        "Exact Colour": "BLACK",
+        "Name": "MINI CAP",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Grey",
+        "Design ID": "3624",
+        "Element ID": "4163128",
+        "Exact Colour": "DK.GREY",
+        "Name": "MINI CAP"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "3624",
+        "Element ID": "4174743",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI CAP",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "3624",
+        "Element ID": "4225277",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI CAP"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "3624",
+        "Element ID": "4541373",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI CAP",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "3624",
+        "Element ID": "6079853",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI CAP"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "White",
+        "Design ID": "3833",
+        "Element ID": "383301",
+        "Exact Colour": "WHITE",
+        "Name": "MINI CONTRACTOR'S HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "3833",
+        "Element ID": "383321",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI CONTRACTOR'S HELMET",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Black",
+        "Design ID": "3833",
+        "Element ID": "383326",
+        "Exact Colour": "BLACK",
+        "Name": "MINI CONTRACTOR'S HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Yellow",
+        "Design ID": "3833",
+        "Element ID": "4587557",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI CONTRACTOR'S HELMET",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "3833",
+        "Element ID": "4616409",
+        "Exact Colour": "PASTBLU",
+        "Name": "MINI CONTRACTOR'S HELMET"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "White",
+        "Design ID": "3833",
+        "Element ID": "6112193",
+        "Exact Colour": "WHITE",
+        "Name": "MINI CONTRACTOR'S HELMET",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Black",
+        "Design ID": "41334",
+        "Element ID": "4157108",
+        "Exact Colour": "BLACK",
+        "Name": "MINI PIXIE CAP",
+        "Price": "£0.10"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Grey",
+        "Design ID": "41334",
+        "Element ID": "4192404",
+        "Exact Colour": "DK.GREY",
+        "Name": "MINI PIXIE CAP"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Grey",
+        "Design ID": "41334",
+        "Element ID": "4210934",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI PIXIE CAP",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "41334",
+        "Element ID": "6078575",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI PIXIE CAP",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "41334",
+        "Element ID": "6113985",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI PIXIE CAP",
+        "Price": "£0.12"
     },
     {
         "Category": "Figure, head clothing",
         "Colour Family": "Grey",
         "Design ID": "6158",
         "Element ID": "4261469",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4261469_s8?$PABspin$",
+        "Exact Colour": "DK. ST. GREY",
         "Name": "SMOKE HELMET PROTECTION",
-        "Price": "£0.19"
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "64647",
+        "Element ID": "4540552",
+        "Exact Colour": "BR.RED",
+        "Name": "FEATHER",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "64647",
+        "Element ID": "4540865",
+        "Exact Colour": "TR.FL.REDORA",
+        "Name": "FEATHER",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "64647",
+        "Element ID": "4548676",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "FEATHER"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "White",
+        "Design ID": "64647",
+        "Element ID": "4571058",
+        "Exact Colour": "WHITE",
+        "Name": "FEATHER"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "64647",
+        "Element ID": "4587127",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "FEATHER",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Black",
+        "Design ID": "64647",
+        "Element ID": "4647128",
+        "Exact Colour": "BLACK",
+        "Name": "FEATHER"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "64647",
+        "Element ID": "4649066",
+        "Exact Colour": "TR. BR. ORANGE",
+        "Name": "FEATHER",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "64647",
+        "Element ID": "6034719",
+        "Exact Colour": "BR.BLUE",
+        "Name": "FEATHER",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "White",
+        "Design ID": "64647",
+        "Element ID": "6097694",
+        "Exact Colour": "WHITE",
+        "Name": "FEATHER",
+        "Price": "£0.11"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "64647",
+        "Element ID": "6121921",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "FEATHER",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "64647",
+        "Element ID": "6196565",
+        "Exact Colour": "W.GOLD",
+        "Name": "FEATHER"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "86035",
+        "Element ID": "4562544",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI U.S. CAP",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Blue",
+        "Design ID": "86035",
+        "Element ID": "4567909",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI U.S. CAP",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Black",
+        "Design ID": "86035",
+        "Element ID": "4567910",
+        "Exact Colour": "BLACK",
+        "Name": "MINI U.S. CAP"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "86035",
+        "Element ID": "4567911",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI U.S. CAP",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "White",
+        "Design ID": "86035",
+        "Element ID": "4567912",
+        "Exact Colour": "WHITE",
+        "Name": "MINI U.S. CAP",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Design ID": "86035",
+        "Element ID": "4583147",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI U.S. CAP",
+        "Price": "£0.12"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Red",
+        "Design ID": "86035",
+        "Element ID": "4657954",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI U.S. CAP"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Black",
+        "Design ID": "86035",
+        "Element ID": "6177510",
+        "Exact Colour": "BLACK",
+        "Name": "MINI U.S. CAP",
+        "Price": "£0.17"
+    },
+    {
+        "Category": "Figure, head clothing",
+        "Colour Family": "Grey",
+        "Design ID": "86035",
+        "Element ID": "6186549",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI U.S. CAP",
+        "Price": "£0.17"
     }
 ]

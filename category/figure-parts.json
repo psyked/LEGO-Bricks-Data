@@ -1,71 +1,202 @@
 [
     {
         "Category": "Figure parts",
-        "Colour Family": "Black",
-        "Design ID": "73200",
-        "Element ID": "9339",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/9339_s8?$PABspin$",
-        "Name": "MINI BODY LOWER PART BLACK",
-        "Price": "£0.36"
+        "Colour Family": "Orange-brown",
+        "Design ID": "41879",
+        "Element ID": "4162228",
+        "Exact Colour": "EARTH-ORA",
+        "Name": "MINI LEG"
     },
     {
         "Category": "Figure parts",
-        "Colour Family": "White",
-        "Design ID": "73200",
-        "Element ID": "9327",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/9327_s8?$PABspin$",
-        "Name": "MINI BODY LOWER PART WH",
-        "Price": "£0.36"
+        "Design ID": "41879",
+        "Element ID": "4270443",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI LEG",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "41879",
+        "Element ID": "4490082",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI LEG",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "41879",
+        "Element ID": "4507055",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI LEG",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "41879",
+        "Element ID": "4520155",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI LEG",
+        "Price": "£0.25"
     },
     {
         "Category": "Figure parts",
         "Colour Family": "Blue",
-        "Design ID": "73200",
-        "Element ID": "9341",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/9341_s8?$PABspin$",
-        "Name": "MINI BODY LOWERPART BLUE",
-        "Price": "£0.36"
-    },
-    {
-        "Category": "Figure parts",
-        "Colour Family": "Red",
-        "Design ID": "73200",
-        "Element ID": "9342",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/9342_s8?$PABspin$",
-        "Name": "MINI BODY LOWERPART RED",
-        "Price": "£0.36"
-    },
-    {
-        "Category": "Figure parts",
-        "Colour Family": "Dark Green",
-        "Design ID": "73200",
-        "Element ID": "74040",
-        "Exact Colour": "Dark green",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/74040_s8?$PABspin$",
-        "Name": "MINI BODY UNDER PART GRE",
-        "Price": "£0.36"
+        "Design ID": "41879",
+        "Element ID": "4530129",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI LEG",
+        "Price": "£0.23"
     },
     {
         "Category": "Figure parts",
         "Colour Family": "Blue",
         "Design ID": "41879",
         "Element ID": "4543857",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4543857_s8?$PABspin$",
+        "Exact Colour": "BR.BLUE",
         "Name": "MINI LEG",
-        "Price": "£0.25"
+        "Price": "£0.23"
     },
     {
         "Category": "Figure parts",
         "Colour Family": "Black",
         "Design ID": "41879",
         "Element ID": "4596914",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4596914_s8?$PABspin$",
+        "Exact Colour": "BLACK",
+        "Name": "MINI LEG",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "41879",
+        "Element ID": "4617549",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI LEG",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "41879",
+        "Element ID": "6005225",
+        "Exact Colour": "DK. BROWN",
+        "Name": "MINI LEG",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "41879",
+        "Element ID": "6016059",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI LEG",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "41879",
+        "Element ID": "6021881",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI LEG"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "41879",
+        "Element ID": "6029933",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "MINI LEG",
+        "Price": "£0.23"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "41879",
+        "Element ID": "6031019",
+        "Exact Colour": "DARK AZUR",
+        "Name": "MINI LEG",
+        "Price": "£0.24"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "41879",
+        "Element ID": "6074870",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI LEG"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "41879",
+        "Element ID": "6088406",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI LEG",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "41879",
+        "Element ID": "6088409",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI LEG",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "41879",
+        "Element ID": "6121893",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI LEG",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "41879",
+        "Element ID": "6144130",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI LEG",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "41879",
+        "Element ID": "6144706",
+        "Exact Colour": "SILVER MET.",
+        "Name": "MINI LEG"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "41879",
+        "Element ID": "6155001",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "MINI LEG",
+        "Price": "£0.26"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "41879",
+        "Element ID": "6160106",
+        "Exact Colour": "WHITE",
+        "Name": "MINI LEG",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "41879",
+        "Element ID": "6162292",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "MINI LEG",
+        "Price": "£0.25"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "41879",
+        "Element ID": "6170446",
+        "Exact Colour": "BR.ORANGE",
         "Name": "MINI LEG",
         "Price": "£0.25"
     },
@@ -73,110 +204,5948 @@
         "Category": "Figure parts",
         "Colour Family": "Grey",
         "Design ID": "73200",
-        "Element ID": "4227657",
-        "Exact Colour": "Medium stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4227657_s8?$PABspin$",
-        "Name": "MINI LOWER PART",
-        "Price": "£0.36"
+        "Element ID": "4105296",
+        "Exact Colour": "DK.GREY",
+        "Name": "MINI BODY LOWER PART"
     },
     {
         "Category": "Figure parts",
-        "Colour Family": "Reddish Brown",
         "Design ID": "73200",
-        "Element ID": "4529672",
-        "Exact Colour": "Dark brown",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4529672_s8?$PABspin$",
+        "Element ID": "4107623",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI LOWER PART, BRICK YELLOW",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4120158",
+        "Exact Colour": "BR.ORANGE",
         "Name": "MINI LOWER PART",
-        "Price": "£0.36"
+        "Price": "£0.55"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4124102",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI LOWER PART DARK GREY/ORAN"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4141085",
+        "Exact Colour": "GOLD",
+        "Name": "MINI LOWER PART"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "4143120",
+        "Exact Colour": "DK.GREY",
+        "Name": "MINI LOWER PART GRE/KOKS"
     },
     {
         "Category": "Figure parts",
         "Colour Family": "Blue",
         "Design ID": "73200",
         "Element ID": "4162916",
-        "Exact Colour": "Earth blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4162916_s8?$PABspin$",
+        "Exact Colour": "EARTH BLUE",
         "Name": "MINI LOWER PART",
-        "Price": "£0.36"
+        "Price": "£0.55"
     },
     {
         "Category": "Figure parts",
-        "Colour Family": "Bright Orange",
+        "Colour Family": "Black",
         "Design ID": "73200",
-        "Element ID": "4120158",
-        "Exact Colour": "Bright orange",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4120158_s8?$PABspin$",
+        "Element ID": "4168950",
+        "Exact Colour": "BLACK",
+        "Name": "MINI LOWER PART NO. 54, 26/154"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4187347",
+        "Exact Colour": "DK.ORA",
+        "Name": "MINI LOWER PART DARK ORANGE"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Orange-brown",
+        "Design ID": "73200",
+        "Element ID": "4194110",
+        "Exact Colour": "BR.YELORA",
+        "Name": "MINI LOWER PART"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4206504",
+        "Exact Colour": "SAND GREEN",
         "Name": "MINI LOWER PART",
-        "Price": "£0.36"
+        "Price": "£0.55"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4214921",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI LOWER PART KOKS/ORANGE"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "4216431",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI LOWER P. BLUE J/OR."
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4218803",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI LOWER PART BROWN/BRICKYEL"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "73200",
+        "Element ID": "4221858",
+        "Exact Colour": "WHITE",
+        "Name": "MINI LOWER PART GREY/WHITE",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4221886",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.54"
     },
     {
         "Category": "Figure parts",
         "Colour Family": "Grey",
         "Design ID": "73200",
         "Element ID": "4222693",
-        "Exact Colour": "Dark stone grey",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4222693_s8?$PABspin$",
+        "Exact Colour": "DK. ST. GREY",
         "Name": "MINI LOWER PART",
-        "Price": "£0.36"
+        "Price": "£0.54"
     },
     {
         "Category": "Figure parts",
-        "Colour Family": "Reddish Brown",
+        "Colour Family": "Blue",
         "Design ID": "73200",
-        "Element ID": "4107623",
-        "Exact Colour": "Brick yellow",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4107623_s8?$PABspin$",
-        "Name": "MINI LOWER PART, BRICK YELLOW",
-        "Price": "£0.36"
+        "Element ID": "4223954",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI LOWER PART NO.86, 102/194"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "73200",
+        "Element ID": "4225180",
+        "Exact Colour": "WHITE",
+        "Name": "MINI LOWER PART \"82\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "73200",
+        "Element ID": "4225183",
+        "Exact Colour": "BLACK",
+        "Name": "MINI LOWER PART \"83\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4225783",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI LOWER PART NO. 84, 28/199"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "73200",
+        "Element ID": "4225784",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI LOWER PART NO. 85, 21/199"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4225785",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI LOWER PART NO.87, 268/194"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "4225786",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI LOWER PART NO.88, 199/195"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4225787",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI LOWER PART NO.89, 192/199"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "4225806",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI LOWER PART WHITE/MED.GREY"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "73200",
+        "Element ID": "4226505",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI LOWER PART 154/26"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4226869",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.58"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "4227657",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "4235863",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI LOWERPART M.GREY/DK.GREY"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "4255808",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI LOWER PART"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "4267314",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI LOWER PART NR.99, 102/140"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4267327",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI LOWER PART NR100, 268/199"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4267329",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI LOWER PART NR.101, 28/141"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "73200",
+        "Element ID": "4267330",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI LOWER PART NR.102, 21/138"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "4267425",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Purple",
+        "Design ID": "73200",
+        "Element ID": "4270368",
+        "Exact Colour": "L.NOUGAT",
+        "Name": "MINI LOWER PART col.283/140"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4286741",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI LOWER PART BLACK/GREEN"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "4288511",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI LOWER PART BROWN/GREY"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4290560",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI LOWER PART 192/194"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "4297009",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI LOWER PART BLACK/DK.GREY",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4299346",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI LOWER PART 21/28"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "4492335",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI LOWER PART - 194/26"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "4493406",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI LOWER PART 199/23"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4512021",
+        "Exact Colour": "W.GOLD",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.67"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "4512228",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI LOWER PART 194/140"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Purple",
+        "Design ID": "73200",
+        "Element ID": "4513870",
+        "Exact Colour": "BR. PURPLE",
+        "Name": "MINI LOWER PART"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4524098",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4529672",
+        "Exact Colour": "DK. BROWN",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "73200",
+        "Element ID": "4529688",
+        "Exact Colour": "WHITE",
+        "Name": "MINI LOWER PART 05/01"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "73200",
+        "Element ID": "4541496",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "73200",
+        "Element ID": "4584273",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI LOWER PART W/GREY/YELLOW"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "4584278",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI LOWER PART W/RED/SAND BLU"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "73200",
+        "Element ID": "4586393",
+        "Exact Colour": "WHITE",
+        "Name": "MINI LOWER PART 01/21/01"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4586410",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI LOWER PART \"NO. 161\"",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "4613774",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI LOWER PART 199/23"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4632069",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI LOWER PART, 1/119"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "73200",
+        "Element ID": "4632071",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI LOWER PART WH/YELLOW",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4655847",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI LOWER PART 308/138"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "4656447",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI LOWER PART RED/BLUE"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "4656496",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI LOWER PART 308/330"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "73200",
+        "Element ID": "6006843",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI LOWER PART 21/268"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "6012833",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI LOWER PART 140/01",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "6022803",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI LOWER PART 102/26"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "73200",
+        "Element ID": "6030581",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI LOWER PART 26/154"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "6031930",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI LOWER PART 01/199"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "6043605",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI LOWER PART 330/330",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "6047056",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI LOWER PART 102",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "6058100",
+        "Exact Colour": "BR.GREEN",
+        "Name": "MINI LOWER PART 37/37",
+        "Price": "£0.67"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "6063555",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI LOWER PART 194/23",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "6071456",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI LOWER PART 28/141"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "6104570",
+        "Exact Colour": "MEDIUM AZUR",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.55"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "6125731",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI LOWER PART 119",
+        "Price": "£0.55"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "6126064",
+        "Exact Colour": "DARK AZUR",
+        "Name": "MINI LOWER PART"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "6138047",
+        "Exact Colour": "SILVER MET.",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "6155058",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.67"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "6172566",
+        "Exact Colour": "DK.ORA",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "6179114",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.55"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "6182879",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI LOWER PART",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "73418",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI LOWERPART BLACK/BLU"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "73200",
+        "Element ID": "74040",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI BODY UNDER PART GRE",
+        "Price": "£0.55"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "73200",
+        "Element ID": "74326",
+        "Exact Colour": "WHITE",
+        "Name": "MINI LOWER PART BLAC/WHI",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "73200",
+        "Element ID": "74333",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI LOWER PART BLA/YELL",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "73200",
+        "Element ID": "9327",
+        "Exact Colour": "WHITE",
+        "Name": "MINI BODY LOWER PART WH",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "73200",
+        "Element ID": "9339",
+        "Exact Colour": "BLACK",
+        "Name": "MINI BODY LOWER PART BLACK",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "73200",
+        "Element ID": "9341",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI BODY LOWERPART BLUE",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "73200",
+        "Element ID": "9342",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI BODY LOWERPART RED",
+        "Price": "£0.54"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "73200",
+        "Element ID": "9442",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI BODY LOWERPART BL/R"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "73200",
+        "Element ID": "9444",
+        "Exact Colour": "BLACK",
+        "Name": "MINI BODY LOWER PART R/B"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "73200",
+        "Element ID": "9549",
+        "Exact Colour": "GREY",
+        "Name": "MINI LOWERPART MOUNT GRE"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4221771",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART \"NO. 919\"",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4275338",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1187\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4275341",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1190\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4275397",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1186\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4275460",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1193\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4275461",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 1206\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4275491",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1184\"",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4275535",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1192\"",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4275536",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 1205\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4275540",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 1196\"",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4275585",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 1197\"",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4275591",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 1201\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4275606",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 1204\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4275813",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART \"NO. 1161\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4275815",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART \"NO. 1162\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4275821",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART \"NO. 1163\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4275827",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART \"NO. 1156\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4275833",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART \"NO. 1169\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4275868",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART \"NO. 1170\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4275872",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART \"NO. 1175\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4275873",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART \"NO. 1176\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4275888",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART \"NO. 1166\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4276468",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO.1211"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4276773",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART  \"NO 1212\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "4276774",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART \"NO 1213\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4276775",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART \"NO 1214\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4276777",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART \"NO 1215\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4286394",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NR 1232"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4286399",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 1233"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4287014",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1239",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4287285",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1241",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4288003",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART NO. 1244",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4289520",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO 1247"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4291215",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1250"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4292298",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO 1266",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "4293300",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART NO 1265",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4294800",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"nr 1268\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4295061",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NR 1270\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4295326",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4297409",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NR 1261"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4297722",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART NO. 1285"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4299355",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 1290"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4490732",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO 1291"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4500865",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI UPPER PART NO 1303"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4501222",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NR 1304"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4501543",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NR. 1302"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4502268",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4503757",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NR 1311"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4506513",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1317"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4506814",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART no 1321"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4506827",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO 1318"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4507741",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1320"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4508222",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART NR 1312"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4508362",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4508544",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1271"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4519739",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART \"NO. 1349\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4519938",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART NO. 1351"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4521326",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1359"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4521328",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NO. 1360"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4521331",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO. 1361"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4521335",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1362"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4521505",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART \"NO. 1352\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4521507",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART \"NR 1350\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4521562",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 1356",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "4521984",
+        "Exact Colour": "BR.YEL",
+        "Name": "Mini upperpart no. 1363",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4524698",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART \"NO. 1378\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4527177",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO 1384"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4527738",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO 1386"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4527989",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO 1387"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4535035",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1425"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4539706",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NR 1438\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4540429",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART  NO 1446",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4540445",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART \"NO 1439\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4540686",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART \"NO 1445\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "4540738",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART NO 1444",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4541064",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO 1449\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4542512",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO \"1432\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4542545",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO.\"1433\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4542547",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.\"1434\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4542550",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO.\"1435\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4542888",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART \"NO 1451\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4542890",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART \"NO 1452\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4543811",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART \"NO. 1453\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4544164",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART  1457"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4544608",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO 1460"
     },
     {
         "Category": "Figure parts",
         "Colour Family": "Blue",
         "Design ID": "76382",
         "Element ID": "4548877",
-        "Exact Colour": "Bright blue",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/4548877_s8?$PABspin$",
+        "Exact Colour": "BR.BLUE",
         "Name": "MINI UPPER PART \"NO. 1470\"",
-        "Price": "£0.50"
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4549942",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 1479\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4549988",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 1480\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4551188",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART \"NO. 1490\""
     },
     {
         "Category": "Figure parts",
         "Colour Family": "Black",
         "Design ID": "76382",
-        "Element ID": "6143834",
-        "Exact Colour": "Black",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6143834_s8?$PABspin$",
-        "Name": "MINI UPPER PART NO 2188",
-        "Price": "£0.50"
+        "Element ID": "4552464",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1508\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4552468",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1509\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4552507",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1510\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4552514",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART \"NO. 1511\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4552531",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO 1512\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4552541",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO 1513\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4552554",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART \"NO 1514\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "4552573",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART \"NO 1516\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4552605",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART \"NO. 1517\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4565210",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART \"NO.1549\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4570026",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO 1573\"",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4570036",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 1557"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4570199",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1575\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4570523",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART, NO. 1555"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4570532",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART, NO. 1553"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4570535",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART, NO. 1556"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4570666",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO 1576",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4571223",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO.1581"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4580475",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO. 1585",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4582405",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO \"1587\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4582461",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART NO \"1586\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4583011",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO \"1589\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4583015",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO \"1591\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4584186",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART NO \"1603\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4584199",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART NO \"1606\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4584202",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO \"1607\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4584208",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART NO \"1610\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4585610",
+        "Exact Colour": "SAND GREEN",
+        "Name": "MINI UPPER PART NR. 1635"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4586496",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NO.1621"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4586497",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1622"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4586498",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO.1623"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4586499",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO.1624"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4586500",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI UPPER PART NO.1625"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4586502",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO.1626"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4586503",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.1627",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4586504",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART \"NO.1628\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4586882",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART \"NO. 1617\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4587119",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1655"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4587648",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI UPPER PART"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4598864",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO 1693"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4600359",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO 1694"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4602932",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO 1695"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4612153",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1720",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4612637",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1715"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4612645",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1716"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4612649",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 1717"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4612652",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1718"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4612845",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1719"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4614155",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 1734"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4614518",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 1735"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4614634",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NR. 1737"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4614639",
+        "Exact Colour": "W.GOLD",
+        "Name": "MINI UPPER PART NO. 1738"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4616334",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1741"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4616366",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.1742"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4617522",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1748"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4619618",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1750"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4621280",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 1749"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4621604",
+        "Exact Colour": "SAND GREEN",
+        "Name": "MINI UPPER PART \"NO. 1736\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4622496",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1751"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4623504",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO 1774"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4623600",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1775"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4623964",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART \"NO. 1721\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4623967",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 1722\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4624753",
+        "Exact Colour": "DARK AZUR",
+        "Name": "MINI UPPER PART NO. 1785"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4625823",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART NO. \"1793\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4629943",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART NO. 1800",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4629972",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO. 1801",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4630138",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO 1806"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4637188",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPERBODY NO.1724"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4638373",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART \"NO. 1857\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4646495",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 1879"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4646496",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 1878"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "4646541",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 1881"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4646676",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1882"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4647306",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1883"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4647383",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO.1911"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4647443",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1884"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4647445",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1885"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4647447",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1886"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4647630",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1888"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4647632",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO. 1889"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4647767",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART NO. 1892"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4647900",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPERBODY NO. 1894"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4648983",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1914"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4649274",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART NO. 1918",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "4649705",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "MINI UPPERPART NO. 1919"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4650128",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1895"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4650129",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 1896"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4650130",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1897"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4650131",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1898"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4651057",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1939"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "4651082",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART NO. 1940"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4651201",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART NO. 1943"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4651211",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1944"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4651230",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1941"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4651298",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1942"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4651703",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1901",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "4652350",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 1945"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "4655815",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART \"NR. 1990\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4656487",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART \"NR. 1998\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4656491",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI UPPER PART \"NO. 1999\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "4658182",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 2006\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "4659729",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART \"NR. 2012\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "4668632",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 1880"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6000844",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO 2036"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6005001",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NR. 2074\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6005362",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART \"NO. 2072\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6006005",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1904"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6006006",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 1905"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6006007",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART NO. 1906"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6006038",
+        "Exact Colour": "DK. BROWN",
+        "Name": "MINI UPPER PART NO. 2093"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6008291",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NO. 2124"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6008796",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2129"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6009516",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6011038",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2141"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6015927",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2059"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6016136",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART NO.2175"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6018409",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART No. 2186"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6018492",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO 2188"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6018493",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO 2187"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6018496",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO 2189"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6018507",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART NO 2190",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6018686",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO 2196"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6021074",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2192"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6021860",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO 2249",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6022350",
+        "Exact Colour": "SAND GREEN",
+        "Name": "MINI UPPER PART \"NR. 1994\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6022385",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 1188\"",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6022401",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO 1776",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6022406",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 2084",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6022417",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART \"NO. 1173\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6022432",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 2100\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6022434",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART  NO. 2010"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6022444",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART \"NO. 2102\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6022452",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART \"NO. 1160\"",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6022454",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART NO. 2060"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6022455",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2061"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6022465",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 2037"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6022466",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2097"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6022479",
+        "Exact Colour": "DK. BROWN",
+        "Name": "MINI UPPER PART NO. 2071"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6022484",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NO 2035"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6022488",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2083"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6022497",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 2101"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6022545",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 2224"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6022550",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART NO.2229"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6022562",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2241"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6022566",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI UPPER PART NO. 2245"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6023458",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART NO. 1946"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6023459",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.1629",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6023553",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 1773"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6023556",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART \"NO. 1164\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6023572",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 1240",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6023594",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPERPART NO. 1443",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6023600",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART \"NO 1440\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6023605",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NO.1621",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6023608",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART \"NO 1441\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6023650",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART NO. 1697",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6023666",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1633",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6023918",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6023965",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART NO \"2274\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6024018",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO. 1183",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6024067",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART NO. 2001",
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6028032",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NO. 2234"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6029181",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO 2292",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6029777",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 2300"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6029944",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2308"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6031080",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1903"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6031085",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO 1580\"",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6031891",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO 2334"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6031982",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART \"NO. 1182\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6032023",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1775"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6032070",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 1783",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6032079",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1902"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6032091",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 1976",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6032093",
+        "Exact Colour": "BR.GREEN",
+        "Name": "MINI UPPER PART NO 1772",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6032107",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO 1859",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6032123",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 1995"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6032144",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO 1947",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6032165",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NR. 1238",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6032232",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART no 1485",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6032668",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2059"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6032681",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO 2335"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6035126",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO 2351"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6035319",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2356"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6037431",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "MINI UPPER PART NO 2368"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6038271",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO 2372"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6039757",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2390"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6039758",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 2391"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6039759",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 2392"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6039760",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 2393",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6039761",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2394"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6039762",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2395"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6039763",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2396"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6039889",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 2401"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6043327",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART NO. 2440"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6047567",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART NO 2465"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6054542",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 2470"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6054649",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2472"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6054664",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2473"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6054670",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 2474",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6054687",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 2476",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6054876",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 2477"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6054931",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 2478"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6054972",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 2479"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6055050",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO 2480"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6055116",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 2482"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6055271",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART NO 2486"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6055507",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 2500",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6055887",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NR. 2501"
     },
     {
         "Category": "Figure parts",
         "Colour Family": "White",
         "Design ID": "76382",
         "Element ID": "6056258",
-        "Exact Colour": "White",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6056258_s8?$PABspin$",
+        "Exact Colour": "WHITE",
         "Name": "MINI UPPER PART NO. 2502",
-        "Price": "£0.50"
+        "Price": "£0.59"
     },
     {
         "Category": "Figure parts",
-        "Colour Family": "Bright Orange",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6056326",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2503",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6056458",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 2504",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6056856",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2531"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6056859",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2532"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6057028",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART NO. 2536"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6057369",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART NO. 2537"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6057400",
+        "Exact Colour": "DK. BROWN",
+        "Name": "MINI UPPER PART NO. 2570"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6057422",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 2571"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6057719",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 2574"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6057730",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 2581",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6057767",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2575"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6057775",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2576"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6057794",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2578"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6057819",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2579"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6057840",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2583"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6058302",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2584"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6058788",
+        "Exact Colour": "DK. BROWN",
+        "Name": "MINI UPPER PART NO. 2586",
+        "Price": "£0.68"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6061595",
+        "Exact Colour": "DARK AZUR",
+        "Name": "MINI UPPER PART NO. 2589"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6063282",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 2563",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6063939",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPERBODY NO. 2557",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6065076",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPERBODY NO. 2561"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6065079",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 2567"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6065080",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPERBODY NO. 2562"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6065120",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART NO.2564"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6068060",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO.2641"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6068082",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NO. 2569"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6073082",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2663"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6073090",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO. 2661"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6073157",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 2665"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6073178",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 2666"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6073600",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 2668"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6073752",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 2669"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6073777",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 2671"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6074013",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART NO. 2672"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6074402",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO 2673"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6074740",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 2676"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6074804",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO 2677"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6074864",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART NO.2678"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6074917",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART NO. 2679"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6074946",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 2680"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6075200",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 2685",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6075284",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO 2688"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6076156",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO 2693"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6079859",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART \"NO 2762\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6095768",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2815"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6097241",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.2822",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6097434",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART NO.2823"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6097582",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO.2824"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6099402",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2866"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6099418",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO.2825"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6099653",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 2846"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6099707",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2847"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6099718",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 2848"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6099719",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART 2849"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6099767",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART NO. 2851"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6099779",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 2853"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6099780",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2854",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6099782",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.2829"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6099786",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 2855",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6099788",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART NO. 2856"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6099810",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2860"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6100023",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART NO. 2867",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6100042",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 2830"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6100053",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART NO. 2869"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6100062",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NO.2861",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6100075",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2862"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6100429",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2874",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6100568",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2876"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6100647",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART NO 2877"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6100765",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART NO 2879"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6100770",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2880"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6100796",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART NO. 2827"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6100844",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART NO. 2875",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6100951",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO 2883"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6101835",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO 2887"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6102072",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI UPPER PART NO 2893"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6102340",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART NO. 2863"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6102344",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO 2900"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6102371",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART NO. 2901"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6102398",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART NO. 2902"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6102408",
+        "Exact Colour": "DK.ORA",
+        "Name": "MINI UPPER PART NO 2904"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6102482",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART 2905"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6102521",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART 2828"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6102566",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO. 2885",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6102579",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART NO 2912"
+    },
+    {
+        "Category": "Figure parts",
         "Design ID": "76382",
         "Element ID": "6102597",
-        "Exact Colour": "Bright orange",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6102597_s8?$PABspin$",
+        "Exact Colour": "BR.ORANGE",
         "Name": "MINI UPPER PART NO. 2913",
-        "Price": "£0.50"
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6102687",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 2886"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6102696",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO.2907"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6103202",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI OVERKROP NR. 2925",
+        "Price": "£0.90"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6103208",
+        "Exact Colour": "WHITE",
+        "Name": "MINI OVERKROP NR. 2924",
+        "Price": "£0.88"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6103414",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2930",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6103711",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART NO. 2931"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6103876",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART NO. 2826"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6104351",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2942"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6104574",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2935"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6106445",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART NO. 2927"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6107228",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 2955",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Purple",
+        "Design ID": "76382",
+        "Element ID": "6107399",
+        "Exact Colour": "LGH. PURPLE",
+        "Name": "MINI UPPER PART NO. 2923",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6109525",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO. 2991"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6109654",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2992",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6109832",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.2966"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6112219",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO. 2998",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6112230",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 2999",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6112885",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART \"NO. 2722\""
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6112890",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.3009"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6113983",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 3010",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6114749",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 3018",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6114954",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO.3018"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6115008",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI UPPER PART NO 3020"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6115196",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 2665"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6115582",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO 3021"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6115894",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART \"NO. 3028\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6116008",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO 3027"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Purple",
+        "Design ID": "76382",
+        "Element ID": "6116640",
+        "Exact Colour": "LGH. PURPLE",
+        "Name": "MINI UPPER PART NO. 3017",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6116647",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 3042"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6116668",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART NO.2605",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6116690",
+        "Exact Colour": "DARK AZUR",
+        "Name": "MINI UPPER PART NO. 3045",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6116697",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART NO. 3046"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6116712",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 3039"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6116730",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART NO. 3043"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6116961",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART NO. 3041"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6117015",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI UPPER PART NO. 3040"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6117061",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 3032",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6117069",
+        "Exact Colour": "SAND GREEN",
+        "Name": "MINI UPPER PART NO. 3037"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6117079",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART NO. 3036",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6117082",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 3034",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6117084",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 3033",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6117141",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO.3053"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6117567",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3031",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6120210",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART NO. 3080",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6120213",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 3081\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6120214",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART \"NO. 3082\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6120219",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART \"NO. 3084\"",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6122259",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO.3101"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6122280",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 3102"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6122365",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI UPPER PART NO. 3103"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6122436",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI UPPER PART NO. 3105"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6122585",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3104"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6123036",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 3127"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6123735",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART NO. 3128",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6123948",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART NO. 3131",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6123985",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART NO. 3140",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6124267",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART NO. 3142",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6124656",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3143",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6124855",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 3149",
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6124883",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 3150",
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6124899",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 3151",
+        "Price": "£0.64"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6124926",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 3152",
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6125671",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 3153"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6125685",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.3160"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6125688",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.3161",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6125693",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO.3162",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6125699",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.3163",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6125703",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO.3164",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6126984",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.3153",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6127357",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "MINI UPPER PART NO 3174",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6129010",
+        "Exact Colour": "DK. BROWN",
+        "Name": "MINI UPPER PART NO 3181",
+        "Price": "£0.66"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6129780",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.3192",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6129791",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.3191",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6131580",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 3190",
+        "Price": "£0.64"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6131713",
+        "Exact Colour": "W.GOLD",
+        "Name": "MINI UPPER PART NO. 3194"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6131821",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.3195",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6132259",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART NO. 3199"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6132287",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3200",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6132293",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 3202"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6132314",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 3201"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6132595",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 3205",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6132659",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 3206",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6132663",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO.3207",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6132673",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3209",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6132676",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART \"NO. 3213\""
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6132687",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART NO. 3210",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6132688",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART \"NO. 3212\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6132738",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3211",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6132814",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART NO. 3208",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6132846",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART NO. 3214",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6132869",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART NO. 3215",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6133680",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.3240",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6133689",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.3241"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6136848",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART NO. 3255",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6138229",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART NO. 3256",
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6138609",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART NO. 3259",
+        "Price": "£0.64"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6139018",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO 3264",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6139450",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART NO. 3268",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6139527",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO 3263",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6141824",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART \"NO. 3282\"",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6141862",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 3253",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6141867",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "MINI UPPER PART  NO. 3276",
+        "Price": "£0.74"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6141880",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 3277"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6143830",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO 2189"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6143834",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO 2188"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6143839",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI UPPER PART NO 2692"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6144365",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.3344"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6148134",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART NO.3360",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6150282",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 1187"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6150613",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.3370",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6151386",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI UPPER PART NO.3388",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6151409",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI UPPER PART NO.3389",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6151433",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI UPPER PART NO. 3390",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6152085",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 3415",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6152106",
+        "Exact Colour": "SILVER MET.",
+        "Name": "MINI UPPER PART NO. 3402",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6152194",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3403",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6152437",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 3435",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6152450",
+        "Exact Colour": "MEDIUM LAVENDER",
+        "Name": "MINI UPPER PART NO. 3424",
+        "Price": "£0.68"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6152679",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO.3425",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6152683",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART NO. 3426",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6152800",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "MINI UPPER PART NO. 3427",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6153136",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 3429",
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6153137",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3430",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6153138",
+        "Exact Colour": "DARK AZUR",
+        "Name": "MINI UPPER PART NO.3431",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6153139",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.3432",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Purple",
+        "Design ID": "76382",
+        "Element ID": "6153140",
+        "Exact Colour": "LGH. PURPLE",
+        "Name": "MINI UPPER PART NO.3433",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6153141",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART NO.3434",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6153429",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART, NO. 3482",
+        "Price": "£0.66"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6153512",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 3451",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6153835",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.3479",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6153891",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO.3477",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6155096",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.3485",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6155220",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART NO. 3489",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6155227",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3490",
+        "Price": "£0.59"
     },
     {
         "Category": "Figure parts",
         "Colour Family": "Red",
         "Design ID": "76382",
         "Element ID": "6155234",
-        "Exact Colour": "Bright red",
-        "Image": "https://sh-s7-live-s.legocdn.com/is/image/LEGOPCS/6155234_s8?$PABspin$",
+        "Exact Colour": "BR.RED",
         "Name": "MINI UPPER PART NO. 3491",
-        "Price": "£0.50"
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6155270",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 3492",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6155272",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART NO. 3493",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6157703",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3510",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6162484",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART, NO. 3552",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6163060",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 3558",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6164525",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART, NO. 3559",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6164527",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART, NO. 3583",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6164529",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART NO. 3582",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6167909",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART, NO. 3589",
+        "Price": "£0.66"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6169964",
+        "Exact Colour": "FL. YELL-ORA",
+        "Name": "MINI UPPER PART NO. 3592",
+        "Price": "£0.66"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6170090",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART NO. 3593",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6170276",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART NO. 3604",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6170885",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3606",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6170900",
+        "Exact Colour": "DK.GREEN",
+        "Name": "MINI UPPER PART NO. 3607",
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6171749",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART, NO. 3614",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6172536",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART NO. 3627",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6172575",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3628",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6172751",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3630",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6173621",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART NO. 3605",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6173660",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART, NO. 3638",
+        "Price": "£0.97"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6174218",
+        "Exact Colour": "DARK AZUR",
+        "Name": "MINI UPPER PART NO. 3651",
+        "Price": "£0.66"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6174502",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3653",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6174817",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3655",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6174826",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3659",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6175988",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO.3684"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6176217",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART, NO. 3688",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6176243",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO.3681",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6176244",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3732",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6176441",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART, NO. 3693",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6176513",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART, NO. 3694",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6176658",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART, NO. 3699",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6176666",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3700",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6176783",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3708",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6176786",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART, NO. 3710",
+        "Price": "£0.66"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6177003",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART, NO. 3713",
+        "Price": "£0.67"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6177065",
+        "Exact Colour": "DK.ORA",
+        "Name": "MINI UPPER PART, NO.3714",
+        "Price": "£0.65"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6177568",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART, NO. 3727",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6177771",
+        "Exact Colour": "EARTH GREEN",
+        "Name": "MINI UPPER PART, NO. 3728",
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6178072",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3640",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6178241",
+        "Exact Colour": "LGH. ROY. BLUE",
+        "Name": "MINI UPPER PART, NO. 3747"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6178696",
+        "Exact Colour": "M. NOUGAT",
+        "Name": "MINI UPPER PART, NO. 3749",
+        "Price": "£0.66"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6178966",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3750",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6179212",
+        "Exact Colour": "DK.ORA",
+        "Name": "MINI UPPER PART, NO. 3752"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6179311",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART, NO. 3753",
+        "Price": "£0.61"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6181859",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3769",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6181864",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3772",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6181869",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3771"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6181891",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART, NO. 3773",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6182209",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART, NO. 3776"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6182326",
+        "Exact Colour": "DK.ORA",
+        "Name": "MINI UPPER PART, NO. 3781"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6182407",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3782"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6182699",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART, NO. 3784"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6182771",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3785"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6182805",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART, NO. 3787"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6182856",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART, NO. 3786"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6184842",
+        "Exact Colour": "BR.ORANGE",
+        "Name": "MINI UPPER PART, NO. 3800"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6185450",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART, NO. 3805",
+        "Price": "£0.62"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6185504",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3810",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6185515",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART, NO. 3811",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6185541",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART, NO. 3812",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6186014",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6186335",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART NO. 3602",
+        "Price": "£0.67"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6187299",
+        "Exact Colour": "DARK AZUR",
+        "Name": "MINI UPPER PART, NO. 3827"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6187343",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3828"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6187500",
+        "Exact Colour": "DK.ORA",
+        "Name": "MINI UPPER PART, NO. 3831"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6188164",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART, NO. 3836"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6188224",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3839"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Purple",
+        "Design ID": "76382",
+        "Element ID": "6188287",
+        "Exact Colour": "L.NOUGAT",
+        "Name": "MINI UPPER PART, NO. 3843"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6188489",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART, NO. 3845"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6188505",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART, NO. 3840"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6188602",
+        "Exact Colour": "TITAN. METAL.",
+        "Name": "MINI UPPER PART, NO. 3841"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6188606",
+        "Exact Colour": "COOL YEL.",
+        "Name": "MINI UPPER PART, NO. 3842"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6188776",
+        "Exact Colour": "TITAN. METAL.",
+        "Name": "MINI UPPER PART, NO. 3848"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6188944",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3849",
+        "Price": "£0.59"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6189002",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART, NO. 3837"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6189038",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART, NO. 3852"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6189111",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3853"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6189321",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3854"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6190009",
+        "Exact Colour": "TITAN. METAL.",
+        "Name": "MINI UPPER PART, NO. 3862"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6190316",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART, NO. 3863"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6190334",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART, NO. 3864"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6190393",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART, NO. 3867"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6191981",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART, NO. 3868"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6192002",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART, NO. 3874",
+        "Price": "£0.67"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6192019",
+        "Exact Colour": "OLIVE GREEN",
+        "Name": "MINI UPPER PART, NO. 3873"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6192044",
+        "Exact Colour": "RED. BROWN",
+        "Name": "MINI UPPER PART, NO. 3869"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6192107",
+        "Exact Colour": "BR.RED",
+        "Name": "MINI UPPER PART, NO. 3876"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Yellow",
+        "Design ID": "76382",
+        "Element ID": "6192136",
+        "Exact Colour": "BR.YEL",
+        "Name": "MINI UPPER PART, NO. 3809",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6192188",
+        "Exact Colour": "AQUA",
+        "Name": "MINI UPPER PART, NO. 3870"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6192207",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART, NO. 3871"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6192387",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART, NO. 3877"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6192409",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART, NO. 3878"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6192571",
+        "Exact Colour": "DK. ST. GREY",
+        "Name": "MINI UPPER PART, NO. 3889"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6192609",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART, NO. 3879"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6192713",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO. 3880"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6192723",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART NO.3888"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6192747",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3814"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6192763",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3813"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6192789",
+        "Exact Colour": "BR.YEL-GREEN",
+        "Name": "MINI UPPER PART, NO. 3815"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6192807",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3816"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6193758",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3890"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6193838",
+        "Exact Colour": "DARK AZUR",
+        "Name": "MINI UPPER PART, NO. 3817"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6193929",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3892"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6193945",
+        "Exact Colour": "SAND BLUE",
+        "Name": "MINI UPPER PART, NO. 3893"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6194147",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART, NO. 3894"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6194330",
+        "Exact Colour": "MED. ST-GREY",
+        "Name": "MINI UPPER PART, NO. 3896"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6194887",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART, NO. 3799",
+        "Price": "£0.60"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6194932",
+        "Exact Colour": "BR.BLUE",
+        "Name": "MINI UPPER PART, NO. 3903"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "White",
+        "Design ID": "76382",
+        "Element ID": "6195022",
+        "Exact Colour": "WHITE",
+        "Name": "MINI UPPER PART, NO. 3759",
+        "Price": "£0.64"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6195168",
+        "Exact Colour": "SAND YELLOW",
+        "Name": "MINI UPPER PART, NO. 3865"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Grey",
+        "Design ID": "76382",
+        "Element ID": "6195172",
+        "Exact Colour": "TITAN. METAL.",
+        "Name": "MINI UPPER PART, NO. 3904"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6195236",
+        "Exact Colour": "BRICK-YEL",
+        "Name": "MINI UPPER PART, NO. 3905"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6195243",
+        "Exact Colour": "MD.BLUE",
+        "Name": "MINI UPPER PART, NO. 3906"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6195739",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3921"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6195746",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3922"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6195790",
+        "Exact Colour": "W.GOLD",
+        "Name": "MINI UPPER PART, NO. 3924"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6195795",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART, NO. 3925"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6196904",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3923"
+    },
+    {
+        "Category": "Figure parts",
+        "Design ID": "76382",
+        "Element ID": "6196909",
+        "Exact Colour": "M. LILAC",
+        "Name": "MINI UPPER PART, NO. 3928"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Blue",
+        "Design ID": "76382",
+        "Element ID": "6197081",
+        "Exact Colour": "EARTH BLUE",
+        "Name": "MINI UPPER PART, NO. 3960"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Black",
+        "Design ID": "76382",
+        "Element ID": "6197129",
+        "Exact Colour": "BLACK",
+        "Name": "MINI UPPER PART, NO. 3965"
+    },
+    {
+        "Category": "Figure parts",
+        "Colour Family": "Red",
+        "Design ID": "76382",
+        "Element ID": "6197196",
+        "Exact Colour": "NEW DARK RED",
+        "Name": "MINI UPPER PART, NO. 3964"
     }
 ]
